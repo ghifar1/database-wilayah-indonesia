@@ -107,8 +107,9 @@ const collectData = async (level: LevelTree, parent: string, periode_merge: stri
             await collectData(level.children, d.kode_bps, periode_merge)
         }
 
-        // check level exist in array
-
+        // replace newline with space
+        d.nama_dagri = d.nama_dagri.replace(/\n/g, " ")
+        d.nama_bps = d.nama_bps.replace(/\n/g, " ")
 
         // push data to array
         tmpArray.push(`${parent != "0" ? `${parent},` : ""}${d.kode_bps},${d.nama_bps},${d.kode_dagri},${d.nama_dagri}`)
