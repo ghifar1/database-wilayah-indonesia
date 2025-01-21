@@ -1,4 +1,5 @@
 import * as fs from "fs"
+import { flockSync } from "fs-ext"
 import * as cli from "cli-progress"
 
 const apiPath = "https://sig.bps.go.id"
@@ -26,10 +27,16 @@ const getPeriode = async (): Promise<Array<Periode>> => {
     return data
 }
 
-const getData = async (level: string, parent: string, periode_merge: string): Promise<Array<Wilayah>> => {
+const getData = async (level: string, parent: string, periode_merge: string, attempt = 0): Promise<Array<Wilayah>> => {
     const response = await fetch(`${apiPath}/rest-bridging/getwilayah?level=${level}&parent=${parent}&periode_merge=${periode_merge}`)
     if (!response.ok) {
-        throw new Error("Failed to fetch data")
+        console.log("Failed to fetch data", response.status)
+        if (attempt >= 5) {
+            throw new Error("Failed to fetch data")
+        }
+        await delay(3000)
+        return await getData(level, parent, periode_merge, attempt + 1)
+        // throw new Error("Failed to fetch data")
     }
     const data = await response.json()
     return data
@@ -45,6 +52,9 @@ const writeCsv = async (name: string, temporaryCsvArray: Array<string>) => {
 }
 
 const writeOrAppendCsv = async (name: string, temporaryCsvArray: Array<string>, header: string) => {
+    // implement flock
+    const fd = fs.openSync(name, "a")
+    flockSync(fd, "ex")
     if (fs.existsSync(name)) {
         // add newline to first element
         temporaryCsvArray.unshift("")
@@ -54,6 +64,7 @@ const writeOrAppendCsv = async (name: string, temporaryCsvArray: Array<string>, 
         temporaryCsvArray.unshift(header)
         writeCsv(name, temporaryCsvArray)
     }
+    fs.closeSync(fd)
 }
 
 type LevelTree = {
@@ -75,7 +86,7 @@ const levelTree = {
 }
 
 const multibarProgress = new cli.MultiBar({
-    clearOnComplete: false,
+    clearOnComplete: true,
     hideCursor: true,
     format: "{bar} | {processname} - {percentage}% | {value}/{total} | ETA: {eta}s",
     barCompleteChar: "\u2588",
@@ -83,43 +94,83 @@ const multibarProgress = new cli.MultiBar({
     linewrap: true
 })
 
-const tmpCsvArr: Array<{
-    level_name: string
-    array: Array<string>
-}> = []
+const duplicateBpsChecker = (array: Array<string>, data: Wilayah, lastIncrement: "lower" | "upper" | null = null, increment = 0) => {
+    const isDuplicate = array.find((x) => x.split(",")[1].includes(data.kode_bps))
+
+    if (isDuplicate) {
+        console.log(`duplicate ${data.kode_bps} - ${data.nama_bps} on ${isDuplicate}`)
+        // const kodeBps = parseInt(data.kode_bps)
+        // if (!lastIncrement || lastIncrement === "upper") {
+        //     data.kode_bps = (kodeBps - (Math.abs(increment) + 1)).toString()
+        // } else if (lastIncrement === "lower") {
+        //     data.kode_bps = (kodeBps + (Math.abs(increment) + 1)).toString()
+        // }
+        // return duplicateBpsChecker(array, data, lastIncrement === "upper" ? "lower" : "upper", increment + 1)
+        // set zero for now
+        data.kode_bps = "0"
+    }
+
+    return data
+}
+
+const sanitizeString = (str: string) => {
+    str = str.replace(/\n/g, " ")
+    str = str.replace(/"/g, "'")
+    return str
+}
+
+const maxParallel = 20
+let parallel = 0
+
+const parallelBar = multibarProgress.create(maxParallel, 0, { processname: "parallel" })
+
+parallelBar.update(0, { processname: "parallel" })
 
 const collectData = async (level: LevelTree, parent: string, periode_merge: string) => {
-    // let levelIndex = tmpCsvArr.findIndex((x) => x.level_name === level.level_name)
-    // if (levelIndex === -1) {
-    //     tmpCsvArr.push({ level_name: level.level_name, array: [] })
-    //     levelIndex = tmpCsvArr.length - 1
-    // }
+    parallelBar.update(parallel, { processname: "parallel" })
     const tmpArray: Array<string> = []
+    let bar: cli.SingleBar | null = null
 
     const data = await getData(level.level_name, parent, periode_merge)
-    const bar = multibarProgress.create(data.length, 0, { processname: `${level.level_name}` })
+    if (level.level_name === "provinsi" || level.level_name === "kabupaten-kota" || level.level_name === "kecamatan") {
+        bar = multibarProgress.create(data.length, 0, { processname: `${level.level_name}` })
+    }
 
     for (const d of data) {
-        bar.increment(1, {
-            processname: `${level.level_name} ${d.nama_bps}`
+        bar?.increment(1, {
+            processname: `${level.level_name} ${sanitizeString(d.nama_bps)}`
         })
         if (level.children) {
-            await collectData(level.children, d.kode_bps, periode_merge)
+            if (level.level_name === "kabupaten-kota") {
+                while (parallel >= maxParallel) {
+                    await delay(2000)
+                }
+                parallel++
+                collectData(level.children, d.kode_bps, periode_merge).finally(() => {
+                    parallel--
+                })
+            } else {
+                await collectData(level.children, d.kode_bps, periode_merge)
+            }
+
         }
 
-        // replace newline with space
-        d.nama_dagri = d.nama_dagri.replace(/\n/g, " ")
-        d.nama_bps = d.nama_bps.replace(/\n/g, " ")
+        d.nama_dagri = sanitizeString(d.nama_dagri)
+        d.nama_bps = sanitizeString(d.nama_bps)
+
+        const data = duplicateBpsChecker(tmpArray, d)
 
         // push data to array
-        tmpArray.push(`${parent != "0" ? `${parent},` : ""}${d.kode_bps},${d.nama_bps},${d.kode_dagri},${d.nama_dagri}`)
-        // await delay(10)
+        tmpArray.push(`${parent != "0" ? `${parent},` : ""}${data.kode_bps},"${data.nama_bps}",${data.kode_dagri},"${data.nama_dagri}"`)
+        await delay(100)
     }
     const header = `${parent != "0" ? "parent_id," : ""}kode_bps,nama_bps,kode_dagri,nama_dagri`
     writeOrAppendCsv(`data/${level.level_name}.csv`, tmpArray, header)
 
-    bar.stop()
-    multibarProgress.remove(bar)
+    bar?.stop()
+    if (bar) {
+        multibarProgress.remove(bar)
+    }
 }
 
 const start = async () => {
@@ -130,6 +181,8 @@ const start = async () => {
     console.log("last periode", lastPeriode)
 
     await collectData(levelTree, "0", lastPeriode.kode)
+
+    // multibarProgress.stop()
 
     // for (const csv of tmpCsvArr) {
     //     await writeCsv(`data/${csv.level_name}.csv`, csv.array)

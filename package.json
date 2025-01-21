@@ -10,12 +10,14 @@
   "description": "",
   "devDependencies": {
     "@types/cli-progress": "^3.11.6",
+    "@types/fs-ext": "^2.0.3",
     "cli-progress": "^3.12.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
   },
   "dependencies": {
+    "fs-ext": "^2.1.1",
     "tsc": "^2.0.4"
   }
 }
