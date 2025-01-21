@@ -1,0 +1,21 @@
+{
+  "name": "bps-to-csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.6",
+    "cli-progress": "^3.12.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
