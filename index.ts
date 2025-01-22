@@ -119,7 +119,7 @@ const sanitizeString = (str: string) => {
     return str
 }
 
-const maxParallel = 20
+const maxParallel = 7
 let parallel = 0
 
 const parallelBar = multibarProgress.create(maxParallel, 0, { processname: "parallel" })
@@ -173,6 +173,30 @@ const collectData = async (level: LevelTree, parent: string, periode_merge: stri
     }
 }
 
+const orderCsv = async () => {
+    const csvArray = fs.readdirSync("data").filter((x) => x.endsWith(".csv"))
+    for (const csv of csvArray) {
+        const data = fs.readFileSync(`data/${csv}`, "utf8")
+        const dataArray = data.split("\n")
+        const header = dataArray[0]
+        dataArray.shift()
+
+        // check if data has parent_id
+        const hasParent = header.includes("parent_id")
+        const sortedArray = dataArray.sort((a, b) => {
+            const aSplit = a.split(",")
+            const bSplit = b.split(",")
+            if (hasParent) {
+                return parseInt(aSplit[0]) - parseInt(bSplit[0])
+            }
+            return parseInt(aSplit[1]) - parseInt(bSplit[1])
+        })
+
+        sortedArray.unshift(header)
+        writeCsv(`data/${csv}`, sortedArray)
+    }
+}
+
 const start = async () => {
     const listPeriode = await getPeriode()
     console.log("list periode", listPeriode)
@@ -181,6 +205,9 @@ const start = async () => {
     console.log("last periode", lastPeriode)
 
     await collectData(levelTree, "0", lastPeriode.kode)
+
+    await orderCsv()
+    console.log("done")
 
     // multibarProgress.stop()
 
