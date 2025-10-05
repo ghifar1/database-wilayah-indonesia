@@ -18,28 +18,44 @@ type Wilayah = {
 
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
 
-const getPeriode = async (): Promise<Array<Periode>> => {
-    const response = await fetch(`${apiPath}/rest-drop-down/getperiode`)
-    if (!response.ok) {
-        throw new Error("Failed to fetch data")
+const maxFetchAttempts = 7
+
+const getPeriode = async (attempt = 0): Promise<Array<Periode>> => {
+    try {
+        const response = await fetch(`${apiPath}/rest-drop-down/getperiode`)
+        if (!response.ok) {
+            throw new Error(`Failed to fetch data: ${response.status}`)
+        }
+        const data = await response.json()
+        return data
+    } catch (error) {
+        const errorMessage = error instanceof Error ? error.message : String(error)
+        console.log(`Failed to fetch periode (attempt ${attempt + 1}): ${errorMessage}`)
+        if (attempt >= maxFetchAttempts - 1) {
+            throw new Error("Failed to fetch periode after multiple attempts")
+        }
+        await delay(3000)
+        return getPeriode(attempt + 1)
     }
-    const data = await response.json()
-    return data
 }
 
 const getData = async (level: string, parent: string, periode_merge: string, attempt = 0): Promise<Array<Wilayah>> => {
-    const response = await fetch(`${apiPath}/rest-bridging/getwilayah?level=${level}&parent=${parent}&periode_merge=${periode_merge}`)
-    if (!response.ok) {
-        console.log("Failed to fetch data", response.status)
-        if (attempt >= 5) {
-            throw new Error("Failed to fetch data")
+    try {
+        const response = await fetch(`${apiPath}/rest-bridging/getwilayah?level=${level}&parent=${parent}&periode_merge=${periode_merge}`)
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`)
+        }
+        const data = await response.json()
+        return data
+    } catch (error) {
+        const errorMessage = error instanceof Error ? error.message : String(error)
+        console.log(`Failed to fetch data for level ${level} parent ${parent} (attempt ${attempt + 1}): ${errorMessage}`)
+        if (attempt >= maxFetchAttempts - 1) {
+            throw new Error("Failed to fetch data after multiple attempts")
         }
         await delay(3000)
         return await getData(level, parent, periode_merge, attempt + 1)
-        // throw new Error("Failed to fetch data")
     }
-    const data = await response.json()
-    return data
 }
 
 const writeCsv = async (name: string, temporaryCsvArray: Array<string>) => {
@@ -52,19 +68,32 @@ const writeCsv = async (name: string, temporaryCsvArray: Array<string>) => {
 }
 
 const writeOrAppendCsv = async (name: string, temporaryCsvArray: Array<string>, header: string) => {
-    // implement flock
     const fd = fs.openSync(name, "a")
-    flockSync(fd, "ex")
-    if (fs.existsSync(name)) {
-        // add newline to first element
-        temporaryCsvArray.unshift("")
+    try {
+        flockSync(fd, "ex")
+        const stats = fs.fstatSync(fd)
+        if (stats.size === 0) {
+            temporaryCsvArray.unshift(header)
+        } else {
+            temporaryCsvArray.unshift("")
+        }
         const csv = temporaryCsvArray.join("\n")
-        fs.appendFileSync(name, csv)
-    } else {
-        temporaryCsvArray.unshift(header)
-        writeCsv(name, temporaryCsvArray)
+        fs.writeSync(fd, csv)
+    } finally {
+        fs.closeSync(fd)
     }
-    fs.closeSync(fd)
+}
+
+const cleanupOutputFiles = () => {
+    if (!fs.existsSync("data")) {
+        return
+    }
+    const files = fs.readdirSync("data")
+    for (const file of files) {
+        if (file.endsWith(".csv") || file.endsWith(".sql")) {
+            fs.unlinkSync(`data/${file}`)
+        }
+    }
 }
 
 type LevelTree = {
@@ -201,10 +230,22 @@ const start = async () => {
     const listPeriode = await getPeriode()
     console.log("list periode", listPeriode)
 
-    const lastPeriode = listPeriode[listPeriode.length - 1]
-    console.log("last periode", lastPeriode)
+    if (!listPeriode.length) {
+        throw new Error("Periode list is empty")
+    }
 
-    await collectData(levelTree, "0", lastPeriode.kode)
+    const currentYear = new Date().getFullYear().toString()
+    const periodeWithCurrentYear = listPeriode.find((periode) => {
+        const bpsYear = periode.kode.split("_")[0]
+        return bpsYear === currentYear || periode.nama.includes(currentYear)
+    })
+
+    const selectedPeriode = periodeWithCurrentYear ?? listPeriode[0]
+    console.log("selected periode", selectedPeriode)
+
+    cleanupOutputFiles()
+
+    await collectData(levelTree, "0", selectedPeriode.kode)
 
     await orderCsv()
     console.log("done")
