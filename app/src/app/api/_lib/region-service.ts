@@ -34,26 +34,30 @@ type LevelConfig = {
     parent: LevelKey | null
 }
 
-const levelConfig: Record<LevelKey, LevelConfig> = {
+const levelConfig: Record<LevelKey, LevelConfig & { filename: string }> = {
     "provinsi": {
         folder: "provinsi",
-        parent: null
+        parent: null,
+        filename: "provinsi.csv"
     },
     "kabupaten-kota": {
         folder: "kabupaten-kota",
-        parent: "provinsi"
+        parent: "provinsi",
+        filename: "kabupaten-kota.csv"
     },
     "kecamatan": {
         folder: "kecamatan",
-        parent: "kabupaten-kota"
+        parent: "kabupaten-kota",
+        filename: "kecamatan.csv"
     },
     "kelurahan-desa": {
         folder: "kelurahan-desa",
-        parent: "kecamatan"
+        parent: "kecamatan",
+        filename: "kelurahan-desa.csv"
     }
 }
 
-const dataRoot = path.resolve(process.cwd(), "..", "json")
+const dataRoot = path.resolve(process.cwd(), "..", "data")
 
 class RegionError extends Error {
     status: number
@@ -104,48 +108,109 @@ const formatRegion = (record: RegionRecord, view: ViewKey): RegionResponseItem =
     }
 }
 
+const parseCsvRow = (row: string): Array<string> => {
+    const cells: Array<string> = []
+    let current = ""
+    let inQuotes = false
+    for (let i = 0; i < row.length; i++) {
+        const char = row[i]
+        if (char === "\"") {
+            if (inQuotes && row[i + 1] === "\"") {
+                current += "\""
+                i++
+            } else {
+                inQuotes = !inQuotes
+            }
+        } else if (char === "," && !inQuotes) {
+            cells.push(current)
+            current = ""
+        } else {
+            current += char
+        }
+    }
+    cells.push(current)
+    return cells
+}
+
 const readLevelData = async (level: LevelKey): Promise<LevelDataset> => {
     if (!cache.has(level)) {
         cache.set(level, (async () => {
             const config = levelConfig[level]
-            const dir = path.join(dataRoot, config.folder)
-            const entries = await fs.readdir(dir, { withFileTypes: true })
+            const filePath = path.join(dataRoot, config.filename)
+            const raw = await fs.readFile(filePath, "utf8")
             const records: Array<RegionRecord> = []
             const byIdBps = new Map<string, RegionRecord>()
             const byIdDagri = new Map<string, RegionRecord>()
             const byParentBps = new Map<string, Array<RegionRecord>>()
             const byParentDagri = new Map<string, Array<RegionRecord>>()
-            for (const entry of entries) {
-                if (!entry.isFile() || !entry.name.endsWith(".json")) {
+            const lines = raw.split(/\r?\n/)
+            const header = lines.shift() ?? ""
+            const headerCells = parseCsvRow(header).map(cell => cell.trim())
+            const hasParentColumns = headerCells.includes("parent_id")
+
+            for (const line of lines) {
+                const trimmedLine = line.trim()
+                if (!trimmedLine.length) {
                     continue
                 }
-                const raw = await fs.readFile(path.join(dir, entry.name), "utf8")
-                const parsed = JSON.parse(raw) as RegionRecord
-                records.push(parsed)
-
-                const kodeBps = trim(parsed.kode_bps)
-                const kodeDagri = trim(parsed.kode_dagri)
-                if (kodeBps.length) {
-                    byIdBps.set(kodeBps, parsed)
-                }
-                if (kodeDagri.length) {
-                    byIdDagri.set(kodeDagri, parsed)
-                }
-
-                const parentBps = trim(parsed.parent_kode_bps)
-                if (parentBps.length) {
-                    if (!byParentBps.has(parentBps)) {
-                        byParentBps.set(parentBps, [])
+                const cells = parseCsvRow(trimmedLine)
+                const normalized = cells.map(cell => {
+                    const trimmed = cell.trim()
+                    if (trimmed.startsWith("\"") && trimmed.endsWith("\"")) {
+                        return trimmed.slice(1, -1).replace(/""/g, "\"")
                     }
-                    byParentBps.get(parentBps)!.push(parsed)
+                    return trimmed
+                })
+
+                let index = 0
+                let parentBps: string | undefined
+                let parentDagri: string | undefined
+                if (hasParentColumns) {
+                    parentBps = normalized[index++] || undefined
+                    parentDagri = normalized[index++] || undefined
                 }
 
-                const parentDagri = trim(parsed.parent_kode_dagri)
-                if (parentDagri.length) {
-                    if (!byParentDagri.has(parentDagri)) {
-                        byParentDagri.set(parentDagri, [])
+                const kodeBps = normalized[index++] ?? ""
+                const namaBps = normalized[index++] ?? ""
+                const kodeDagri = normalized[index++] ?? ""
+                const namaDagri = normalized[index++] ?? ""
+                const kodePos = normalized[index++] ?? ""
+
+                const record: RegionRecord = {
+                    kode_bps: kodeBps,
+                    nama_bps: namaBps,
+                    kode_dagri: kodeDagri,
+                    nama_dagri: namaDagri,
+                    parent_kode_bps: parentBps,
+                    parent_kode_dagri: parentDagri,
+                    kode_pos: kodePos || undefined
+                }
+
+                records.push(record)
+
+                const finalKodeBps = trim(record.kode_bps)
+                const finalKodeDagri = trim(record.kode_dagri)
+                if (finalKodeBps.length) {
+                    byIdBps.set(finalKodeBps, record)
+                }
+                if (finalKodeDagri.length) {
+                    byIdDagri.set(finalKodeDagri, record)
+                }
+
+                const finalParentBps = trim(record.parent_kode_bps)
+                if (finalParentBps.length) {
+                    if (!byParentBps.has(finalParentBps)) {
+                        byParentBps.set(finalParentBps, [])
                     }
-                    byParentDagri.get(parentDagri)!.push(parsed)
+                    byParentBps.get(finalParentBps)!.push(record)
+                }
+
+                const finalParentDagri = trim(record.parent_kode_dagri)
+                if (finalParentDagri.length) {
+                    if (!byParentDagri.has(finalParentDagri)) {
+                        byParentDagri.set(finalParentDagri, [])
+                    }
+                    byParentDagri.get(finalParentDagri)!.push(record)
                 }
             }
             return {

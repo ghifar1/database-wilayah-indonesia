@@ -6,7 +6,7 @@ type NextConfigWithTracing = NextConfig & {
 
 const nextConfig: NextConfigWithTracing = {
   outputFileTracingIncludes: {
-    "/api/(.*)": ["../json/**"],
+    "/api/(.*)": ["../data/**"],
   },
 };
 
