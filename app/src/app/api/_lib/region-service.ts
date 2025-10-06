@@ -64,7 +64,19 @@ class RegionError extends Error {
     }
 }
 
-const cache = new Map<LevelKey, Promise<Array<RegionRecord>>>()
+type LevelDataset = {
+    records: Array<RegionRecord>
+    byId: {
+        bps: Map<string, RegionRecord>
+        dagri: Map<string, RegionRecord>
+    }
+    byParent: {
+        bps: Map<string, Array<RegionRecord>>
+        dagri: Map<string, Array<RegionRecord>>
+    }
+}
+
+const cache = new Map<LevelKey, Promise<LevelDataset>>()
 
 const trim = (value: string | undefined | null) => value?.trim() ?? ""
 
@@ -92,13 +104,17 @@ const formatRegion = (record: RegionRecord, view: ViewKey): RegionResponseItem =
     }
 }
 
-const readLevelData = async (level: LevelKey): Promise<Array<RegionRecord>> => {
+const readLevelData = async (level: LevelKey): Promise<LevelDataset> => {
     if (!cache.has(level)) {
         cache.set(level, (async () => {
             const config = levelConfig[level]
             const dir = path.join(dataRoot, config.folder)
             const entries = await fs.readdir(dir, { withFileTypes: true })
             const records: Array<RegionRecord> = []
+            const byIdBps = new Map<string, RegionRecord>()
+            const byIdDagri = new Map<string, RegionRecord>()
+            const byParentBps = new Map<string, Array<RegionRecord>>()
+            const byParentDagri = new Map<string, Array<RegionRecord>>()
             for (const entry of entries) {
                 if (!entry.isFile() || !entry.name.endsWith(".json")) {
                     continue
@@ -106,8 +122,43 @@ const readLevelData = async (level: LevelKey): Promise<Array<RegionRecord>> => {
                 const raw = await fs.readFile(path.join(dir, entry.name), "utf8")
                 const parsed = JSON.parse(raw) as RegionRecord
                 records.push(parsed)
+
+                const kodeBps = trim(parsed.kode_bps)
+                const kodeDagri = trim(parsed.kode_dagri)
+                if (kodeBps.length) {
+                    byIdBps.set(kodeBps, parsed)
+                }
+                if (kodeDagri.length) {
+                    byIdDagri.set(kodeDagri, parsed)
+                }
+
+                const parentBps = trim(parsed.parent_kode_bps)
+                if (parentBps.length) {
+                    if (!byParentBps.has(parentBps)) {
+                        byParentBps.set(parentBps, [])
+                    }
+                    byParentBps.get(parentBps)!.push(parsed)
+                }
+
+                const parentDagri = trim(parsed.parent_kode_dagri)
+                if (parentDagri.length) {
+                    if (!byParentDagri.has(parentDagri)) {
+                        byParentDagri.set(parentDagri, [])
+                    }
+                    byParentDagri.get(parentDagri)!.push(parsed)
+                }
             }
-            return records
+            return {
+                records,
+                byId: {
+                    bps: byIdBps,
+                    dagri: byIdDagri
+                },
+                byParent: {
+                    bps: byParentBps,
+                    dagri: byParentDagri
+                }
+            }
         })())
     }
     return cache.get(level)!
@@ -118,10 +169,9 @@ const findParentRecord = async (level: LevelKey, identifier: string, view: ViewK
     if (!parentLevel) {
         return null
     }
-    const data = await readLevelData(parentLevel)
-    const key = view === "bps" ? "kode_bps" : "kode_dagri"
-    const candidate = data.find(record => trim(record[key as keyof RegionRecord] as string | undefined) === identifier)
-    return candidate ?? null
+    const dataset = await readLevelData(parentLevel)
+    const lookup = view === "bps" ? dataset.byId.bps : dataset.byId.dagri
+    return lookup.get(identifier) ?? null
 }
 
 type FetchOptions = {
@@ -144,9 +194,9 @@ export const fetchLevel = async (level: LevelKey, options: FetchOptions = {}): P
     }
 
     const view: ViewKey | null = normalizedDagriId ? "dagri" : normalizedBpsId ? "bps" : null
-    const records = await readLevelData(level)
+    const dataset = await readLevelData(level)
 
-    let filtered = records
+    let filtered = dataset.records
     let parent: ParentResponse | null = null
 
     if (level !== "provinsi") {
@@ -155,9 +205,9 @@ export const fetchLevel = async (level: LevelKey, options: FetchOptions = {}): P
         }
 
         const viewKey = view as ViewKey
-        const parentField = viewKey === "bps" ? "parent_kode_bps" : "parent_kode_dagri"
         const parentIdentifier = viewKey === "bps" ? normalizedBpsId : normalizedDagriId
-        filtered = records.filter(record => trim(record[parentField as keyof RegionRecord] as string | undefined) === parentIdentifier)
+        const childLookup = viewKey === "bps" ? dataset.byParent.bps : dataset.byParent.dagri
+        filtered = parentIdentifier.length ? childLookup.get(parentIdentifier) ?? [] : []
 
         const parentRecord = await findParentRecord(level, parentIdentifier, viewKey)
         if (!parentRecord) {
