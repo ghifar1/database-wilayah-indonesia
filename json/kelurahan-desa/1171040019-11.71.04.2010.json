@@ -3,5 +3,6 @@
   "nama_bps": "PEURADA",
   "kode_dagri": "11.71.04.2010",
   "nama_dagri": "PEURADA",
-  "parent_kode_bps": "1171040"
+  "parent_kode_bps": "1171040",
+  "parent_kode_dagri": "11.71.04"
 }

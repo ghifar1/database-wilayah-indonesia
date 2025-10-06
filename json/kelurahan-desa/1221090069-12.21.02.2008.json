@@ -3,5 +3,6 @@
   "nama_bps": "SIOLIP",
   "kode_dagri": "12.21.02.2008",
   "nama_dagri": "SIOLIP",
-  "parent_kode_bps": "1221090"
+  "parent_kode_bps": "1221090",
+  "parent_kode_dagri": "12.21.02"
 }

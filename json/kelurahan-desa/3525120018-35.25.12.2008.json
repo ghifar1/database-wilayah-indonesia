@@ -3,5 +3,6 @@
   "nama_bps": "SIDOKUMPUL",
   "kode_dagri": "35.25.12.2008",
   "nama_dagri": "SIDOKUMPUL",
-  "parent_kode_bps": "3525120"
+  "parent_kode_bps": "3525120",
+  "parent_kode_dagri": "35.25.12"
 }

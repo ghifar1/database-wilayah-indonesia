@@ -3,5 +3,6 @@
   "nama_bps": "API API",
   "kode_dagri": "63.10.11.2006",
   "nama_dagri": "API-API",
-  "parent_kode_bps": "6310011"
+  "parent_kode_bps": "6310011",
+  "parent_kode_dagri": "63.10.11"
 }

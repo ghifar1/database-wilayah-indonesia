@@ -3,5 +3,6 @@
   "nama_bps": "BIUK",
   "kode_dagri": "95.04.45.2001",
   "nama_dagri": "BIUK",
-  "parent_kode_bps": "9704150"
+  "parent_kode_bps": "9704150",
+  "parent_kode_dagri": "95.04.45"
 }

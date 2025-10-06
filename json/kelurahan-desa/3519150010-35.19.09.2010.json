@@ -3,5 +3,6 @@
   "nama_bps": "KLAGEN SERUT",
   "kode_dagri": "35.19.09.2010",
   "nama_dagri": "KLAGENSERUT",
-  "parent_kode_bps": "3519150"
+  "parent_kode_bps": "3519150",
+  "parent_kode_dagri": "35.19.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "RAMBATAN",
   "kode_dagri": "13.04.03.2005",
   "nama_dagri": "RAMBATAN",
-  "parent_kode_bps": "1305040"
+  "parent_kode_bps": "1305040",
+  "parent_kode_dagri": "13.04.03"
 }

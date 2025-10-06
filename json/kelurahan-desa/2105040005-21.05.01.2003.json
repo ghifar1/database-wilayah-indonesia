@@ -3,5 +3,6 @@
   "nama_bps": "TAREMPA SELATAN",
   "kode_dagri": "21.05.01.2003",
   "nama_dagri": "TAREMPA SELATAN",
-  "parent_kode_bps": "2105040"
+  "parent_kode_bps": "2105040",
+  "parent_kode_dagri": "21.05.01"
 }

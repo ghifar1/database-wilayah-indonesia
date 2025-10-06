@@ -3,5 +3,6 @@
   "nama_bps": "SARUA",
   "kode_dagri": "36.74.04.1002",
   "nama_dagri": "SERUA",
-  "parent_kode_bps": "3674040"
+  "parent_kode_bps": "3674040",
+  "parent_kode_dagri": "36.74.04"
 }

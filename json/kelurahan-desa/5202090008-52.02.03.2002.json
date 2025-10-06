@@ -3,5 +3,6 @@
   "nama_bps": "SELEBUNG",
   "kode_dagri": "52.02.03.2002",
   "nama_dagri": "SELEBUNG",
-  "parent_kode_bps": "5202090"
+  "parent_kode_bps": "5202090",
+  "parent_kode_dagri": "52.02.03"
 }

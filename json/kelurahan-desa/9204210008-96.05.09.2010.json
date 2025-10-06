@@ -3,5 +3,6 @@
   "nama_bps": "KFAA",
   "kode_dagri": "96.05.09.2010",
   "nama_dagri": "KFAA",
-  "parent_kode_bps": "9204210"
+  "parent_kode_bps": "9204210",
+  "parent_kode_dagri": "96.05.09"
 }

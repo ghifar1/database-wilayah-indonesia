@@ -3,5 +3,6 @@
   "nama_bps": "PANOPA",
   "kode_dagri": "62.09.01.2006",
   "nama_dagri": "PENOPA",
-  "parent_kode_bps": "6207020"
+  "parent_kode_bps": "6207020",
+  "parent_kode_dagri": "62.09.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "GUHANG",
   "kode_dagri": "11.12.01.2006",
   "nama_dagri": "GUHANG",
-  "parent_kode_bps": "1112030"
+  "parent_kode_bps": "1112030",
+  "parent_kode_dagri": "11.12.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "UJUNG BATU",
   "kode_dagri": "12.20.12",
   "nama_dagri": "UJUNG BATU",
-  "parent_kode_bps": "1220"
+  "parent_kode_bps": "1220",
+  "parent_kode_dagri": "12.20"
 }

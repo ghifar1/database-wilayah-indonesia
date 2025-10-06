@@ -3,5 +3,6 @@
   "nama_bps": "BOBONG",
   "kode_dagri": "82.08.01.2001",
   "nama_dagri": "BOBONG",
-  "parent_kode_bps": "8208010"
+  "parent_kode_bps": "8208010",
+  "parent_kode_dagri": "82.08.01"
 }

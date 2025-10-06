@@ -3,5 +3,6 @@
   "nama_bps": "PASAR ACEH",
   "kode_dagri": "11.05.01.2009",
   "nama_dagri": "PASAR ACEH",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

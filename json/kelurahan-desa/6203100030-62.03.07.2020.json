@@ -3,5 +3,6 @@
   "nama_bps": "BINA SEJAHTERA",
   "kode_dagri": "62.03.07.2020",
   "nama_dagri": "BINA SEJAHTERA",
-  "parent_kode_bps": "6203100"
+  "parent_kode_bps": "6203100",
+  "parent_kode_dagri": "62.03.07"
 }

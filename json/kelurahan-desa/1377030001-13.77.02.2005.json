@@ -3,5 +3,6 @@
   "nama_bps": "AMPALU",
   "kode_dagri": "13.77.02.2005",
   "nama_dagri": "AMPALU",
-  "parent_kode_bps": "1377030"
+  "parent_kode_bps": "1377030",
+  "parent_kode_dagri": "13.77.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KILO METER VI",
   "kode_dagri": "11.08.22.2011",
   "nama_dagri": "KILOMETER VI",
-  "parent_kode_bps": "1111031"
+  "parent_kode_bps": "1111031",
+  "parent_kode_dagri": "11.08.22"
 }

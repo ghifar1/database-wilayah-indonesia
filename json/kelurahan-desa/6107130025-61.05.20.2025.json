@@ -3,5 +3,6 @@
   "nama_bps": "BALAI AGUNG",
   "kode_dagri": "61.05.20.2025",
   "nama_dagri": "BALAI AGUNG",
-  "parent_kode_bps": "6107130"
+  "parent_kode_bps": "6107130",
+  "parent_kode_dagri": "61.05.20"
 }

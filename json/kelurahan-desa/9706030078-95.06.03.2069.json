@@ -3,5 +3,6 @@
   "nama_bps": "MULIP",
   "kode_dagri": "95.06.03.2069",
   "nama_dagri": "MULIP",
-  "parent_kode_bps": "9706030"
+  "parent_kode_bps": "9706030",
+  "parent_kode_dagri": "95.06.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PIJOAN",
   "kode_dagri": "15.05.01.1003",
   "nama_dagri": "PIJOAN",
-  "parent_kode_bps": "1505050"
+  "parent_kode_bps": "1505050",
+  "parent_kode_dagri": "15.05.01"
 }

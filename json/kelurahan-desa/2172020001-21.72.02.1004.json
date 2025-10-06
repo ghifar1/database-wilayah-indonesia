@@ -3,5 +3,6 @@
   "nama_bps": "BATU SEMBILAN",
   "kode_dagri": "21.72.02.1004",
   "nama_dagri": "BATU IX",
-  "parent_kode_bps": "2172020"
+  "parent_kode_bps": "2172020",
+  "parent_kode_dagri": "21.72.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BOMAS",
   "kode_dagri": "13.11.02.2007",
   "nama_dagri": "BOMAS",
-  "parent_kode_bps": "1310040"
+  "parent_kode_bps": "1310040",
+  "parent_kode_dagri": "13.11.02"
 }

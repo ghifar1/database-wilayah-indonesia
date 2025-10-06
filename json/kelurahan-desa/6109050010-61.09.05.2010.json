@@ -3,5 +3,6 @@
   "nama_bps": "SEPANTAK",
   "kode_dagri": "61.09.05.2010",
   "nama_dagri": "SEPANTAK",
-  "parent_kode_bps": "6109050"
+  "parent_kode_bps": "6109050",
+  "parent_kode_dagri": "61.09.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PUSAT DAMAI",
   "kode_dagri": "61.03.09.2001",
   "nama_dagri": "PUSAT DAMAI",
-  "parent_kode_bps": "6105140"
+  "parent_kode_bps": "6105140",
+  "parent_kode_dagri": "61.03.09"
 }

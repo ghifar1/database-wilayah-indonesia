@@ -3,5 +3,6 @@
   "nama_bps": "TRIKORA",
   "kode_dagri": "95.01.12.2001",
   "nama_dagri": "TRIKORA",
-  "parent_kode_bps": "9702040"
+  "parent_kode_bps": "9702040",
+  "parent_kode_dagri": "95.01.12"
 }

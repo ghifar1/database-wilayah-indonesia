@@ -3,5 +3,6 @@
   "nama_bps": "PAREMA",
   "kode_dagri": "95.01.40.2005",
   "nama_dagri": "PAREMA",
-  "parent_kode_bps": "9702370"
+  "parent_kode_bps": "9702370",
+  "parent_kode_dagri": "95.01.40"
 }

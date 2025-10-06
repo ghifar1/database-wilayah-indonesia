@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT PEDUSUNAN",
   "kode_dagri": "14.09.01.2020",
   "nama_dagri": "BUKITPEDUSUNAN",
-  "parent_kode_bps": "1401010"
+  "parent_kode_bps": "1401010",
+  "parent_kode_dagri": "14.09.01"
 }

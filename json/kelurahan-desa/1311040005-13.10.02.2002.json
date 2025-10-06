@@ -3,5 +3,6 @@
   "nama_bps": "TEBING TINGGI",
   "kode_dagri": "13.10.02.2002",
   "nama_dagri": "TEBING TINGGI",
-  "parent_kode_bps": "1311040"
+  "parent_kode_bps": "1311040",
+  "parent_kode_dagri": "13.10.02"
 }

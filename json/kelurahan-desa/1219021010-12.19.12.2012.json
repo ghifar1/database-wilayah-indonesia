@@ -3,5 +3,6 @@
   "nama_bps": "KAPAL MERAH",
   "kode_dagri": "12.19.12.2012",
   "nama_dagri": "KAPAL MERAH",
-  "parent_kode_bps": "1219021"
+  "parent_kode_bps": "1219021",
+  "parent_kode_dagri": "12.19.12"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MIANGAS",
   "kode_dagri": "71.04.13.2001",
   "nama_dagri": "PULAU MIANGAS",
-  "parent_kode_bps": "7104081"
+  "parent_kode_bps": "7104081",
+  "parent_kode_dagri": "71.04.13"
 }

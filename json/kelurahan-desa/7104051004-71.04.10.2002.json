@@ -3,5 +3,6 @@
   "nama_bps": "DAPALAN",
   "kode_dagri": "71.04.10.2002",
   "nama_dagri": "DAPALAN",
-  "parent_kode_bps": "7104051"
+  "parent_kode_bps": "7104051",
+  "parent_kode_dagri": "71.04.10"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "NYUR LEMBANG",
   "kode_dagri": "52.01.03.2002",
   "nama_dagri": "NYUR LEMBANG",
-  "parent_kode_bps": "5201050"
+  "parent_kode_bps": "5201050",
+  "parent_kode_dagri": "52.01.03"
 }

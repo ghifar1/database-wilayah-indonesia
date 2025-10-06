@@ -3,5 +3,6 @@
   "nama_bps": "UPT PIR II / YAMTA",
   "kode_dagri": "91.11.02.2012",
   "nama_dagri": "YAMTA",
-  "parent_kode_bps": "9420040"
+  "parent_kode_bps": "9420040",
+  "parent_kode_dagri": "91.11.02"
 }

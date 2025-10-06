@@ -3,5 +3,6 @@
   "nama_bps": "MLASFA",
   "kode_dagri": "96.01.11.2005",
   "nama_dagri": "MLASFA",
-  "parent_kode_bps": "9202240"
+  "parent_kode_bps": "9202240",
+  "parent_kode_dagri": "96.01.11"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI LUMPUR",
   "kode_dagri": "21.04.01.1012",
   "nama_dagri": "SUNGAILUMPUR",
-  "parent_kode_bps": "2104020"
+  "parent_kode_bps": "2104020",
+  "parent_kode_dagri": "21.04.01"
 }

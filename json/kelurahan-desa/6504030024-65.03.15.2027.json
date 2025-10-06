@@ -3,5 +3,6 @@
   "nama_bps": "LABUK",
   "kode_dagri": "65.03.15.2027",
   "nama_dagri": "LABUK",
-  "parent_kode_bps": "6504030"
+  "parent_kode_bps": "6504030",
+  "parent_kode_dagri": "65.03.15"
 }

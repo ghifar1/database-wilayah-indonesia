@@ -3,5 +3,6 @@
   "nama_bps": "SINAMAR",
   "kode_dagri": "13.10.10.2005",
   "nama_dagri": "SINAMAR",
-  "parent_kode_bps": "1311012"
+  "parent_kode_bps": "1311012",
+  "parent_kode_dagri": "13.10.10"
 }

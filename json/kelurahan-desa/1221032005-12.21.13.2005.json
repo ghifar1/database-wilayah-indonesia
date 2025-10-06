@@ -3,5 +3,6 @@
   "nama_bps": "SIGORBUS JAE",
   "kode_dagri": "12.21.13.2005",
   "nama_dagri": "SIGORBUS JAE",
-  "parent_kode_bps": "1221032"
+  "parent_kode_bps": "1221032",
+  "parent_kode_dagri": "12.21.13"
 }

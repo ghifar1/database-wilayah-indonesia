@@ -3,5 +3,6 @@
   "nama_bps": "PASAR USANG",
   "kode_dagri": "13.74.02.1002",
   "nama_dagri": "PASAR USANG",
-  "parent_kode_bps": "1374010"
+  "parent_kode_bps": "1374010",
+  "parent_kode_dagri": "13.74.02"
 }

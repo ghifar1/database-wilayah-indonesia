@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN TALION",
   "kode_dagri": "73.18.20.1001",
   "nama_dagri": "TALION",
-  "parent_kode_bps": "7318052"
+  "parent_kode_bps": "7318052",
+  "parent_kode_dagri": "73.18.20"
 }

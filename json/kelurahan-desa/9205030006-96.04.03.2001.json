@@ -3,5 +3,6 @@
   "nama_bps": "BAUN",
   "kode_dagri": "96.04.03.2001",
   "nama_dagri": "BAUN",
-  "parent_kode_bps": "9205030"
+  "parent_kode_bps": "9205030",
+  "parent_kode_dagri": "96.04.03"
 }

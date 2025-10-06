@@ -3,5 +3,6 @@
   "nama_bps": "PASAR SUNGAI PENUH",
   "kode_dagri": "15.72.01.1003",
   "nama_dagri": "PASAR SUNGAI PENUH",
-  "parent_kode_bps": "1572030"
+  "parent_kode_bps": "1572030",
+  "parent_kode_dagri": "15.72.01"
 }

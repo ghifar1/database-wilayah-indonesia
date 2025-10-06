@@ -3,5 +3,6 @@
   "nama_bps": "MALAT",
   "kode_dagri": "96.01.11.2003",
   "nama_dagri": "MLAT",
-  "parent_kode_bps": "9202240"
+  "parent_kode_bps": "9202240",
+  "parent_kode_dagri": "96.01.11"
 }

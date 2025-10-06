@@ -3,5 +3,6 @@
   "nama_bps": "DASA ELU",
   "kode_dagri": "53.17.05.2008",
   "nama_dagri": "ELU",
-  "parent_kode_bps": "5316011"
+  "parent_kode_bps": "5316011",
+  "parent_kode_dagri": "53.17.05"
 }

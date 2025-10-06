@@ -3,5 +3,6 @@
   "nama_bps": "MALAWELE",
   "kode_dagri": "96.01.05.1003",
   "nama_dagri": "MALAWELE",
-  "parent_kode_bps": "9202090"
+  "parent_kode_bps": "9202090",
+  "parent_kode_dagri": "96.01.05"
 }

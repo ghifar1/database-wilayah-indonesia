@@ -3,5 +3,6 @@
   "nama_bps": "SINGKAM",
   "kode_dagri": "12.17.06.2002",
   "nama_dagri": "SINGKAM",
-  "parent_kode_bps": "1217010"
+  "parent_kode_bps": "1217010",
+  "parent_kode_dagri": "12.17.06"
 }

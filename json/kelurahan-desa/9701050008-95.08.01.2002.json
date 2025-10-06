@@ -3,5 +3,6 @@
   "nama_bps": "KEMALI",
   "kode_dagri": "95.08.01.2002",
   "nama_dagri": "KEMALI",
-  "parent_kode_bps": "9701050"
+  "parent_kode_bps": "9701050",
+  "parent_kode_dagri": "95.08.01"
 }

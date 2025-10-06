@@ -3,5 +3,6 @@
   "nama_bps": "MEKONG",
   "kode_dagri": "14.10.04.2007",
   "nama_dagri": "MEKONG",
-  "parent_kode_bps": "1410010"
+  "parent_kode_bps": "1410010",
+  "parent_kode_dagri": "14.10.04"
 }

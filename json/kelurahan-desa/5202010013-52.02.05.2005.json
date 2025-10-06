@@ -3,5 +3,6 @@
   "nama_bps": "SETANGGOR",
   "kode_dagri": "52.02.05.2005",
   "nama_dagri": "SETANGGOR",
-  "parent_kode_bps": "5202010"
+  "parent_kode_bps": "5202010",
+  "parent_kode_dagri": "52.02.05"
 }

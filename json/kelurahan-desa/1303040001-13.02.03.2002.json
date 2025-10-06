@@ -3,5 +3,6 @@
   "nama_bps": "SURIAN",
   "kode_dagri": "13.02.03.2002",
   "nama_dagri": "SURIAN",
-  "parent_kode_bps": "1303040"
+  "parent_kode_bps": "1303040",
+  "parent_kode_dagri": "13.02.03"
 }

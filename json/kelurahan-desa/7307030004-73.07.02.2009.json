@@ -3,5 +3,6 @@
   "nama_bps": "POLEWALI",
   "kode_dagri": "73.07.02.2009",
   "nama_dagri": "POLEWALI",
-  "parent_kode_bps": "7307030"
+  "parent_kode_bps": "7307030",
+  "parent_kode_dagri": "73.07.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PAGUR",
   "kode_dagri": "12.13.03.2006",
   "nama_dagri": "PAGUR",
-  "parent_kode_bps": "1202054"
+  "parent_kode_bps": "1202054",
+  "parent_kode_dagri": "12.13.03"
 }

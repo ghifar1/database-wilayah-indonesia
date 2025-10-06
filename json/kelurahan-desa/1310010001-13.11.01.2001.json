@@ -3,5 +3,6 @@
   "nama_bps": "LUBUK GADANG",
   "kode_dagri": "13.11.01.2001",
   "nama_dagri": "LUBUK GADANG",
-  "parent_kode_bps": "1310010"
+  "parent_kode_bps": "1310010",
+  "parent_kode_dagri": "13.11.01"
 }

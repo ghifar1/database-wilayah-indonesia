@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI HANYAR",
   "kode_dagri": "63.02.10.2001",
   "nama_dagri": "SUNGAI HANYAR",
-  "parent_kode_bps": "6302170"
+  "parent_kode_bps": "6302170",
+  "parent_kode_dagri": "63.02.10"
 }

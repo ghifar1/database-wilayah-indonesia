@@ -3,5 +3,6 @@
   "nama_bps": "LIA",
   "kode_dagri": "53.10.18.2005",
   "nama_dagri": "LIA",
-  "parent_kode_bps": "5313042"
+  "parent_kode_bps": "5313042",
+  "parent_kode_dagri": "53.10.18"
 }

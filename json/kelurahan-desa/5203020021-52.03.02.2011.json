@@ -3,5 +3,6 @@
   "nama_bps": "PERESAK",
   "kode_dagri": "52.03.02.2011",
   "nama_dagri": "PERESAK",
-  "parent_kode_bps": "5203020"
+  "parent_kode_bps": "5203020",
+  "parent_kode_dagri": "52.03.02"
 }

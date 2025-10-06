@@ -3,5 +3,6 @@
   "nama_bps": "SERUAT TIGA",
   "kode_dagri": "61.12.06.2007",
   "nama_dagri": "SERUAT TIGA",
-  "parent_kode_bps": "6112030"
+  "parent_kode_bps": "6112030",
+  "parent_kode_dagri": "61.12.06"
 }

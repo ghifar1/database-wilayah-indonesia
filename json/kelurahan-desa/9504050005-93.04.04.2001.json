@@ -3,5 +3,6 @@
   "nama_bps": "BIOPIS",
   "kode_dagri": "93.04.04.2001",
   "nama_dagri": "AYAM",
-  "parent_kode_bps": "9504050"
+  "parent_kode_bps": "9504050",
+  "parent_kode_dagri": "93.04.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MBUA",
   "kode_dagri": "95.08.07.2001",
   "nama_dagri": "MBUWA",
-  "parent_kode_bps": "9701250"
+  "parent_kode_bps": "9701250",
+  "parent_kode_dagri": "95.08.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PAGARAN BARU",
   "kode_dagri": "12.01.05.2017",
   "nama_dagri": "PAGARAN BARU",
-  "parent_kode_bps": "1204080"
+  "parent_kode_bps": "1204080",
+  "parent_kode_dagri": "12.01.05"
 }

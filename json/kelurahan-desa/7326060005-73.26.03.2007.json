@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANG BASOKAN",
   "kode_dagri": "73.26.03.2007",
   "nama_dagri": "BASOKAN",
-  "parent_kode_bps": "7326060"
+  "parent_kode_bps": "7326060",
+  "parent_kode_dagri": "73.26.03"
 }

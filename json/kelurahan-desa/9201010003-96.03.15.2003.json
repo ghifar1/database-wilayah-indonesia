@@ -3,5 +3,6 @@
   "nama_bps": "BIGA",
   "kode_dagri": "96.03.15.2003",
   "nama_dagri": "BIGA",
-  "parent_kode_bps": "9201010"
+  "parent_kode_bps": "9201010",
+  "parent_kode_dagri": "96.03.15"
 }

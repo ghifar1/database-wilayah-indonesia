@@ -3,5 +3,6 @@
   "nama_bps": "TUMOBUY",
   "kode_dagri": "71.74.02.1004",
   "nama_dagri": "TUMUBUI",
-  "parent_kode_bps": "7174020"
+  "parent_kode_bps": "7174020",
+  "parent_kode_dagri": "71.74.02"
 }

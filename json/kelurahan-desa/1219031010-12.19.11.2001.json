@@ -3,5 +3,6 @@
   "nama_bps": "SUMBER TANI",
   "kode_dagri": "12.19.11.2001",
   "nama_dagri": "SUMBER TANI",
-  "parent_kode_bps": "1219031"
+  "parent_kode_bps": "1219031",
+  "parent_kode_dagri": "12.19.11"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "OGENATAN",
   "kode_dagri": "93.02.08.2005",
   "nama_dagri": "OGENETAN",
-  "parent_kode_bps": "9502110"
+  "parent_kode_bps": "9502110",
+  "parent_kode_dagri": "93.02.08"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAB. SORONG SELATAN",
   "kode_dagri": "96.02",
   "nama_dagri": "KABUPATEN SORONG SELATAN",
-  "parent_kode_bps": "92"
+  "parent_kode_bps": "92",
+  "parent_kode_dagri": "96"
 }

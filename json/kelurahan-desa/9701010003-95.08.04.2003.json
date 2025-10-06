@@ -3,5 +3,6 @@
   "nama_bps": "BIALA",
   "kode_dagri": "95.08.04.2003",
   "nama_dagri": "BIALA",
-  "parent_kode_bps": "9701010"
+  "parent_kode_bps": "9701010",
+  "parent_kode_dagri": "95.08.04"
 }

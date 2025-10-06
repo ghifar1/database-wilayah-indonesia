@@ -3,5 +3,6 @@
   "nama_bps": "TOLOBI",
   "kode_dagri": "96.03.10.2002",
   "nama_dagri": "TOLOBI",
-  "parent_kode_bps": "9201060"
+  "parent_kode_bps": "9201060",
+  "parent_kode_dagri": "96.03.10"
 }

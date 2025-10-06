@@ -3,5 +3,6 @@
   "nama_bps": "SENIBUNG",
   "kode_dagri": "61.10.08.2010",
   "nama_dagri": "SENIBUNG",
-  "parent_kode_bps": "6110052"
+  "parent_kode_bps": "6110052",
+  "parent_kode_dagri": "61.10.08"
 }

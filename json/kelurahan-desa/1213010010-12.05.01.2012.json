@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG PULO RAMBUNG",
   "kode_dagri": "12.05.01.2012",
   "nama_dagri": "SIMPANG PULO RAMBUNG",
-  "parent_kode_bps": "1213010"
+  "parent_kode_bps": "1213010",
+  "parent_kode_dagri": "12.05.01"
 }

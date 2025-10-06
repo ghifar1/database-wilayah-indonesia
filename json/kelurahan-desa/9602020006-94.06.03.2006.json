@@ -3,5 +3,6 @@
   "nama_bps": "EGIPA",
   "kode_dagri": "94.06.03.2006",
   "nama_dagri": "EGIPA",
-  "parent_kode_bps": "9602020"
+  "parent_kode_bps": "9602020",
+  "parent_kode_dagri": "94.06.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BERAS BELANGE",
   "kode_dagri": "62.12.03.2005",
   "nama_dagri": "BERAS BALANGE",
-  "parent_kode_bps": "6213030"
+  "parent_kode_bps": "6213030",
+  "parent_kode_dagri": "62.12.03"
 }

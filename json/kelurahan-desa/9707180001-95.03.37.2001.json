@@ -3,5 +3,6 @@
   "nama_bps": "SELA",
   "kode_dagri": "95.03.37.2001",
   "nama_dagri": "SELA",
-  "parent_kode_bps": "9707180"
+  "parent_kode_bps": "9707180",
+  "parent_kode_dagri": "95.03.37"
 }

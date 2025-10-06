@@ -3,5 +3,6 @@
   "nama_bps": "RASABOU",
   "kode_dagri": "52.05.03.2001",
   "nama_dagri": "RASA BOU",
-  "parent_kode_bps": "5205010"
+  "parent_kode_bps": "5205010",
+  "parent_kode_dagri": "52.05.03"
 }

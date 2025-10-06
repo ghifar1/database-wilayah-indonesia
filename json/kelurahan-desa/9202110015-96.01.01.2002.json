@@ -3,5 +3,6 @@
   "nama_bps": "ASBAKEN",
   "kode_dagri": "96.01.01.2002",
   "nama_dagri": "ASBAKEN",
-  "parent_kode_bps": "9202110"
+  "parent_kode_bps": "9202110",
+  "parent_kode_dagri": "96.01.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "UUWAN",
   "kode_dagri": "71.01.09.2002",
   "nama_dagri": "UUAN",
-  "parent_kode_bps": "7101021"
+  "parent_kode_bps": "7101021",
+  "parent_kode_dagri": "71.01.09"
 }

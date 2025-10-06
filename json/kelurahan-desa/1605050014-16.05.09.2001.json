@@ -3,5 +3,6 @@
   "nama_bps": "PEDANG",
   "kode_dagri": "16.05.09.2001",
   "nama_dagri": "PEDANG",
-  "parent_kode_bps": "1605050"
+  "parent_kode_bps": "1605050",
+  "parent_kode_dagri": "16.05.09"
 }

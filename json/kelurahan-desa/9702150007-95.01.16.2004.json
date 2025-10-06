@@ -3,5 +3,6 @@
   "nama_bps": "LIKINO",
   "kode_dagri": "95.01.16.2004",
   "nama_dagri": "LIKINO",
-  "parent_kode_bps": "9702150"
+  "parent_kode_bps": "9702150",
+  "parent_kode_dagri": "95.01.16"
 }

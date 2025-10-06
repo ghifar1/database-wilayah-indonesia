@@ -3,5 +3,6 @@
   "nama_bps": "WAWA",
   "kode_dagri": "12.14.30.2008",
   "nama_dagri": "WAWA",
-  "parent_kode_bps": "1214024"
+  "parent_kode_bps": "1214024",
+  "parent_kode_dagri": "12.14.30"
 }

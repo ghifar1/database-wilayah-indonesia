@@ -3,5 +3,6 @@
   "nama_bps": "PULAU MERBAU",
   "kode_dagri": "14.10.06",
   "nama_dagri": "PULAUMERBAU",
-  "parent_kode_bps": "1410"
+  "parent_kode_bps": "1410",
+  "parent_kode_dagri": "14.10"
 }

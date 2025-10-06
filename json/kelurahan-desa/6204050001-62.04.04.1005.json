@@ -3,5 +3,6 @@
   "nama_bps": "PENDANG",
   "kode_dagri": "62.04.04.1005",
   "nama_dagri": "PENDANG",
-  "parent_kode_bps": "6204050"
+  "parent_kode_bps": "6204050",
+  "parent_kode_dagri": "62.04.04"
 }

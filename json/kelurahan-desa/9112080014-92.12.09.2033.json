@@ -3,5 +3,6 @@
   "nama_bps": "NIMBIAU",
   "kode_dagri": "92.12.09.2033",
   "nama_dagri": "NIMBIAU",
-  "parent_kode_bps": "9112080"
+  "parent_kode_bps": "9112080",
+  "parent_kode_dagri": "92.12.09"
 }

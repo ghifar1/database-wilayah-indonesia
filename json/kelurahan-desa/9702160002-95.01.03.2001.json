@@ -3,5 +3,6 @@
   "nama_bps": "KIMBIM",
   "kode_dagri": "95.01.03.2001",
   "nama_dagri": "KIMBIN",
-  "parent_kode_bps": "9702160"
+  "parent_kode_bps": "9702160",
+  "parent_kode_dagri": "95.01.03"
 }

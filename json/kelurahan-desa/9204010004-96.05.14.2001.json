@@ -3,5 +3,6 @@
   "nama_bps": "WARMU",
   "kode_dagri": "96.05.14.2001",
   "nama_dagri": "WORMU",
-  "parent_kode_bps": "9204010"
+  "parent_kode_bps": "9204010",
+  "parent_kode_dagri": "96.05.14"
 }

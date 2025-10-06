@@ -4,5 +4,6 @@
   "kode_dagri": "32.01",
   "nama_dagri": "KABUPATEN BOGOR",
   "parent_kode_bps": "32",
+  "parent_kode_dagri": "32",
   "kode_pos": "16200;16300;16600;16700;16800;16900"
 }

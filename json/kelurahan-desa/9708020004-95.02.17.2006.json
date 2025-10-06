@@ -3,5 +3,6 @@
   "nama_bps": "NANUM",
   "kode_dagri": "95.02.17.2006",
   "nama_dagri": "NANUM",
-  "parent_kode_bps": "9708020"
+  "parent_kode_bps": "9708020",
+  "parent_kode_dagri": "95.02.17"
 }

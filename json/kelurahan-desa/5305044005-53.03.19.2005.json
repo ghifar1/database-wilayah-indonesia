@@ -3,5 +3,6 @@
   "nama_bps": "BANUAN",
   "kode_dagri": "53.03.19.2005",
   "nama_dagri": "BAUNUAN",
-  "parent_kode_bps": "5305044"
+  "parent_kode_bps": "5305044",
+  "parent_kode_dagri": "53.03.19"
 }

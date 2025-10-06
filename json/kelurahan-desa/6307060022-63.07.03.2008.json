@@ -3,5 +3,6 @@
   "nama_bps": "TAAL",
   "kode_dagri": "63.07.03.2008",
   "nama_dagri": "TA'AL",
-  "parent_kode_bps": "6307060"
+  "parent_kode_bps": "6307060",
+  "parent_kode_dagri": "63.07.03"
 }

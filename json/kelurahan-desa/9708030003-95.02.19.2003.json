@@ -3,5 +3,6 @@
   "nama_bps": "IMSIN",
   "kode_dagri": "95.02.19.2003",
   "nama_dagri": "IMSIN",
-  "parent_kode_bps": "9708030"
+  "parent_kode_bps": "9708030",
+  "parent_kode_dagri": "95.02.19"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "COMPANG",
   "kode_dagri": "53.15.11.2004",
   "nama_dagri": "COMPANG",
-  "parent_kode_bps": "5315051"
+  "parent_kode_bps": "5315051",
+  "parent_kode_dagri": "53.15.11"
 }

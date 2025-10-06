@@ -3,5 +3,6 @@
   "nama_bps": "AMBER",
   "kode_dagri": "92.02.32.2007",
   "nama_dagri": "AMBER",
-  "parent_kode_bps": "9105110"
+  "parent_kode_bps": "9105110",
+  "parent_kode_dagri": "92.02.32"
 }

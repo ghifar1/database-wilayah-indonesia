@@ -3,5 +3,6 @@
   "nama_bps": "TUNIS",
   "kode_dagri": "53.02.28.2005",
   "nama_dagri": "TUNIS",
-  "parent_kode_bps": "5304081"
+  "parent_kode_bps": "5304081",
+  "parent_kode_dagri": "53.02.28"
 }

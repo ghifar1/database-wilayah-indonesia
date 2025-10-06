@@ -3,5 +3,6 @@
   "nama_bps": "OBESI",
   "kode_dagri": "53.02.03.2001",
   "nama_dagri": "O'BESI",
-  "parent_kode_bps": "5304010"
+  "parent_kode_bps": "5304010",
+  "parent_kode_dagri": "53.02.03"
 }

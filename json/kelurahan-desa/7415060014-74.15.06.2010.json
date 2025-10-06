@@ -3,5 +3,6 @@
   "nama_bps": "LAPARA",
   "kode_dagri": "74.15.06.2010",
   "nama_dagri": "LAPARA",
-  "parent_kode_bps": "7415060"
+  "parent_kode_bps": "7415060",
+  "parent_kode_dagri": "74.15.06"
 }

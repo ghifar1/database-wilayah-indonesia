@@ -3,5 +3,6 @@
   "nama_bps": "BOTI",
   "kode_dagri": "61.09.02.2004",
   "nama_dagri": "BOTI",
-  "parent_kode_bps": "6109030"
+  "parent_kode_bps": "6109030",
+  "parent_kode_dagri": "61.09.02"
 }

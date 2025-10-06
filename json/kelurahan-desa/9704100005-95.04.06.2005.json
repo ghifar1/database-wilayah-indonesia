@@ -3,5 +3,6 @@
   "nama_bps": "PINDAK",
   "kode_dagri": "95.04.06.2005",
   "nama_dagri": "PINDAK",
-  "parent_kode_bps": "9704100"
+  "parent_kode_bps": "9704100",
+  "parent_kode_dagri": "95.04.06"
 }

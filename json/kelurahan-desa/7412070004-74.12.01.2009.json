@@ -3,5 +3,6 @@
   "nama_bps": "MATA LANGARA",
   "kode_dagri": "74.12.01.2009",
   "nama_dagri": "MATA LANGARA",
-  "parent_kode_bps": "7412070"
+  "parent_kode_bps": "7412070",
+  "parent_kode_dagri": "74.12.01"
 }

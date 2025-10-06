@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI TUBU",
   "kode_dagri": "65.02.15",
   "nama_dagri": "SUNGAI TUBU",
-  "parent_kode_bps": "6501"
+  "parent_kode_bps": "6501",
+  "parent_kode_dagri": "65.02"
 }

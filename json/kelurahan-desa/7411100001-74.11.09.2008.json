@@ -3,5 +3,6 @@
   "nama_bps": "WEAMO",
   "kode_dagri": "74.11.09.2008",
   "nama_dagri": "WEAMO",
-  "parent_kode_bps": "7411100"
+  "parent_kode_bps": "7411100",
+  "parent_kode_dagri": "74.11.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BUTI",
   "kode_dagri": "93.01.01.2015",
   "nama_dagri": "BUTI",
-  "parent_kode_bps": "9501140"
+  "parent_kode_bps": "9501140",
+  "parent_kode_dagri": "93.01.01"
 }

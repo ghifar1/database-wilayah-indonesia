@@ -3,5 +3,6 @@
   "nama_bps": "AWONI",
   "kode_dagri": "12.14.35.2007",
   "nama_dagri": "AWONI",
-  "parent_kode_bps": "1214064"
+  "parent_kode_bps": "1214064",
+  "parent_kode_dagri": "12.14.35"
 }

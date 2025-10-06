@@ -20,6 +20,11 @@ type Wilayah = {
     kode_pos?: string
 }
 
+type ParentContext = {
+    kode_bps: string
+    kode_dagri?: string
+}
+
 type PostalWilayah = {
     kode_bps: string
     nama_bps: string
@@ -189,7 +194,7 @@ const sanitizeCodeForFilename = (code: string) => {
     return trimmed.length ? trimmed : "0"
 }
 
-const writeJsonOutput = (levelName: string, parent: string, wilayah: Wilayah) => {
+const writeJsonOutput = (levelName: string, parent: ParentContext, wilayah: Wilayah) => {
     const dir = `${jsonBasePath}/${levelName}`
     fs.mkdirSync(dir, { recursive: true })
 
@@ -197,15 +202,19 @@ const writeJsonOutput = (levelName: string, parent: string, wilayah: Wilayah) =>
     const kodeDagri = sanitizeCodeForFilename(wilayah.kode_dagri)
     const filename = `${dir}/${kodeBps}-${kodeDagri}.json`
 
-    const payload: Record<string, string> & { parent_kode_bps?: string } = {
+    const payload: Record<string, string> & { parent_kode_bps?: string; parent_kode_dagri?: string } = {
         kode_bps: wilayah.kode_bps,
         nama_bps: wilayah.nama_bps,
         kode_dagri: wilayah.kode_dagri,
         nama_dagri: wilayah.nama_dagri
     }
 
-    if (parent !== "0") {
-        payload.parent_kode_bps = parent
+    if (parent.kode_bps !== "0") {
+        payload.parent_kode_bps = parent.kode_bps
+    }
+
+    if (parent.kode_dagri) {
+        payload.parent_kode_dagri = parent.kode_dagri
     }
 
     if (wilayah.kode_pos) {
@@ -242,22 +251,13 @@ const multibarProgress = new cli.MultiBar({
     linewrap: true
 })
 
-const duplicateBpsChecker = (array: Array<string>, data: Wilayah, lastIncrement: "lower" | "upper" | null = null, increment = 0) => {
-    const isDuplicate = array.find((x) => x.split(",")[1].includes(data.kode_bps))
-
-    if (isDuplicate) {
-        console.log(`duplicate ${data.kode_bps} - ${data.nama_bps} on ${isDuplicate}`)
-        // const kodeBps = parseInt(data.kode_bps)
-        // if (!lastIncrement || lastIncrement === "upper") {
-        //     data.kode_bps = (kodeBps - (Math.abs(increment) + 1)).toString()
-        // } else if (lastIncrement === "lower") {
-        //     data.kode_bps = (kodeBps + (Math.abs(increment) + 1)).toString()
-        // }
-        // return duplicateBpsChecker(array, data, lastIncrement === "upper" ? "lower" : "upper", increment + 1)
-        // set zero for now
+const duplicateBpsChecker = (seen: Set<string>, data: Wilayah) => {
+    if (seen.has(data.kode_bps)) {
+        console.log(`duplicate ${data.kode_bps} - ${data.nama_bps}`)
         data.kode_bps = "0"
     }
 
+    seen.add(data.kode_bps)
     return data
 }
 
@@ -274,16 +274,17 @@ const parallelBar = multibarProgress.create(maxParallel, 0, { processname: "para
 
 parallelBar.update(0, { processname: "parallel" })
 
-const collectData = async (level: LevelTree, parent: string, periode_merge: string) => {
+const collectData = async (level: LevelTree, parent: ParentContext, periode_merge: string) => {
     parallelBar.update(parallel, { processname: "parallel" })
     const tmpArray: Array<string> = []
+    const seenKodeBps = new Set<string>()
     let bar: cli.SingleBar | null = null
 
-    const data = await getData(level.level_name, parent, periode_merge)
+    const data = await getData(level.level_name, parent.kode_bps, periode_merge)
     const postalLevel = postalLevelMap[level.level_name as typeof jsonLevels[number]]
     let postalMap = new Map<string, string>()
     if (postalLevel) {
-        const postalData = await getPostalData(postalLevel, parent, periode_merge)
+        const postalData = await getPostalData(postalLevel, parent.kode_bps, periode_merge)
         postalMap = groupPostalCodes(postalData)
     }
     if (level.level_name === "provinsi" || level.level_name === "kabupaten-kota" || level.level_name === "kecamatan") {
@@ -300,11 +301,11 @@ const collectData = async (level: LevelTree, parent: string, periode_merge: stri
                     await delay(2000)
                 }
                 parallel++
-                collectData(level.children, d.kode_bps, periode_merge).finally(() => {
+                collectData(level.children, { kode_bps: d.kode_bps, kode_dagri: d.kode_dagri }, periode_merge).finally(() => {
                     parallel--
                 })
             } else {
-                await collectData(level.children, d.kode_bps, periode_merge)
+                await collectData(level.children, { kode_bps: d.kode_bps, kode_dagri: d.kode_dagri }, periode_merge)
             }
 
         }
@@ -316,16 +317,31 @@ const collectData = async (level: LevelTree, parent: string, periode_merge: stri
             d.kode_pos = kodePos
         }
 
-        const data = duplicateBpsChecker(tmpArray, d)
+        const data = duplicateBpsChecker(seenKodeBps, d)
 
         writeJsonOutput(level.level_name, parent, data)
 
         // push data to array
-        const csvKodePos = data.kode_pos ? `"${data.kode_pos}"` : ""
-        tmpArray.push(`${parent != "0" ? `${parent},` : ""}${data.kode_bps},"${data.nama_bps}",${data.kode_dagri},"${data.nama_dagri}",${csvKodePos}`)
+        const fields: Array<string> = []
+        if (parent.kode_bps !== "0") {
+            fields.push(parent.kode_bps)
+            fields.push(parent.kode_dagri ?? "")
+        }
+        fields.push(data.kode_bps)
+        fields.push(`"${data.nama_bps}"`)
+        fields.push(data.kode_dagri)
+        fields.push(`"${data.nama_dagri}"`)
+        fields.push(data.kode_pos ? `"${data.kode_pos}"` : "")
+
+        tmpArray.push(fields.join(","))
         await delay(100)
     }
-    const header = `${parent != "0" ? "parent_id," : ""}kode_bps,nama_bps,kode_dagri,nama_dagri,kode_pos`
+    const headerParts: Array<string> = []
+    if (parent.kode_bps !== "0") {
+        headerParts.push("parent_id", "parent_kode_dagri")
+    }
+    headerParts.push("kode_bps", "nama_bps", "kode_dagri", "nama_dagri", "kode_pos")
+    const header = headerParts.join(",")
     writeOrAppendCsv(`data/${level.level_name}.csv`, tmpArray, header)
 
     bar?.stop()
@@ -379,7 +395,7 @@ const start = async () => {
     cleanupJsonOutput()
     prepareJsonOutputDirectories()
 
-    await collectData(levelTree, "0", selectedPeriode.kode)
+    await collectData(levelTree, { kode_bps: "0" }, selectedPeriode.kode)
 
     await orderCsv()
     console.log("done")

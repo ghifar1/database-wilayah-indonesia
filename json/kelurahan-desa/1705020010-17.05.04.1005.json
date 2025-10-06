@@ -3,5 +3,6 @@
   "nama_bps": "PAJAR BULAN",
   "kode_dagri": "17.05.04.1005",
   "nama_dagri": "PAJAR BULAN",
-  "parent_kode_bps": "1705020"
+  "parent_kode_bps": "1705020",
+  "parent_kode_dagri": "17.05.04"
 }

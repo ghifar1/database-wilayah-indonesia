@@ -3,5 +3,6 @@
   "nama_bps": "PANYABUNGAN TONGA",
   "kode_dagri": "12.13.01.2020",
   "nama_dagri": "PANYABUNGAN TONGA",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

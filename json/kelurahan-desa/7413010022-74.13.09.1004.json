@@ -3,5 +3,6 @@
   "nama_bps": "WAUMERE",
   "kode_dagri": "74.13.09.1004",
   "nama_dagri": "WAUMERE",
-  "parent_kode_bps": "7413010"
+  "parent_kode_bps": "7413010",
+  "parent_kode_dagri": "74.13.09"
 }

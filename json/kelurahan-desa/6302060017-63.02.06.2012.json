@@ -3,5 +3,6 @@
   "nama_bps": "RAMPA",
   "kode_dagri": "63.02.06.2012",
   "nama_dagri": "RAMPA",
-  "parent_kode_bps": "6302060"
+  "parent_kode_bps": "6302060",
+  "parent_kode_dagri": "63.02.06"
 }

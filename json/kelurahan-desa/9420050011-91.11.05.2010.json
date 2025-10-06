@@ -3,5 +3,6 @@
   "nama_bps": "SAEFEN 4.2",
   "kode_dagri": "91.11.05.2010",
   "nama_dagri": "SAEFEN EMPAT DUA",
-  "parent_kode_bps": "9420050"
+  "parent_kode_bps": "9420050",
+  "parent_kode_dagri": "91.11.05"
 }

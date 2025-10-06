@@ -3,5 +3,6 @@
   "nama_bps": "LANCOK",
   "kode_dagri": "11.18.05.2004",
   "nama_dagri": "LANCOK",
-  "parent_kode_bps": "1118020"
+  "parent_kode_bps": "1118020",
+  "parent_kode_dagri": "11.18.05"
 }

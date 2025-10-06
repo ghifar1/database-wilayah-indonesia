@@ -3,5 +3,6 @@
   "nama_bps": "SACK",
   "kode_dagri": "91.11.01.2008",
   "nama_dagri": "SACK",
-  "parent_kode_bps": "9420030"
+  "parent_kode_bps": "9420030",
+  "parent_kode_dagri": "91.11.01"
 }

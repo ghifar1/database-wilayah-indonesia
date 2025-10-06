@@ -3,5 +3,6 @@
   "nama_bps": "BOLAKME",
   "kode_dagri": "95.01.05",
   "nama_dagri": "BOLAKME",
-  "parent_kode_bps": "9702"
+  "parent_kode_bps": "9702",
+  "parent_kode_dagri": "95.01"
 }

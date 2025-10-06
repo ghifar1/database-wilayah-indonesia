@@ -3,5 +3,6 @@
   "nama_bps": "KALISAT",
   "kode_dagri": "35.11.19.2004",
   "nama_dagri": "KALISAT",
-  "parent_kode_bps": "3511151"
+  "parent_kode_bps": "3511151",
+  "parent_kode_dagri": "35.11.19"
 }

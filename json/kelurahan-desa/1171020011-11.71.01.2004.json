@@ -3,5 +3,6 @@
   "nama_bps": "SEUTUI",
   "kode_dagri": "11.71.01.2004",
   "nama_dagri": "SEUTUI",
-  "parent_kode_bps": "1171020"
+  "parent_kode_bps": "1171020",
+  "parent_kode_dagri": "11.71.01"
 }

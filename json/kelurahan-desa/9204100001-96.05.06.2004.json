@@ -3,5 +3,6 @@
   "nama_bps": "KAMRO",
   "kode_dagri": "96.05.06.2004",
   "nama_dagri": "KAMRO",
-  "parent_kode_bps": "9204100"
+  "parent_kode_bps": "9204100",
+  "parent_kode_dagri": "96.05.06"
 }

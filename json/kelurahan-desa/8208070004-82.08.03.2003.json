@@ -3,5 +3,6 @@
   "nama_bps": "TOLONG",
   "kode_dagri": "82.08.03.2003",
   "nama_dagri": "TOLONG",
-  "parent_kode_bps": "8208070"
+  "parent_kode_bps": "8208070",
+  "parent_kode_dagri": "82.08.03"
 }

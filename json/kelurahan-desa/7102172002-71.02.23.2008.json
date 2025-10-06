@@ -3,5 +3,6 @@
   "nama_bps": "KOHA",
   "kode_dagri": "71.02.23.2008",
   "nama_dagri": "KOHA",
-  "parent_kode_bps": "7102172"
+  "parent_kode_bps": "7102172",
+  "parent_kode_dagri": "71.02.23"
 }

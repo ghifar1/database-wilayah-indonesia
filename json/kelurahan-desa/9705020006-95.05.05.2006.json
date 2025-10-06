@@ -3,5 +3,6 @@
   "nama_bps": "ILUSILIMO",
   "kode_dagri": "95.05.05.2006",
   "nama_dagri": "ILLUSILIMO",
-  "parent_kode_bps": "9705020"
+  "parent_kode_bps": "9705020",
+  "parent_kode_dagri": "95.05.05"
 }

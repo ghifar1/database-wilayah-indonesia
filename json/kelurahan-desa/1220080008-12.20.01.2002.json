@@ -3,5 +3,6 @@
   "nama_bps": "PASANG LELA",
   "kode_dagri": "12.20.01.2002",
   "nama_dagri": "PASANG LELA",
-  "parent_kode_bps": "1220080"
+  "parent_kode_bps": "1220080",
+  "parent_kode_dagri": "12.20.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "ZAPMA",
   "kode_dagri": "95.01.17.2002",
   "nama_dagri": "ZAPMA",
-  "parent_kode_bps": "9702130"
+  "parent_kode_bps": "9702130",
+  "parent_kode_dagri": "95.01.17"
 }

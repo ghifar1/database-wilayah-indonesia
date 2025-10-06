@@ -3,5 +3,6 @@
   "nama_bps": "TELUK BATANG SELATAN",
   "kode_dagri": "61.11.03.2006",
   "nama_dagri": "TELUKBATANG SELATAN",
-  "parent_kode_bps": "6111040"
+  "parent_kode_bps": "6111040",
+  "parent_kode_dagri": "61.11.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LUNG SIMAU",
   "kode_dagri": "65.02.12.2004",
   "nama_dagri": "LUNG SIMAU",
-  "parent_kode_bps": "6501120"
+  "parent_kode_bps": "6501120",
+  "parent_kode_dagri": "65.02.12"
 }

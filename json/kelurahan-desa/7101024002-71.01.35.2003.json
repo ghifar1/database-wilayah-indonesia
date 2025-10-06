@@ -3,5 +3,6 @@
   "nama_bps": "KINOMALIGAN",
   "kode_dagri": "71.01.35.2003",
   "nama_dagri": "KINOMALIGAN",
-  "parent_kode_bps": "7101024"
+  "parent_kode_bps": "7101024",
+  "parent_kode_dagri": "71.01.35"
 }

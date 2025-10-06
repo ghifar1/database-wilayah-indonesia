@@ -3,5 +3,6 @@
   "nama_bps": "WAME",
   "kode_dagri": "95.01.39",
   "nama_dagri": "WAME",
-  "parent_kode_bps": "9702"
+  "parent_kode_bps": "9702",
+  "parent_kode_dagri": "95.01"
 }

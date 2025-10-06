@@ -3,5 +3,6 @@
   "nama_bps": "PAKAN KURAI",
   "kode_dagri": "13.75.01.1003",
   "nama_dagri": "PAKAN KURAI",
-  "parent_kode_bps": "1375010"
+  "parent_kode_bps": "1375010",
+  "parent_kode_dagri": "13.75.01"
 }

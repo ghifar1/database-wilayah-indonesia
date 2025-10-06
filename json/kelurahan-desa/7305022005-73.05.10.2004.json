@@ -3,5 +3,6 @@
   "nama_bps": "BALANGDATU",
   "kode_dagri": "73.05.10.2004",
   "nama_dagri": "BALANGDATU",
-  "parent_kode_bps": "7305022"
+  "parent_kode_bps": "7305022",
+  "parent_kode_dagri": "73.05.10"
 }

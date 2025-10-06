@@ -3,5 +3,6 @@
   "nama_bps": "PANO",
   "kode_dagri": "93.03.09.2011",
   "nama_dagri": "PANO",
-  "parent_kode_bps": "9503020"
+  "parent_kode_bps": "9503020",
+  "parent_kode_dagri": "93.03.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "ABMISIBIL",
   "kode_dagri": "95.02.03.2002",
   "nama_dagri": "ABMISIBIL",
-  "parent_kode_bps": "9708200"
+  "parent_kode_bps": "9708200",
+  "parent_kode_dagri": "95.02.03"
 }

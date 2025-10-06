@@ -3,5 +3,6 @@
   "nama_bps": "LAHOMI",
   "kode_dagri": "12.25.01",
   "nama_dagri": "LAHOMI",
-  "parent_kode_bps": "1225"
+  "parent_kode_bps": "1225",
+  "parent_kode_dagri": "12.25"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "IPAR BONDAR",
   "kode_dagri": "12.13.01.2012",
   "nama_dagri": "IPAR BONDAR",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

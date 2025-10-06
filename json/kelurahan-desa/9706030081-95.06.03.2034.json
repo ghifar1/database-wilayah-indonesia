@@ -3,5 +3,6 @@
   "nama_bps": "ELESIM",
   "kode_dagri": "95.06.03.2034",
   "nama_dagri": "ELESIM",
-  "parent_kode_bps": "9706030"
+  "parent_kode_bps": "9706030",
+  "parent_kode_dagri": "95.06.03"
 }

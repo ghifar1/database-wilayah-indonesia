@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI KERADAK",
   "kode_dagri": "15.03.01.2002",
   "nama_dagri": "SUNGAI KERADAK",
-  "parent_kode_bps": "1503010"
+  "parent_kode_bps": "1503010",
+  "parent_kode_dagri": "15.03.01"
 }

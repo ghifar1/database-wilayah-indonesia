@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI DEDEN",
   "kode_dagri": "61.01.10.2006",
   "nama_dagri": "SUNGAI DEDEN",
-  "parent_kode_bps": "6101041"
+  "parent_kode_bps": "6101041",
+  "parent_kode_dagri": "61.01.10"
 }

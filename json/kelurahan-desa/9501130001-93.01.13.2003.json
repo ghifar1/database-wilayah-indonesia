@@ -3,5 +3,6 @@
   "nama_bps": "SENEGI",
   "kode_dagri": "93.01.13.2003",
   "nama_dagri": "SENEGI",
-  "parent_kode_bps": "9501130"
+  "parent_kode_bps": "9501130",
+  "parent_kode_dagri": "93.01.13"
 }

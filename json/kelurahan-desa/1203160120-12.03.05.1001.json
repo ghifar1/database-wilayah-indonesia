@@ -3,5 +3,6 @@
   "nama_bps": "SIPAGIMBAR",
   "kode_dagri": "12.03.05.1001",
   "nama_dagri": "PASAR SIPAGIMBAR",
-  "parent_kode_bps": "1203160"
+  "parent_kode_bps": "1203160",
+  "parent_kode_dagri": "12.03.05"
 }

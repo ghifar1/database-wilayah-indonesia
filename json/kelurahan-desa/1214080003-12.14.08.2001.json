@@ -3,5 +3,6 @@
   "nama_bps": "AMURI",
   "kode_dagri": "12.14.08.2001",
   "nama_dagri": "AMURI",
-  "parent_kode_bps": "1214080"
+  "parent_kode_bps": "1214080",
+  "parent_kode_dagri": "12.14.08"
 }

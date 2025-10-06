@@ -3,5 +3,6 @@
   "nama_bps": "TABARU",
   "kode_dagri": "82.01.07",
   "nama_dagri": "IBU UTARA",
-  "parent_kode_bps": "8201"
+  "parent_kode_bps": "8201",
+  "parent_kode_dagri": "82.01"
 }

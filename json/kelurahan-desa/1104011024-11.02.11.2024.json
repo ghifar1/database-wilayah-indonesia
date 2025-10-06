@@ -3,5 +3,6 @@
   "nama_bps": "SPERINDING",
   "kode_dagri": "11.02.11.2024",
   "nama_dagri": "SEPEKHINDING",
-  "parent_kode_bps": "1104011"
+  "parent_kode_bps": "1104011",
+  "parent_kode_dagri": "11.02.11"
 }

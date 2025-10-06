@@ -3,5 +3,6 @@
   "nama_bps": "DARAT SEKIP",
   "kode_dagri": "61.71.05.1002",
   "nama_dagri": "DARATSEKIP",
-  "parent_kode_bps": "6171031"
+  "parent_kode_bps": "6171031",
+  "parent_kode_dagri": "61.71.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LEMO TENGAH",
   "kode_dagri": "72.08.02.2033",
   "nama_dagri": "LEMO TENGAH",
-  "parent_kode_bps": "7208030"
+  "parent_kode_bps": "7208030",
+  "parent_kode_dagri": "72.08.02"
 }

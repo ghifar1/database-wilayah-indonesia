@@ -3,5 +3,6 @@
   "nama_bps": "SARANA AGUNG",
   "kode_dagri": "15.09.04.1009",
   "nama_dagri": "SARANA AGUNG",
-  "parent_kode_bps": "1508030"
+  "parent_kode_bps": "1508030",
+  "parent_kode_dagri": "15.09.04"
 }

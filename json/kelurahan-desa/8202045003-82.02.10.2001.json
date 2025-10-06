@@ -3,5 +3,6 @@
   "nama_bps": "SAKAM",
   "kode_dagri": "82.02.10.2001",
   "nama_dagri": "SAKAM",
-  "parent_kode_bps": "8202045"
+  "parent_kode_bps": "8202045",
+  "parent_kode_dagri": "82.02.10"
 }

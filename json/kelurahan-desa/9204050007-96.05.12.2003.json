@@ -3,5 +3,6 @@
   "nama_bps": "FRAMBU",
   "kode_dagri": "96.05.12.2003",
   "nama_dagri": "FRAMBU",
-  "parent_kode_bps": "9204050"
+  "parent_kode_bps": "9204050",
+  "parent_kode_dagri": "96.05.12"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI LANSEK",
   "kode_dagri": "13.03.06.2001",
   "nama_dagri": "SUNGAI LANSEK",
-  "parent_kode_bps": "1304050"
+  "parent_kode_bps": "1304050",
+  "parent_kode_dagri": "13.03.06"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "DELEGARI",
   "kode_dagri": "95.07.32.2006",
   "nama_dagri": "DELEGARI",
-  "parent_kode_bps": "9703350"
+  "parent_kode_bps": "9703350",
+  "parent_kode_dagri": "95.07.32"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KOTUP / XOTUP",
   "kode_dagri": "93.03.08.2008",
   "nama_dagri": "KOTUP",
-  "parent_kode_bps": "9503100"
+  "parent_kode_bps": "9503100",
+  "parent_kode_dagri": "93.03.08"
 }

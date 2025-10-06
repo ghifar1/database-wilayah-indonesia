@@ -3,5 +3,6 @@
   "nama_bps": "ARGENERI",
   "kode_dagri": "95.07.08.2003",
   "nama_dagri": "ARIGINERI",
-  "parent_kode_bps": "9703290"
+  "parent_kode_bps": "9703290",
+  "parent_kode_dagri": "95.07.08"
 }

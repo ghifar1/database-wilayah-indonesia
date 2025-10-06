@@ -3,5 +3,6 @@
   "nama_bps": "KOBA",
   "kode_dagri": "93.03.02.2003",
   "nama_dagri": "WAGHIEN/KOBA",
-  "parent_kode_bps": "9503010"
+  "parent_kode_bps": "9503010",
+  "parent_kode_dagri": "93.03.02"
 }

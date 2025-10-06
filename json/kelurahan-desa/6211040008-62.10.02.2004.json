@@ -3,5 +3,6 @@
   "nama_bps": "TELUK NYATU",
   "kode_dagri": "62.10.02.2004",
   "nama_dagri": "TELUK NYATU",
-  "parent_kode_bps": "6211040"
+  "parent_kode_bps": "6211040",
+  "parent_kode_dagri": "62.10.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SERAN",
   "kode_dagri": "52.07.03.2014",
   "nama_dagri": "SERAN",
-  "parent_kode_bps": "5207050"
+  "parent_kode_bps": "5207050",
+  "parent_kode_dagri": "52.07.03"
 }

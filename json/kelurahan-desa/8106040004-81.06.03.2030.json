@@ -3,5 +3,6 @@
   "nama_bps": "BURIA",
   "kode_dagri": "81.06.03.2030",
   "nama_dagri": "BURIA",
-  "parent_kode_bps": "8106040"
+  "parent_kode_bps": "8106040",
+  "parent_kode_dagri": "81.06.03"
 }

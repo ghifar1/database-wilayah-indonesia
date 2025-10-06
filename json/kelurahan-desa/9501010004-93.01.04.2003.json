@@ -3,5 +3,6 @@
   "nama_bps": "KUMBIS",
   "kode_dagri": "93.01.04.2003",
   "nama_dagri": "KUMBIS",
-  "parent_kode_bps": "9501010"
+  "parent_kode_bps": "9501010",
+  "parent_kode_dagri": "93.01.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MONTABARU",
   "kode_dagri": "52.05.05.1001",
   "nama_dagri": "MONTA BARU",
-  "parent_kode_bps": "5205030"
+  "parent_kode_bps": "5205030",
+  "parent_kode_dagri": "52.05.05"
 }

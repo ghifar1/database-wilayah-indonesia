@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN MALANGO",
   "kode_dagri": "73.26.01.1004",
   "nama_dagri": "MANGGALO",
-  "parent_kode_bps": "7326090"
+  "parent_kode_bps": "7326090",
+  "parent_kode_dagri": "73.26.01"
 }

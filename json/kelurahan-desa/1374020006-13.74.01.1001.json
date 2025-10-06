@@ -3,5 +3,6 @@
   "nama_bps": "GANTING",
   "kode_dagri": "13.74.01.1001",
   "nama_dagri": "GANTING",
-  "parent_kode_bps": "1374020"
+  "parent_kode_bps": "1374020",
+  "parent_kode_dagri": "13.74.01"
 }

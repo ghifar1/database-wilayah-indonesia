@@ -3,5 +3,6 @@
   "nama_bps": "KALIPADANG",
   "kode_dagri": "35.25.04.2005",
   "nama_dagri": "KALIPADANG",
-  "parent_kode_bps": "3525060"
+  "parent_kode_bps": "3525060",
+  "parent_kode_dagri": "35.25.04"
 }

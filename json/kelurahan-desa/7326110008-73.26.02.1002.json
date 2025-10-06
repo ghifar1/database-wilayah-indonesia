@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN PANGLI",
   "kode_dagri": "73.26.02.1002",
   "nama_dagri": "PANGLI",
-  "parent_kode_bps": "7326110"
+  "parent_kode_bps": "7326110",
+  "parent_kode_dagri": "73.26.02"
 }

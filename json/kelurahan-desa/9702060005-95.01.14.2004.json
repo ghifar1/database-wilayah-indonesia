@@ -3,5 +3,6 @@
   "nama_bps": "YELAI",
   "kode_dagri": "95.01.14.2004",
   "nama_dagri": "YELAI",
-  "parent_kode_bps": "9702060"
+  "parent_kode_bps": "9702060",
+  "parent_kode_dagri": "95.01.14"
 }

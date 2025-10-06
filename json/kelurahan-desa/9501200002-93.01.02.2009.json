@@ -3,5 +3,6 @@
   "nama_bps": "WAN WAI BOB",
   "kode_dagri": "93.01.02.2009",
   "nama_dagri": "MANWAY BOP",
-  "parent_kode_bps": "9501200"
+  "parent_kode_bps": "9501200",
+  "parent_kode_dagri": "93.01.02"
 }

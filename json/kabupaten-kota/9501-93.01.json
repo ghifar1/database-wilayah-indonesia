@@ -3,5 +3,6 @@
   "nama_bps": "KAB. MERAUKE",
   "kode_dagri": "93.01",
   "nama_dagri": "KABUPATEN MERAUKE",
-  "parent_kode_bps": "95"
+  "parent_kode_bps": "95",
+  "parent_kode_dagri": "93"
 }

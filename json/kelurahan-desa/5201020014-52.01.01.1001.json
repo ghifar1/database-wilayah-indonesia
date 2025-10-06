@@ -3,5 +3,6 @@
   "nama_bps": "GERUNG UTARA",
   "kode_dagri": "52.01.01.1001",
   "nama_dagri": "GERUNG UTARA",
-  "parent_kode_bps": "5201020"
+  "parent_kode_bps": "5201020",
+  "parent_kode_dagri": "52.01.01"
 }

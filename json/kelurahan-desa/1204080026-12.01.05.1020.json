@@ -3,5 +3,6 @@
   "nama_bps": "PERLUASAN",
   "kode_dagri": "12.01.05.1020",
   "nama_dagri": "PERLUASAN",
-  "parent_kode_bps": "1204080"
+  "parent_kode_bps": "1204080",
+  "parent_kode_dagri": "12.01.05"
 }

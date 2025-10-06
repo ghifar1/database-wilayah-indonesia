@@ -3,5 +3,6 @@
   "nama_bps": "SAMKAI",
   "kode_dagri": "93.01.01.1002",
   "nama_dagri": "SAMKAI",
-  "parent_kode_bps": "9501140"
+  "parent_kode_bps": "9501140",
+  "parent_kode_dagri": "93.01.01"
 }

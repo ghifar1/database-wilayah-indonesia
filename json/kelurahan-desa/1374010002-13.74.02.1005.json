@@ -3,5 +3,6 @@
   "nama_bps": "SILAING ATAS",
   "kode_dagri": "13.74.02.1005",
   "nama_dagri": "SILAING ATAS",
-  "parent_kode_bps": "1374010"
+  "parent_kode_bps": "1374010",
+  "parent_kode_dagri": "13.74.02"
 }

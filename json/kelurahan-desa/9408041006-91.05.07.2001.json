@@ -3,5 +3,6 @@
   "nama_bps": "TINDARET",
   "kode_dagri": "91.05.07.2001",
   "nama_dagri": "TINDARET",
-  "parent_kode_bps": "9408041"
+  "parent_kode_bps": "9408041",
+  "parent_kode_dagri": "91.05.07"
 }

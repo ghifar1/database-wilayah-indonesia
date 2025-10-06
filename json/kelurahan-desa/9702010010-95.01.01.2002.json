@@ -3,5 +3,6 @@
   "nama_bps": "HONELAMA",
   "kode_dagri": "95.01.01.2002",
   "nama_dagri": "HONELAMA",
-  "parent_kode_bps": "9702010"
+  "parent_kode_bps": "9702010",
+  "parent_kode_dagri": "95.01.01"
 }

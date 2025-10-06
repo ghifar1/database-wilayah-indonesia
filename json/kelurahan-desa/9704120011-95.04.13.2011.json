@@ -3,5 +3,6 @@
   "nama_bps": "BERENAME",
   "kode_dagri": "95.04.13.2011",
   "nama_dagri": "BARENAME/LUANGGI",
-  "parent_kode_bps": "9704120"
+  "parent_kode_bps": "9704120",
+  "parent_kode_dagri": "95.04.13"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KARANGCANGKRING",
   "kode_dagri": "35.25.01.2002",
   "nama_dagri": "KARANGCANGKRING",
-  "parent_kode_bps": "3525140"
+  "parent_kode_bps": "3525140",
+  "parent_kode_dagri": "35.25.01"
 }

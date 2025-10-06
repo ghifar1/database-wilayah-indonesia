@@ -3,5 +3,6 @@
   "nama_bps": "SINAKMA",
   "kode_dagri": "95.01.01.1007",
   "nama_dagri": "SINAKMA",
-  "parent_kode_bps": "9702010"
+  "parent_kode_bps": "9702010",
+  "parent_kode_dagri": "95.01.01"
 }

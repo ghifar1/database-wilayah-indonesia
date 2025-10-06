@@ -3,5 +3,6 @@
   "nama_bps": "MONTONG ARE",
   "kode_dagri": "52.01.02.2002",
   "nama_dagri": "MONTONG ARE",
-  "parent_kode_bps": "5201040"
+  "parent_kode_bps": "5201040",
+  "parent_kode_dagri": "52.01.02"
 }

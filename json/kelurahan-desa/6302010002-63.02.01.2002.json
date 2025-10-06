@@ -3,5 +3,6 @@
   "nama_bps": "TELUK SUNGAI",
   "kode_dagri": "63.02.01.2002",
   "nama_dagri": "TELUK SUNGAI",
-  "parent_kode_bps": "6302010"
+  "parent_kode_bps": "6302010",
+  "parent_kode_dagri": "63.02.01"
 }

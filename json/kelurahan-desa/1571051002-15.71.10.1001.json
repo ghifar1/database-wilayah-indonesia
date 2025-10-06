@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI PUTRI",
   "kode_dagri": "15.71.10.1001",
   "nama_dagri": "SUNGAI PUTRI",
-  "parent_kode_bps": "1571051"
+  "parent_kode_bps": "1571051",
+  "parent_kode_dagri": "15.71.10"
 }

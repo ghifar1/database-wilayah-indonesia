@@ -3,5 +3,6 @@
   "nama_bps": "DOMO",
   "kode_dagri": "93.02.10.2005",
   "nama_dagri": "DOMO",
-  "parent_kode_bps": "9502040"
+  "parent_kode_bps": "9502040",
+  "parent_kode_dagri": "93.02.10"
 }

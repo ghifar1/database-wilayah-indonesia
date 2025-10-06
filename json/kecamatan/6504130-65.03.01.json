@@ -3,5 +3,6 @@
   "nama_bps": "SEBATIK",
   "kode_dagri": "65.03.01",
   "nama_dagri": "SEBATIK",
-  "parent_kode_bps": "6504"
+  "parent_kode_bps": "6504",
+  "parent_kode_dagri": "65.03"
 }

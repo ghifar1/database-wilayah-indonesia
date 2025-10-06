@@ -3,5 +3,6 @@
   "nama_bps": "KOTO PANJANG",
   "kode_dagri": "13.74.01.1006",
   "nama_dagri": "KOTO PANJANG",
-  "parent_kode_bps": "1374020"
+  "parent_kode_bps": "1374020",
+  "parent_kode_dagri": "13.74.01"
 }

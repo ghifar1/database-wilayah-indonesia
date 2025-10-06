@@ -3,5 +3,6 @@
   "nama_bps": "NAPAN",
   "kode_dagri": "94.01.02.2001",
   "nama_dagri": "NAPAN",
-  "parent_kode_bps": "9604050"
+  "parent_kode_bps": "9604050",
+  "parent_kode_dagri": "94.01.02"
 }

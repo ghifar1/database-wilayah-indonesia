@@ -3,5 +3,6 @@
   "nama_bps": "PASAR BARU",
   "kode_dagri": "15.72.01.2004",
   "nama_dagri": "PASAR BARU",
-  "parent_kode_bps": "1572030"
+  "parent_kode_bps": "1572030",
+  "parent_kode_dagri": "15.72.01"
 }

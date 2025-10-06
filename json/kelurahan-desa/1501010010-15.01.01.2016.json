@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI HANGAT",
   "kode_dagri": "15.01.01.2016",
   "nama_dagri": "SUNGAIHANGAT",
-  "parent_kode_bps": "1501010"
+  "parent_kode_bps": "1501010",
+  "parent_kode_dagri": "15.01.01"
 }

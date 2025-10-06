@@ -3,5 +3,6 @@
   "nama_bps": "KIBO",
   "kode_dagri": "95.08.17.2012",
   "nama_dagri": "KIBO",
-  "parent_kode_bps": "9701200"
+  "parent_kode_bps": "9701200",
+  "parent_kode_dagri": "95.08.17"
 }

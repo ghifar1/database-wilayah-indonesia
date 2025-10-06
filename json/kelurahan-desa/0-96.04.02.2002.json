@@ -3,5 +3,6 @@
   "nama_bps": "0",
   "kode_dagri": "96.04.02.2002",
   "nama_dagri": "AIBOGIAR",
-  "parent_kode_bps": "9205110"
+  "parent_kode_bps": "9205110",
+  "parent_kode_dagri": "96.04.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KLASIGI",
   "kode_dagri": "96.01.01.2012",
   "nama_dagri": "KLASIGI",
-  "parent_kode_bps": "9202110"
+  "parent_kode_bps": "9202110",
+  "parent_kode_dagri": "96.01.01"
 }

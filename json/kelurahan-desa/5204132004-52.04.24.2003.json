@@ -3,5 +3,6 @@
   "nama_bps": "PEMASAR",
   "kode_dagri": "52.04.24.2003",
   "nama_dagri": "PEMASAR",
-  "parent_kode_bps": "5204132"
+  "parent_kode_bps": "5204132",
+  "parent_kode_dagri": "52.04.24"
 }

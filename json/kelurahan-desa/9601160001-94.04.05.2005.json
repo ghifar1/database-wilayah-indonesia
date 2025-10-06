@@ -3,5 +3,6 @@
   "nama_bps": "SUMAPRO",
   "kode_dagri": "94.04.05.2005",
   "nama_dagri": "SUMAPRO",
-  "parent_kode_bps": "9601160"
+  "parent_kode_bps": "9601160",
+  "parent_kode_dagri": "94.04.05"
 }

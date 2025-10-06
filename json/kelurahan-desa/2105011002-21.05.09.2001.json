@@ -3,5 +3,6 @@
   "nama_bps": "IMPOL",
   "kode_dagri": "21.05.09.2001",
   "nama_dagri": "IMPOL",
-  "parent_kode_bps": "2105011"
+  "parent_kode_bps": "2105011",
+  "parent_kode_dagri": "21.05.09"
 }

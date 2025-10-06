@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI BENGKAL",
   "kode_dagri": "15.09.02.1001",
   "nama_dagri": "SUNGAI BENGKAL",
-  "parent_kode_bps": "1508010"
+  "parent_kode_bps": "1508010",
+  "parent_kode_dagri": "15.09.02"
 }

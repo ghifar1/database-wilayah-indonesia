@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG NANGKA",
   "kode_dagri": "17.02.11.1008",
   "nama_dagri": "SIMPANG NANGKA",
-  "parent_kode_bps": "1702042"
+  "parent_kode_bps": "1702042",
+  "parent_kode_dagri": "17.02.11"
 }

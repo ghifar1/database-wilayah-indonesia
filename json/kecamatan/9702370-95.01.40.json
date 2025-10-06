@@ -3,5 +3,6 @@
   "nama_bps": "WESAPUT",
   "kode_dagri": "95.01.40",
   "nama_dagri": "WESAPUT",
-  "parent_kode_bps": "9702"
+  "parent_kode_bps": "9702",
+  "parent_kode_dagri": "95.01"
 }

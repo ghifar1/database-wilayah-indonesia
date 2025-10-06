@@ -3,5 +3,6 @@
   "nama_bps": "HAJORAN",
   "kode_dagri": "12.01.03.1002",
   "nama_dagri": "HAJORAN",
-  "parent_kode_bps": "1204030"
+  "parent_kode_bps": "1204030",
+  "parent_kode_dagri": "12.01.03"
 }

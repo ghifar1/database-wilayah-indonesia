@@ -3,5 +3,6 @@
   "nama_bps": "DALAM BUGIS",
   "kode_dagri": "61.71.02.1006",
   "nama_dagri": "DALAMBUGIS",
-  "parent_kode_bps": "6171020"
+  "parent_kode_bps": "6171020",
+  "parent_kode_dagri": "61.71.02"
 }

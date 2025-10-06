@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANG MARANTE",
   "kode_dagri": "73.26.08.2005",
   "nama_dagri": "MARANTE",
-  "parent_kode_bps": "7326010"
+  "parent_kode_bps": "7326010",
+  "parent_kode_dagri": "73.26.08"
 }

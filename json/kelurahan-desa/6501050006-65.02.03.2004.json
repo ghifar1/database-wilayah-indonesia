@@ -3,5 +3,6 @@
   "nama_bps": "LONG LAME",
   "kode_dagri": "65.02.03.2004",
   "nama_dagri": "LONG LAME",
-  "parent_kode_bps": "6501050"
+  "parent_kode_bps": "6501050",
+  "parent_kode_dagri": "65.02.03"
 }

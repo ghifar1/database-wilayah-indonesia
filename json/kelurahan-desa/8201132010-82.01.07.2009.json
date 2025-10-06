@@ -3,5 +3,6 @@
   "nama_bps": "BORONA",
   "kode_dagri": "82.01.07.2009",
   "nama_dagri": "BARONA",
-  "parent_kode_bps": "8201132"
+  "parent_kode_bps": "8201132",
+  "parent_kode_dagri": "82.01.07"
 }

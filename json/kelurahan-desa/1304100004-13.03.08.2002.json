@@ -3,5 +3,6 @@
   "nama_bps": "PALALUAR",
   "kode_dagri": "13.03.08.2002",
   "nama_dagri": "PALALUAR",
-  "parent_kode_bps": "1304100"
+  "parent_kode_bps": "1304100",
+  "parent_kode_dagri": "13.03.08"
 }

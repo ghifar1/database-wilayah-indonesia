@@ -3,5 +3,6 @@
   "nama_bps": "SISIR",
   "kode_dagri": "96.02.12.2005",
   "nama_dagri": "SISIR",
-  "parent_kode_bps": "9203110"
+  "parent_kode_bps": "9203110",
+  "parent_kode_dagri": "96.02.12"
 }

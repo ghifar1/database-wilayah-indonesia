@@ -3,5 +3,6 @@
   "nama_bps": "SIFAURUASI",
   "kode_dagri": "12.14.31.2008",
   "nama_dagri": "SIFAURUASI",
-  "parent_kode_bps": "1214011"
+  "parent_kode_bps": "1214011",
+  "parent_kode_dagri": "12.14.31"
 }

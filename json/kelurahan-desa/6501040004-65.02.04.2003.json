@@ -3,5 +3,6 @@
   "nama_bps": "LONG SULE",
   "kode_dagri": "65.02.04.2003",
   "nama_dagri": "LONG SULE",
-  "parent_kode_bps": "6501040"
+  "parent_kode_bps": "6501040",
+  "parent_kode_dagri": "65.02.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MUARA PENGEAN",
   "kode_dagri": "65.01.07.2005",
   "nama_dagri": "MUARA PANGEAN",
-  "parent_kode_bps": "6502010"
+  "parent_kode_bps": "6502010",
+  "parent_kode_dagri": "65.01.07"
 }

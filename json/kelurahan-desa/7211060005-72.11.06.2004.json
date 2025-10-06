@@ -3,5 +3,6 @@
   "nama_bps": "MALINO",
   "kode_dagri": "72.11.06.2004",
   "nama_dagri": "MALINO PADAS",
-  "parent_kode_bps": "7211060"
+  "parent_kode_bps": "7211060",
+  "parent_kode_dagri": "72.11.06"
 }

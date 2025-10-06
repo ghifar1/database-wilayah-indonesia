@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI TERAB",
   "kode_dagri": "14.04.01.2004",
   "nama_dagri": "SUNGAITERAP",
-  "parent_kode_bps": "1403020"
+  "parent_kode_bps": "1403020",
+  "parent_kode_dagri": "14.04.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "ALOLIK",
   "kode_dagri": "95.01.22.2004",
   "nama_dagri": "AROGOLIK",
-  "parent_kode_bps": "9702240"
+  "parent_kode_bps": "9702240",
+  "parent_kode_dagri": "95.01.22"
 }

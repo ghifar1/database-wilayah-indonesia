@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN BARUPPU SELATAN",
   "kode_dagri": "73.26.14.1002",
   "nama_dagri": "BARUPPU SELATAN",
-  "parent_kode_bps": "7326210"
+  "parent_kode_bps": "7326210",
+  "parent_kode_dagri": "73.26.14"
 }

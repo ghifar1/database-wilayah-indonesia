@@ -3,5 +3,6 @@
   "nama_bps": "SUMUR",
   "kode_dagri": "33.09.21.2005",
   "nama_dagri": "SUMUR",
-  "parent_kode_bps": "3309041"
+  "parent_kode_bps": "3309041",
+  "parent_kode_dagri": "33.09.21"
 }

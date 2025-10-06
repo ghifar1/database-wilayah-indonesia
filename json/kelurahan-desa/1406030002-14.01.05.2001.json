@@ -3,5 +3,6 @@
   "nama_bps": "KUOK",
   "kode_dagri": "14.01.05.2001",
   "nama_dagri": "KUOK",
-  "parent_kode_bps": "1406030"
+  "parent_kode_bps": "1406030",
+  "parent_kode_dagri": "14.01.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SEMANGGA",
   "kode_dagri": "93.01.05",
   "nama_dagri": "SEMANGGA",
-  "parent_kode_bps": "9501"
+  "parent_kode_bps": "9501",
+  "parent_kode_dagri": "93.01"
 }

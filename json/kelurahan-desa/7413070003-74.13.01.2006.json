@@ -3,5 +3,6 @@
   "nama_bps": "MAROBEA",
   "kode_dagri": "74.13.01.2006",
   "nama_dagri": "MAROBEA",
-  "parent_kode_bps": "7413070"
+  "parent_kode_bps": "7413070",
+  "parent_kode_dagri": "74.13.01"
 }

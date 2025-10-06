@@ -3,5 +3,6 @@
   "nama_bps": "KEMANTREN REJO",
   "kode_dagri": "35.14.23.2014",
   "nama_dagri": "KEMANTRENREJO",
-  "parent_kode_bps": "3514200"
+  "parent_kode_bps": "3514200",
+  "parent_kode_dagri": "35.14.23"
 }

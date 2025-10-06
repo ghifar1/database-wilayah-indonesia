@@ -3,5 +3,6 @@
   "nama_bps": "LUBUK BESAR",
   "kode_dagri": "13.10.10.2003",
   "nama_dagri": "LUBUK BESAR",
-  "parent_kode_bps": "1311012"
+  "parent_kode_bps": "1311012",
+  "parent_kode_dagri": "13.10.10"
 }

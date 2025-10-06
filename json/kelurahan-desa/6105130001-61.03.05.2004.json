@@ -3,5 +3,6 @@
   "nama_bps": "UPE",
   "kode_dagri": "61.03.05.2004",
   "nama_dagri": "UPE",
-  "parent_kode_bps": "6105130"
+  "parent_kode_bps": "6105130",
+  "parent_kode_dagri": "61.03.05"
 }

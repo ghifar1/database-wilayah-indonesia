@@ -3,5 +3,6 @@
   "nama_bps": "SOBA",
   "kode_dagri": "95.03.16.2001",
   "nama_dagri": "SOBA",
-  "parent_kode_bps": "9707300"
+  "parent_kode_bps": "9707300",
+  "parent_kode_dagri": "95.03.16"
 }

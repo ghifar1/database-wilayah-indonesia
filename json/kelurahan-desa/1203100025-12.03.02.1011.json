@@ -3,5 +3,6 @@
   "nama_bps": "PERK BATANG TORU",
   "kode_dagri": "12.03.02.1011",
   "nama_dagri": "PERKEBUNAN BATANG TORU",
-  "parent_kode_bps": "1203100"
+  "parent_kode_bps": "1203100",
+  "parent_kode_dagri": "12.03.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PASSO",
   "kode_dagri": "71.02.20.2005",
   "nama_dagri": "PASSO",
-  "parent_kode_bps": "7102211"
+  "parent_kode_bps": "7102211",
+  "parent_kode_dagri": "71.02.20"
 }

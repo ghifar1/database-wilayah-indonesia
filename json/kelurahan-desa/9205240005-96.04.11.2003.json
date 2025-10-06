@@ -3,5 +3,6 @@
   "nama_bps": "SRUREM",
   "kode_dagri": "96.04.11.2003",
   "nama_dagri": "SRUREM",
-  "parent_kode_bps": "9205240"
+  "parent_kode_bps": "9205240",
+  "parent_kode_dagri": "96.04.11"
 }

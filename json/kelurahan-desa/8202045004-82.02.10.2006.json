@@ -3,5 +3,6 @@
   "nama_bps": "PALLO",
   "kode_dagri": "82.02.10.2006",
   "nama_dagri": "PALO",
-  "parent_kode_bps": "8202045"
+  "parent_kode_bps": "8202045",
+  "parent_kode_dagri": "82.02.10"
 }

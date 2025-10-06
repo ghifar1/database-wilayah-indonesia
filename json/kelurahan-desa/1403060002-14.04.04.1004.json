@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI PERAK",
   "kode_dagri": "14.04.04.1004",
   "nama_dagri": "SUNGAIPERAK",
-  "parent_kode_bps": "1403060"
+  "parent_kode_bps": "1403060",
+  "parent_kode_dagri": "14.04.04"
 }

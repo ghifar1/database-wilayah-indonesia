@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG TONANG",
   "kode_dagri": "13.08.12.2001",
   "nama_dagri": "SIMPANG TONANG",
-  "parent_kode_bps": "1309100"
+  "parent_kode_bps": "1309100",
+  "parent_kode_dagri": "13.08.12"
 }

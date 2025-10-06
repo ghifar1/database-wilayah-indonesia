@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG TIGA SEMBELANGAAN",
   "kode_dagri": "61.04.11.2011",
   "nama_dagri": "SIMPANG TIGA SEMBELANGAAN",
-  "parent_kode_bps": "6106090"
+  "parent_kode_bps": "6106090",
+  "parent_kode_dagri": "61.04.11"
 }

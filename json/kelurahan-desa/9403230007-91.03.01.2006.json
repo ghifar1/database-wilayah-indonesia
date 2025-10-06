@@ -3,5 +3,6 @@
   "nama_bps": "IFALE / AJAU",
   "kode_dagri": "91.03.01.2006",
   "nama_dagri": "ILFELE",
-  "parent_kode_bps": "9403230"
+  "parent_kode_bps": "9403230",
+  "parent_kode_dagri": "91.03.01"
 }

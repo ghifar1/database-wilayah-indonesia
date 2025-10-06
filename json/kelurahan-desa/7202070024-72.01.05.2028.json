@@ -3,5 +3,6 @@
   "nama_bps": "KOTA RAYA",
   "kode_dagri": "72.01.05.2028",
   "nama_dagri": "KOTA RAYA",
-  "parent_kode_bps": "7202070"
+  "parent_kode_bps": "7202070",
+  "parent_kode_dagri": "72.01.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "COCOMARE",
   "kode_dagri": "82.07.02.2004",
   "nama_dagri": "CUCUMARE",
-  "parent_kode_bps": "8207030"
+  "parent_kode_bps": "8207030",
+  "parent_kode_dagri": "82.07.02"
 }

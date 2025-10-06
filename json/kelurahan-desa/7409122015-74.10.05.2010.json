@@ -3,5 +3,6 @@
   "nama_bps": "BIRA",
   "kode_dagri": "74.10.05.2010",
   "nama_dagri": "BIRA",
-  "parent_kode_bps": "7409122"
+  "parent_kode_bps": "7409122",
+  "parent_kode_dagri": "74.10.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PARU",
   "kode_dagri": "95.08.06.2004",
   "nama_dagri": "PARU",
-  "parent_kode_bps": "9701180"
+  "parent_kode_bps": "9701180",
+  "parent_kode_dagri": "95.08.06"
 }

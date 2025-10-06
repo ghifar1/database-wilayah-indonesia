@@ -3,5 +3,6 @@
   "nama_bps": "ABAI",
   "kode_dagri": "13.11.05.2001",
   "nama_dagri": "ABAI",
-  "parent_kode_bps": "1310030"
+  "parent_kode_bps": "1310030",
+  "parent_kode_dagri": "13.11.05"
 }

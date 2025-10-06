@@ -3,5 +3,6 @@
   "nama_bps": "JOMBONG",
   "kode_dagri": "33.09.03.2002",
   "nama_dagri": "JOMBONG",
-  "parent_kode_bps": "3309030"
+  "parent_kode_bps": "3309030",
+  "parent_kode_dagri": "33.09.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "DUSUN BESAR",
   "kode_dagri": "61.11.04.2004",
   "nama_dagri": "DUSUN BESAR",
-  "parent_kode_bps": "6111010"
+  "parent_kode_bps": "6111010",
+  "parent_kode_dagri": "61.11.04"
 }

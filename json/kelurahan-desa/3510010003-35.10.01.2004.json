@@ -3,5 +3,6 @@
   "nama_bps": "SUMBERAGUNG",
   "kode_dagri": "35.10.01.2004",
   "nama_dagri": "SUMBERAGUNG",
-  "parent_kode_bps": "3510010"
+  "parent_kode_bps": "3510010",
+  "parent_kode_dagri": "35.10.01"
 }

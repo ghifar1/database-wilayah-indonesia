@@ -3,5 +3,6 @@
   "nama_bps": "LONG KABID",
   "kode_dagri": "65.03.19.2005",
   "nama_dagri": "LONG KABID",
-  "parent_kode_bps": "6504022"
+  "parent_kode_bps": "6504022",
+  "parent_kode_dagri": "65.03.19"
 }

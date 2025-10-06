@@ -3,5 +3,6 @@
   "nama_bps": "SEI MANURUNG",
   "kode_dagri": "65.03.01.2003",
   "nama_dagri": "SUNGAI MANURUNG",
-  "parent_kode_bps": "6504130"
+  "parent_kode_bps": "6504130",
+  "parent_kode_dagri": "65.03.01"
 }

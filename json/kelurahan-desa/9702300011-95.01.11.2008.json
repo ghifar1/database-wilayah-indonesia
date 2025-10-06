@@ -3,5 +3,6 @@
   "nama_bps": "AIPAKMA",
   "kode_dagri": "95.01.11.2008",
   "nama_dagri": "AIPAKMA",
-  "parent_kode_bps": "9702300"
+  "parent_kode_bps": "9702300",
+  "parent_kode_dagri": "95.01.11"
 }

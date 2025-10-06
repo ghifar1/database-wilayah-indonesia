@@ -3,5 +3,6 @@
   "nama_bps": "LONAS",
   "kode_dagri": "72.01.22.2009",
   "nama_dagri": "LONAS",
-  "parent_kode_bps": "7202072"
+  "parent_kode_bps": "7202072",
+  "parent_kode_dagri": "72.01.22"
 }

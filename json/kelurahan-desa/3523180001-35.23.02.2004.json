@@ -3,5 +3,6 @@
   "nama_bps": "KARANGTENGAH",
   "kode_dagri": "35.23.02.2004",
   "nama_dagri": "KARANGTENGAH",
-  "parent_kode_bps": "3523180"
+  "parent_kode_bps": "3523180",
+  "parent_kode_dagri": "35.23.02"
 }

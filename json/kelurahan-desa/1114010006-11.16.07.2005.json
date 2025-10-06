@@ -3,5 +3,6 @@
   "nama_bps": "PERK PULAU TIGA",
   "kode_dagri": "11.16.07.2005",
   "nama_dagri": "PERKEBUNAN PULAU TIGA",
-  "parent_kode_bps": "1114010"
+  "parent_kode_bps": "1114010",
+  "parent_kode_dagri": "11.16.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG DELI KAMPONG",
   "kode_dagri": "11.15.05.2048",
   "nama_dagri": "SIMPANG DELI KAMPONG",
-  "parent_kode_bps": "1115010"
+  "parent_kode_bps": "1115010",
+  "parent_kode_dagri": "11.15.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "DOMANDE",
   "kode_dagri": "93.01.14.2006",
   "nama_dagri": "DOMANDE",
-  "parent_kode_bps": "9501120"
+  "parent_kode_bps": "9501120",
+  "parent_kode_dagri": "93.01.14"
 }

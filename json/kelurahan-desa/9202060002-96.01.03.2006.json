@@ -3,5 +3,6 @@
   "nama_bps": "MALAUS",
   "kode_dagri": "96.01.03.2006",
   "nama_dagri": "MALAUS",
-  "parent_kode_bps": "9202060"
+  "parent_kode_bps": "9202060",
+  "parent_kode_dagri": "96.01.03"
 }

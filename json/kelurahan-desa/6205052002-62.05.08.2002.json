@@ -3,5 +3,6 @@
   "nama_bps": "TRINSING",
   "kode_dagri": "62.05.08.2002",
   "nama_dagri": "TRINSING",
-  "parent_kode_bps": "6205052"
+  "parent_kode_bps": "6205052",
+  "parent_kode_dagri": "62.05.08"
 }

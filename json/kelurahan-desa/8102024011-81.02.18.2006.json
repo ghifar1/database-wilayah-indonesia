@@ -3,5 +3,6 @@
   "nama_bps": "HAKO",
   "kode_dagri": "81.02.18.2006",
   "nama_dagri": "HOKO",
-  "parent_kode_bps": "8102024"
+  "parent_kode_bps": "8102024",
+  "parent_kode_dagri": "81.02.18"
 }

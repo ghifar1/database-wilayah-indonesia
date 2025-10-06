@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG TIGA PAGAR GASING",
   "kode_dagri": "17.05.03.2045",
   "nama_dagri": "SIMPANG TIGA PAGAR GASING",
-  "parent_kode_bps": "1705030"
+  "parent_kode_bps": "1705030",
+  "parent_kode_dagri": "17.05.03"
 }

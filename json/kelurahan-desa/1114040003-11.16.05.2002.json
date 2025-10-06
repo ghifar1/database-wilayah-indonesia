@@ -3,5 +3,6 @@
   "nama_bps": "PERDAMAIAN",
   "kode_dagri": "11.16.05.2002",
   "nama_dagri": "PERDAMAIAN",
-  "parent_kode_bps": "1114040"
+  "parent_kode_bps": "1114040",
+  "parent_kode_dagri": "11.16.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "TAGANIK",
   "kode_dagri": "95.01.11.2002",
   "nama_dagri": "TAGANIK",
-  "parent_kode_bps": "9702300"
+  "parent_kode_bps": "9702300",
+  "parent_kode_dagri": "95.01.11"
 }

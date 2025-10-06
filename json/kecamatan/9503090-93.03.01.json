@@ -3,5 +3,6 @@
   "nama_bps": "OBAA",
   "kode_dagri": "93.03.01",
   "nama_dagri": "OBAA",
-  "parent_kode_bps": "9503"
+  "parent_kode_bps": "9503",
+  "parent_kode_dagri": "93.03"
 }

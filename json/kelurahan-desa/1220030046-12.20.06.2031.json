@@ -3,5 +3,6 @@
   "nama_bps": "BANGKUDU",
   "kode_dagri": "12.20.06.2031",
   "nama_dagri": "BANGKUDU",
-  "parent_kode_bps": "1220030"
+  "parent_kode_bps": "1220030",
+  "parent_kode_dagri": "12.20.06"
 }

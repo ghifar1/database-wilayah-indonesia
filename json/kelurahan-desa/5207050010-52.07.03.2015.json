@@ -3,5 +3,6 @@
   "nama_bps": "LOKA",
   "kode_dagri": "52.07.03.2015",
   "nama_dagri": "DESALOKA",
-  "parent_kode_bps": "5207050"
+  "parent_kode_bps": "5207050",
+  "parent_kode_dagri": "52.07.03"
 }

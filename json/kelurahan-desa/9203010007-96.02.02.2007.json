@@ -3,5 +3,6 @@
   "nama_bps": "NOGIBI",
   "kode_dagri": "96.02.02.2007",
   "nama_dagri": "MOGIBI",
-  "parent_kode_bps": "9203010"
+  "parent_kode_bps": "9203010",
+  "parent_kode_dagri": "96.02.02"
 }

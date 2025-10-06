@@ -3,5 +3,6 @@
   "nama_bps": "PANTAP",
   "kode_dagri": "62.02.03.2032",
   "nama_dagri": "PANTAP",
-  "parent_kode_bps": "6202210"
+  "parent_kode_bps": "6202210",
+  "parent_kode_dagri": "62.02.03"
 }

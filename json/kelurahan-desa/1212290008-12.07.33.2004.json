@@ -3,5 +3,6 @@
   "nama_bps": "PASAR ENAM KUALA NAMU",
   "kode_dagri": "12.07.33.2004",
   "nama_dagri": "PASAR VI KUALA NAMU",
-  "parent_kode_bps": "1212290"
+  "parent_kode_bps": "1212290",
+  "parent_kode_dagri": "12.07.33"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MOKBIRAN",
   "kode_dagri": "93.02.07.2002",
   "nama_dagri": "MOUKBIRAN",
-  "parent_kode_bps": "9502130"
+  "parent_kode_bps": "9502130",
+  "parent_kode_dagri": "93.02.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "METRO",
   "kode_dagri": "14.04.01.1017",
   "nama_dagri": "METRO",
-  "parent_kode_bps": "1403020"
+  "parent_kode_bps": "1403020",
+  "parent_kode_dagri": "14.04.01"
 }

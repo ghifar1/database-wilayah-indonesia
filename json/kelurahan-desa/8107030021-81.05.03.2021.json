@@ -3,5 +3,6 @@
   "nama_bps": "BEMO PERAK",
   "kode_dagri": "81.05.03.2021",
   "nama_dagri": "BEMO PERAK",
-  "parent_kode_bps": "8107030"
+  "parent_kode_bps": "8107030",
+  "parent_kode_dagri": "81.05.03"
 }

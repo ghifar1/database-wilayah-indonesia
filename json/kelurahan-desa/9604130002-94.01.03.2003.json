@@ -3,5 +3,6 @@
   "nama_bps": "SIMA",
   "kode_dagri": "94.01.03.2003",
   "nama_dagri": "SIMA",
-  "parent_kode_bps": "9604130"
+  "parent_kode_bps": "9604130",
+  "parent_kode_dagri": "94.01.03"
 }

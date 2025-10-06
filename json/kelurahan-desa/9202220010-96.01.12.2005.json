@@ -3,5 +3,6 @@
   "nama_bps": "SAS",
   "kode_dagri": "96.01.12.2005",
   "nama_dagri": "SAS",
-  "parent_kode_bps": "9202220"
+  "parent_kode_bps": "9202220",
+  "parent_kode_dagri": "96.01.12"
 }

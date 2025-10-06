@@ -3,5 +3,6 @@
   "nama_bps": "GETIEM",
   "kode_dagri": "95.04.31.2006",
   "nama_dagri": "GETIEM",
-  "parent_kode_bps": "9704460"
+  "parent_kode_bps": "9704460",
+  "parent_kode_dagri": "95.04.31"
 }

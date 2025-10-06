@@ -3,5 +3,6 @@
   "nama_bps": "PUNGGUNG LADING",
   "kode_dagri": "13.77.03.2020",
   "nama_dagri": "PUNGGUNG LADING",
-  "parent_kode_bps": "1377010"
+  "parent_kode_bps": "1377010",
+  "parent_kode_dagri": "13.77.03"
 }

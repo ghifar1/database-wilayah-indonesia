@@ -3,5 +3,6 @@
   "nama_bps": "SEI BENING",
   "kode_dagri": "61.01.09.2005",
   "nama_dagri": "SUNGAI BENING",
-  "parent_kode_bps": "6101080"
+  "parent_kode_bps": "6101080",
+  "parent_kode_dagri": "61.01.09"
 }

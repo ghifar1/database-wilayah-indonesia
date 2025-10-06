@@ -3,5 +3,6 @@
   "nama_bps": "WAMAROMA",
   "kode_dagri": "95.01.01.2011",
   "nama_dagri": "WAMAROMA",
-  "parent_kode_bps": "9702010"
+  "parent_kode_bps": "9702010",
+  "parent_kode_dagri": "95.01.01"
 }

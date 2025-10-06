@@ -3,5 +3,6 @@
   "nama_bps": "POKEGI",
   "kode_dagri": "95.04.06.2002",
   "nama_dagri": "POKEGI",
-  "parent_kode_bps": "9704100"
+  "parent_kode_bps": "9704100",
+  "parent_kode_dagri": "95.04.06"
 }

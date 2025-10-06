@@ -3,5 +3,6 @@
   "nama_bps": "TIKUPON",
   "kode_dagri": "72.01.08.2002",
   "nama_dagri": "TIKUPAN",
-  "parent_kode_bps": "7202061"
+  "parent_kode_bps": "7202061",
+  "parent_kode_dagri": "72.01.08"
 }

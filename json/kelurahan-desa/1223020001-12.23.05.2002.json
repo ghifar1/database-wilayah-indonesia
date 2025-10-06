@@ -3,5 +3,6 @@
   "nama_bps": "PERKEBUNAN PERNANTIAN",
   "kode_dagri": "12.23.05.2002",
   "nama_dagri": "PERKEBUNAN PERNANTIAN",
-  "parent_kode_bps": "1223020"
+  "parent_kode_bps": "1223020",
+  "parent_kode_dagri": "12.23.05"
 }

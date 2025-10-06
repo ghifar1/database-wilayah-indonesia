@@ -3,5 +3,6 @@
   "nama_bps": "PASAR GUNUNG SITOLI",
   "kode_dagri": "12.78.01.1030",
   "nama_dagri": "PASAR GUNUNGSITOLI",
-  "parent_kode_bps": "1278040"
+  "parent_kode_bps": "1278040",
+  "parent_kode_dagri": "12.78.01"
 }

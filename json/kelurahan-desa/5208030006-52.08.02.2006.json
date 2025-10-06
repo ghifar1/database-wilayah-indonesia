@@ -3,5 +3,6 @@
   "nama_bps": "SELELOS",
   "kode_dagri": "52.08.02.2006",
   "nama_dagri": "SELELOS",
-  "parent_kode_bps": "5208030"
+  "parent_kode_bps": "5208030",
+  "parent_kode_dagri": "52.08.02"
 }

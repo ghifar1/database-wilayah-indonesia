@@ -3,5 +3,6 @@
   "nama_bps": "LAKAMBAU",
   "kode_dagri": "74.15.01.1010",
   "nama_dagri": "LAKAMBAU",
-  "parent_kode_bps": "7415040"
+  "parent_kode_bps": "7415040",
+  "parent_kode_dagri": "74.15.01"
 }

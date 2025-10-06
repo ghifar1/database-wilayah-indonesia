@@ -3,5 +3,6 @@
   "nama_bps": "GANJARAN",
   "kode_dagri": "18.10.05.2031",
   "nama_dagri": "GANJARAN",
-  "parent_kode_bps": "1810030"
+  "parent_kode_bps": "1810030",
+  "parent_kode_dagri": "18.10.05"
 }

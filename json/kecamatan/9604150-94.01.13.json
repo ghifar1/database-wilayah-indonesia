@@ -3,5 +3,6 @@
   "nama_bps": "KEPULAUAN MOORA",
   "kode_dagri": "94.01.13",
   "nama_dagri": "MOORA",
-  "parent_kode_bps": "9604"
+  "parent_kode_bps": "9604",
+  "parent_kode_dagri": "94.01"
 }

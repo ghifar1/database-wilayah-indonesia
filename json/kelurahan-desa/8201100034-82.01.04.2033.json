@@ -3,5 +3,6 @@
   "nama_bps": "DERE",
   "kode_dagri": "82.01.04.2033",
   "nama_dagri": "DERE",
-  "parent_kode_bps": "8201100"
+  "parent_kode_bps": "8201100",
+  "parent_kode_dagri": "82.01.04"
 }

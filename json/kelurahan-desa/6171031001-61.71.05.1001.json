@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI BANGKONG",
   "kode_dagri": "61.71.05.1001",
   "nama_dagri": "SUNGAIBANGKONG",
-  "parent_kode_bps": "6171031"
+  "parent_kode_bps": "6171031",
+  "parent_kode_dagri": "61.71.05"
 }

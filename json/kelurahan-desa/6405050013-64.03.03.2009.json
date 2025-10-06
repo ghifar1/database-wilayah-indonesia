@@ -3,5 +3,6 @@
   "nama_bps": "PESAYAN",
   "kode_dagri": "64.03.03.2009",
   "nama_dagri": "PESAYAN",
-  "parent_kode_bps": "6405050"
+  "parent_kode_bps": "6405050",
+  "parent_kode_dagri": "64.03.03"
 }

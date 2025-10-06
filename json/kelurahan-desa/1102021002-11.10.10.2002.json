@@ -3,5 +3,6 @@
   "nama_bps": "GOSONG TELAGA SELATAN",
   "kode_dagri": "11.10.10.2002",
   "nama_dagri": "GOSONG TELAGA SELATAN",
-  "parent_kode_bps": "1102021"
+  "parent_kode_bps": "1102021",
+  "parent_kode_dagri": "11.10.10"
 }

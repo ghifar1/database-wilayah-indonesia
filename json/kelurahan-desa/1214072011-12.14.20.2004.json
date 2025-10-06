@@ -3,5 +3,6 @@
   "nama_bps": "OLAYAMA",
   "kode_dagri": "12.14.20.2004",
   "nama_dagri": "OLAYAMA",
-  "parent_kode_bps": "1214072"
+  "parent_kode_bps": "1214072",
+  "parent_kode_dagri": "12.14.20"
 }

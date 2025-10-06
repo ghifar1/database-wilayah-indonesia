@@ -3,5 +3,6 @@
   "nama_bps": "KADUMANIS",
   "kode_dagri": "33.29.01.2014",
   "nama_dagri": "KADUMANIS",
-  "parent_kode_bps": "3329010"
+  "parent_kode_bps": "3329010",
+  "parent_kode_dagri": "33.29.01"
 }

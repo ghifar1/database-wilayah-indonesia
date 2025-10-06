@@ -3,5 +3,6 @@
   "nama_bps": "TALUK TIGO SAKATO",
   "kode_dagri": "13.01.04.2009",
   "nama_dagri": "TALUK TIGO SAKATO",
-  "parent_kode_bps": "1302080"
+  "parent_kode_bps": "1302080",
+  "parent_kode_dagri": "13.01.04"
 }

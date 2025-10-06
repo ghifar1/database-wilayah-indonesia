@@ -3,5 +3,6 @@
   "nama_bps": "BATU KUCING",
   "kode_dagri": "16.13.04.2002",
   "nama_dagri": "BATU KUCING",
-  "parent_kode_bps": "1613060"
+  "parent_kode_bps": "1613060",
+  "parent_kode_dagri": "16.13.04"
 }

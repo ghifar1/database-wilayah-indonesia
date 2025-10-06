@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG LUKUP BADAK",
   "kode_dagri": "11.04.20.2005",
   "nama_dagri": "SIMPANG LUKUP BADAK",
-  "parent_kode_bps": "1106041"
+  "parent_kode_bps": "1106041",
+  "parent_kode_dagri": "11.04.20"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BATOM",
   "kode_dagri": "95.02.05",
   "nama_dagri": "BATOM",
-  "parent_kode_bps": "9708"
+  "parent_kode_bps": "9708",
+  "parent_kode_dagri": "95.02"
 }

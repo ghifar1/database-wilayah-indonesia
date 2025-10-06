@@ -3,5 +3,6 @@
   "nama_bps": "YABEM",
   "kode_dagri": "95.01.10.2003",
   "nama_dagri": "YABEM",
-  "parent_kode_bps": "9702120"
+  "parent_kode_bps": "9702120",
+  "parent_kode_dagri": "95.01.10"
 }

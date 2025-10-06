@@ -3,5 +3,6 @@
   "nama_bps": "PADANG MASIANG",
   "kode_dagri": "12.01.01.1002",
   "nama_dagri": "PADANG MASIANG",
-  "parent_kode_bps": "1204070"
+  "parent_kode_bps": "1204070",
+  "parent_kode_dagri": "12.01.01"
 }

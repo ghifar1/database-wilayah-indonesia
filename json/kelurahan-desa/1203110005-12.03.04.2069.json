@@ -3,5 +3,6 @@
   "nama_bps": "TOLANG",
   "kode_dagri": "12.03.04.2069",
   "nama_dagri": "TOLANG",
-  "parent_kode_bps": "1203110"
+  "parent_kode_bps": "1203110",
+  "parent_kode_dagri": "12.03.04"
 }

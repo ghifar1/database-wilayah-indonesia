@@ -3,5 +3,6 @@
   "nama_bps": "BANDAR BATAUGA",
   "kode_dagri": "74.15.01.1012",
   "nama_dagri": "BANDAR BATAUGA",
-  "parent_kode_bps": "7415040"
+  "parent_kode_bps": "7415040",
+  "parent_kode_dagri": "74.15.01"
 }

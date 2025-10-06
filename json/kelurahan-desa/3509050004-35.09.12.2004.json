@@ -3,5 +3,6 @@
   "nama_bps": "AMBULU",
   "kode_dagri": "35.09.12.2004",
   "nama_dagri": "AMBULU",
-  "parent_kode_bps": "3509050"
+  "parent_kode_bps": "3509050",
+  "parent_kode_dagri": "35.09.12"
 }

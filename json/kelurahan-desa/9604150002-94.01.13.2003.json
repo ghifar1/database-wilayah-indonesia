@@ -3,5 +3,6 @@
   "nama_bps": "MOOR",
   "kode_dagri": "94.01.13.2003",
   "nama_dagri": "MOOR",
-  "parent_kode_bps": "9604150"
+  "parent_kode_bps": "9604150",
+  "parent_kode_dagri": "94.01.13"
 }

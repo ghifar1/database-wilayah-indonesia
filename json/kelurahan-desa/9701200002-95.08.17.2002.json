@@ -3,5 +3,6 @@
   "nama_bps": "PUKLE",
   "kode_dagri": "95.08.17.2002",
   "nama_dagri": "PUKLE",
-  "parent_kode_bps": "9701200"
+  "parent_kode_bps": "9701200",
+  "parent_kode_dagri": "95.08.17"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "WEKMURAK",
   "kode_dagri": "53.21.05.2006",
   "nama_dagri": "OEKMURAK",
-  "parent_kode_bps": "5321040"
+  "parent_kode_bps": "5321040",
+  "parent_kode_dagri": "53.21.05"
 }

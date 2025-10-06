@@ -3,5 +3,6 @@
   "nama_bps": "BOSMA",
   "kode_dagri": "93.03.11.2005",
   "nama_dagri": "BOSMA",
-  "parent_kode_bps": "9503050"
+  "parent_kode_bps": "9503050",
+  "parent_kode_dagri": "93.03.11"
 }

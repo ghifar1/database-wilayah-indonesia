@@ -3,5 +3,6 @@
   "nama_bps": "SAMBA",
   "kode_dagri": "95.08.16.2006",
   "nama_dagri": "SAMBA",
-  "parent_kode_bps": "9701190"
+  "parent_kode_bps": "9701190",
+  "parent_kode_dagri": "95.08.16"
 }

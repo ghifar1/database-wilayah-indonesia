@@ -3,5 +3,6 @@
   "nama_bps": "BANGUN",
   "kode_dagri": "93.02.10.2002",
   "nama_dagri": "BANGUN",
-  "parent_kode_bps": "9502040"
+  "parent_kode_bps": "9502040",
+  "parent_kode_dagri": "93.02.10"
 }

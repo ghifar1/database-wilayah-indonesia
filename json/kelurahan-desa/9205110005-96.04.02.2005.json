@@ -3,5 +3,6 @@
   "nama_bps": "AIFAIR",
   "kode_dagri": "96.04.02.2005",
   "nama_dagri": "AIFAIR",
-  "parent_kode_bps": "9205110"
+  "parent_kode_bps": "9205110",
+  "parent_kode_dagri": "96.04.02"
 }

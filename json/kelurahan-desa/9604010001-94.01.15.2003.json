@@ -3,5 +3,6 @@
   "nama_bps": "LOKODIMI",
   "kode_dagri": "94.01.15.2003",
   "nama_dagri": "LOKODIMI",
-  "parent_kode_bps": "9604010"
+  "parent_kode_bps": "9604010",
+  "parent_kode_dagri": "94.01.15"
 }

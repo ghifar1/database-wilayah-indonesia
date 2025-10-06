@@ -3,5 +3,6 @@
   "nama_bps": "EKONI",
   "kode_dagri": "95.04.40.2006",
   "nama_dagri": "EKONI",
-  "parent_kode_bps": "9704410"
+  "parent_kode_bps": "9704410",
+  "parent_kode_dagri": "95.04.40"
 }

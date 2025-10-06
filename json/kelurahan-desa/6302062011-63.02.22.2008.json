@@ -3,5 +3,6 @@
   "nama_bps": "SIGAM",
   "kode_dagri": "63.02.22.2008",
   "nama_dagri": "SIGAM",
-  "parent_kode_bps": "6302062"
+  "parent_kode_bps": "6302062",
+  "parent_kode_dagri": "63.02.22"
 }

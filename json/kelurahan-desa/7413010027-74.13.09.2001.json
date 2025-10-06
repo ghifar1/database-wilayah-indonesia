@@ -3,5 +3,6 @@
   "nama_bps": "KATELA",
   "kode_dagri": "74.13.09.2001",
   "nama_dagri": "KATELA",
-  "parent_kode_bps": "7413010"
+  "parent_kode_bps": "7413010",
+  "parent_kode_dagri": "74.13.09"
 }

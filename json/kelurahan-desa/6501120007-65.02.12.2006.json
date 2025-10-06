@@ -3,5 +3,6 @@
   "nama_bps": "LUNG SULIT",
   "kode_dagri": "65.02.12.2006",
   "nama_dagri": "LUNG SULIT",
-  "parent_kode_bps": "6501120"
+  "parent_kode_bps": "6501120",
+  "parent_kode_dagri": "65.02.12"
 }

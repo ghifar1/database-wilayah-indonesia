@@ -3,5 +3,6 @@
   "nama_bps": "AOAP",
   "kode_dagri": "93.04.12.2010",
   "nama_dagri": "AOAP",
-  "parent_kode_bps": "9504220"
+  "parent_kode_bps": "9504220",
+  "parent_kode_dagri": "93.04.12"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SUGAPA",
   "kode_dagri": "94.07.01",
   "nama_dagri": "SUGAPA",
-  "parent_kode_bps": "9606"
+  "parent_kode_bps": "9606",
+  "parent_kode_dagri": "94.07"
 }

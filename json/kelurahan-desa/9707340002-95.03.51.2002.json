@@ -3,5 +3,6 @@
   "nama_bps": "UAM",
   "kode_dagri": "95.03.51.2002",
   "nama_dagri": "UAM",
-  "parent_kode_bps": "9707340"
+  "parent_kode_bps": "9707340",
+  "parent_kode_dagri": "95.03.51"
 }

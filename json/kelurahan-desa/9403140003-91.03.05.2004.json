@@ -3,5 +3,6 @@
   "nama_bps": "NAMEI",
   "kode_dagri": "91.03.05.2004",
   "nama_dagri": "MAMEI",
-  "parent_kode_bps": "9403140"
+  "parent_kode_bps": "9403140",
+  "parent_kode_dagri": "91.03.05"
 }

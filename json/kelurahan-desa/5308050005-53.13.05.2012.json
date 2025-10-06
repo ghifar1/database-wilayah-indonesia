@@ -3,5 +3,6 @@
   "nama_bps": "PAOBOKOL",
   "kode_dagri": "53.13.05.2012",
   "nama_dagri": "PAUBOKOL",
-  "parent_kode_bps": "5308050"
+  "parent_kode_bps": "5308050",
+  "parent_kode_dagri": "53.13.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BERKAS",
   "kode_dagri": "17.71.03.1001",
   "nama_dagri": "BERKAS",
-  "parent_kode_bps": "1771030"
+  "parent_kode_bps": "1771030",
+  "parent_kode_dagri": "17.71.03"
 }

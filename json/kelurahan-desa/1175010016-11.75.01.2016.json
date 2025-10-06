@@ -3,5 +3,6 @@
   "nama_bps": "DANAU TRAS",
   "kode_dagri": "11.75.01.2016",
   "nama_dagri": "DANAU TRAS",
-  "parent_kode_bps": "1175010"
+  "parent_kode_bps": "1175010",
+  "parent_kode_dagri": "11.75.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "POLARA",
   "kode_dagri": "74.12.05.1005",
   "nama_dagri": "POLARA",
-  "parent_kode_bps": "7412010"
+  "parent_kode_bps": "7412010",
+  "parent_kode_dagri": "74.12.05"
 }

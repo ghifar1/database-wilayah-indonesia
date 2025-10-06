@@ -3,5 +3,6 @@
   "nama_bps": "TELUK NIBUNG",
   "kode_dagri": "61.12.05.2003",
   "nama_dagri": "TELUK NIBUNG",
-  "parent_kode_bps": "6112010"
+  "parent_kode_bps": "6112010",
+  "parent_kode_dagri": "61.12.05"
 }

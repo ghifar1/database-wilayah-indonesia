@@ -3,5 +3,6 @@
   "nama_bps": "MAUFA",
   "kode_dagri": "12.14.28.2003",
   "nama_dagri": "MAUFA",
-  "parent_kode_bps": "1214022"
+  "parent_kode_bps": "1214022",
+  "parent_kode_dagri": "12.14.28"
 }

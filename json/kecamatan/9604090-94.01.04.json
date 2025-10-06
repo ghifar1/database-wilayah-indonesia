@@ -3,5 +3,6 @@
   "nama_bps": "UWAPA",
   "kode_dagri": "94.01.04",
   "nama_dagri": "UWAPA",
-  "parent_kode_bps": "9604"
+  "parent_kode_bps": "9604",
+  "parent_kode_dagri": "94.01"
 }

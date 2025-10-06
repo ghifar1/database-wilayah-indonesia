@@ -3,5 +3,6 @@
   "nama_bps": "KANARA",
   "kode_dagri": "81.72.05.2001",
   "nama_dagri": "KANARA",
-  "parent_kode_bps": "8172011"
+  "parent_kode_bps": "8172011",
+  "parent_kode_dagri": "81.72.05"
 }

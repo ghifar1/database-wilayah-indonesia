@@ -3,5 +3,6 @@
   "nama_bps": "BALAI NARAS",
   "kode_dagri": "13.77.02.2016",
   "nama_dagri": "BALAI NARAS",
-  "parent_kode_bps": "1377030"
+  "parent_kode_bps": "1377030",
+  "parent_kode_dagri": "13.77.02"
 }

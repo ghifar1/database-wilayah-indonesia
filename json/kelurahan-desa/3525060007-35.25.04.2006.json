@@ -3,5 +3,6 @@
   "nama_bps": "KEDUNGRUKEM",
   "kode_dagri": "35.25.04.2006",
   "nama_dagri": "KEDUNGRUKEM",
-  "parent_kode_bps": "3525060"
+  "parent_kode_bps": "3525060",
+  "parent_kode_dagri": "35.25.04"
 }

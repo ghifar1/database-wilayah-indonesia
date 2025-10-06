@@ -3,5 +3,6 @@
   "nama_bps": "MATO AIE",
   "kode_dagri": "13.71.01.1008",
   "nama_dagri": "MATA AIR",
-  "parent_kode_bps": "1371040"
+  "parent_kode_bps": "1371040",
+  "parent_kode_dagri": "13.71.01"
 }

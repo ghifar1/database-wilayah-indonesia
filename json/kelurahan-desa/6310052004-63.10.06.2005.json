@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI DUA",
   "kode_dagri": "63.10.06.2005",
   "nama_dagri": "SUNGAIDUA",
-  "parent_kode_bps": "6310052"
+  "parent_kode_bps": "6310052",
+  "parent_kode_dagri": "63.10.06"
 }

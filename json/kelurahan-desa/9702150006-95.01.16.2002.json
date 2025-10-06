@@ -3,5 +3,6 @@
   "nama_bps": "HETUMA",
   "kode_dagri": "95.01.16.2002",
   "nama_dagri": "HETUMA",
-  "parent_kode_bps": "9702150"
+  "parent_kode_bps": "9702150",
+  "parent_kode_dagri": "95.01.16"
 }

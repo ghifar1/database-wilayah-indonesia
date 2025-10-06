@@ -3,5 +3,6 @@
   "nama_bps": "POSA",
   "kode_dagri": "96.01.06.2010",
   "nama_dagri": "POSA",
-  "parent_kode_bps": "9202160"
+  "parent_kode_bps": "9202160",
+  "parent_kode_dagri": "96.01.06"
 }

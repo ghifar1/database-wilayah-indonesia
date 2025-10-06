@@ -68,8 +68,8 @@ func ConvertKabupatenKota() {
 	var sqlStmts []string
 	for _, record := range records[1:] {
 		kodeProvinsi := record[0]
-		kodeKabupatenKota := record[1]
-		namaKabupatenKota := record[2]
+		kodeKabupatenKota := record[2]
+		namaKabupatenKota := record[3]
 
 		kodeProvinsiInt, err := strconv.Atoi(kodeProvinsi)
 		if err != nil {
@@ -119,8 +119,8 @@ func ConvertKecamatan() {
 	var sqlStmts []string
 	for _, record := range records[1:] {
 		kodeKabupatenKota := record[0]
-		kodeKecamatan := record[1]
-		namaKecamatan := record[2]
+		kodeKecamatan := record[2]
+		namaKecamatan := record[3]
 
 		kodeKabupatenKotaInt, err := strconv.Atoi(kodeKabupatenKota)
 		if err != nil {
@@ -170,8 +170,8 @@ func ConvertKelurahanDesa() {
 	var sqlStmts []string
 	for _, record := range records[1:] {
 		kodeKecamatan := record[0]
-		kodeKelurahanDesa := record[1]
-		namaKelurahanDesa := record[2]
+		kodeKelurahanDesa := record[2]
+		namaKelurahanDesa := record[3]
 
 		kodeKecamatanInt, err := strconv.Atoi(kodeKecamatan)
 		if err != nil {

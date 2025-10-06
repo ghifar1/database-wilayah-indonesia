@@ -3,5 +3,6 @@
   "nama_bps": "KELADAN",
   "kode_dagri": "63.05.06.2001",
   "nama_dagri": "KELADAN",
-  "parent_kode_bps": "6305100"
+  "parent_kode_bps": "6305100",
+  "parent_kode_dagri": "63.05.06"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "0",
   "kode_dagri": "82.04.03.2007",
   "nama_dagri": "BATONAM",
-  "parent_kode_bps": "8204090"
+  "parent_kode_bps": "8204090",
+  "parent_kode_dagri": "82.04.03"
 }

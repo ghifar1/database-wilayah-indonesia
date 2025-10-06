@@ -3,5 +3,6 @@
   "nama_bps": "PORTO",
   "kode_dagri": "81.01.12.2005",
   "nama_dagri": "PORTO",
-  "parent_kode_bps": "8103080"
+  "parent_kode_bps": "8103080",
+  "parent_kode_dagri": "81.01.12"
 }

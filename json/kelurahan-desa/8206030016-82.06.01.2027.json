@@ -3,5 +3,6 @@
   "nama_bps": "WAISUBA",
   "kode_dagri": "82.06.01.2027",
   "nama_dagri": "WAISUBA",
-  "parent_kode_bps": "8206030"
+  "parent_kode_bps": "8206030",
+  "parent_kode_dagri": "82.06.01"
 }

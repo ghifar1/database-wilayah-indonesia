@@ -3,5 +3,6 @@
   "nama_bps": "KOSOLPEM",
   "kode_dagri": "95.08.05.2003",
   "nama_dagri": "KOSOLPEM",
-  "parent_kode_bps": "9701090"
+  "parent_kode_bps": "9701090",
+  "parent_kode_dagri": "95.08.05"
 }

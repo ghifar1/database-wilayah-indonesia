@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG MUDO",
   "kode_dagri": "15.01.04.2010",
   "nama_dagri": "TANJUNGMUDO",
-  "parent_kode_bps": "1501050"
+  "parent_kode_bps": "1501050",
+  "parent_kode_dagri": "15.01.04"
 }

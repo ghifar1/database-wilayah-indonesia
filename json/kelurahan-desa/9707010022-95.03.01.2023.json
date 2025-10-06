@@ -3,5 +3,6 @@
   "nama_bps": "HESMAT",
   "kode_dagri": "95.03.01.2023",
   "nama_dagri": "HESMAT",
-  "parent_kode_bps": "9707010"
+  "parent_kode_bps": "9707010",
+  "parent_kode_dagri": "95.03.01"
 }

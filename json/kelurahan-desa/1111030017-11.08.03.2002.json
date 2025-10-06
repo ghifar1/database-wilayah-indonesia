@@ -3,5 +3,6 @@
   "nama_bps": "BUKET",
   "kode_dagri": "11.08.03.2002",
   "nama_dagri": "MEUNASAH BUKET",
-  "parent_kode_bps": "1111030"
+  "parent_kode_bps": "1111030",
+  "parent_kode_dagri": "11.08.03"
 }

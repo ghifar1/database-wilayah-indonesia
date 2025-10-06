@@ -3,5 +3,6 @@
   "nama_bps": "SINAPUK",
   "kode_dagri": "95.01.01.1006",
   "nama_dagri": "SINAPUK",
-  "parent_kode_bps": "9702010"
+  "parent_kode_bps": "9702010",
+  "parent_kode_dagri": "95.01.01"
 }

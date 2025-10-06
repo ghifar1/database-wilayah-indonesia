@@ -3,5 +3,6 @@
   "nama_bps": "LUMBUNG KAUH",
   "kode_dagri": "51.02.03.2006",
   "nama_dagri": "LUMBUNG KAUH",
-  "parent_kode_bps": "5102012"
+  "parent_kode_bps": "5102012",
+  "parent_kode_dagri": "51.02.03"
 }

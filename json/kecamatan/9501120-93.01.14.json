@@ -3,5 +3,6 @@
   "nama_bps": "MALIND",
   "kode_dagri": "93.01.14",
   "nama_dagri": "MALIND",
-  "parent_kode_bps": "9501"
+  "parent_kode_bps": "9501",
+  "parent_kode_dagri": "93.01"
 }

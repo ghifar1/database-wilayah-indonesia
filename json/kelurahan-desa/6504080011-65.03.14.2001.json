@@ -3,5 +3,6 @@
   "nama_bps": "SANUR",
   "kode_dagri": "65.03.14.2001",
   "nama_dagri": "SANUR",
-  "parent_kode_bps": "6504080"
+  "parent_kode_bps": "6504080",
+  "parent_kode_dagri": "65.03.14"
 }

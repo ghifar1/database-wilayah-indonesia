@@ -3,5 +3,6 @@
   "nama_bps": "KLABOT",
   "kode_dagri": "96.01.11",
   "nama_dagri": "KLABOT",
-  "parent_kode_bps": "9202"
+  "parent_kode_bps": "9202",
+  "parent_kode_dagri": "96.01"
 }

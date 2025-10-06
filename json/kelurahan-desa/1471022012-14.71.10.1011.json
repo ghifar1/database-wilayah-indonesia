@@ -3,5 +3,6 @@
   "nama_bps": "INDUSTRI TENAYAN",
   "kode_dagri": "14.71.10.1011",
   "nama_dagri": "INDUSTRITENAYAN",
-  "parent_kode_bps": "1471022"
+  "parent_kode_bps": "1471022",
+  "parent_kode_dagri": "14.71.10"
 }

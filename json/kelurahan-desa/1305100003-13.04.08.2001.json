@@ -3,5 +3,6 @@
   "nama_bps": "SIMPURUIK",
   "kode_dagri": "13.04.08.2001",
   "nama_dagri": "SIMPURUIK",
-  "parent_kode_bps": "1305100"
+  "parent_kode_bps": "1305100",
+  "parent_kode_dagri": "13.04.08"
 }

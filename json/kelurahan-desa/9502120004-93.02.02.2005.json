@@ -3,5 +3,6 @@
   "nama_bps": "EPSEMBIT",
   "kode_dagri": "93.02.02.2005",
   "nama_dagri": "EPSEMBIT",
-  "parent_kode_bps": "9502120"
+  "parent_kode_bps": "9502120",
+  "parent_kode_dagri": "93.02.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BINAM",
   "kode_dagri": "93.04.07.2001",
   "nama_dagri": "BINAM",
-  "parent_kode_bps": "9504140"
+  "parent_kode_bps": "9504140",
+  "parent_kode_dagri": "93.04.07"
 }

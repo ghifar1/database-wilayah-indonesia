@@ -3,5 +3,6 @@
   "nama_bps": "SENOPI",
   "kode_dagri": "96.04.11",
   "nama_dagri": "SENOPI",
-  "parent_kode_bps": "9205"
+  "parent_kode_bps": "9205",
+  "parent_kode_dagri": "96.04"
 }

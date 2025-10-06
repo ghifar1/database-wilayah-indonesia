@@ -3,5 +3,6 @@
   "nama_bps": "SINENEETO",
   "kode_dagri": "12.25.02.2011",
   "nama_dagri": "SINENEETO",
-  "parent_kode_bps": "1225010"
+  "parent_kode_bps": "1225010",
+  "parent_kode_dagri": "12.25.02"
 }

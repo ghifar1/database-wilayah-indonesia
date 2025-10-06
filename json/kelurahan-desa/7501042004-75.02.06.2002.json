@@ -3,5 +3,6 @@
   "nama_bps": "HUTAMONU",
   "kode_dagri": "75.02.06.2002",
   "nama_dagri": "HUTAMONU",
-  "parent_kode_bps": "7501042"
+  "parent_kode_bps": "7501042",
+  "parent_kode_dagri": "75.02.06"
 }

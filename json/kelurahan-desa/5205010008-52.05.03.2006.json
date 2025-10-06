@@ -3,5 +3,6 @@
   "nama_bps": "MARADA",
   "kode_dagri": "52.05.03.2006",
   "nama_dagri": "MERADA",
-  "parent_kode_bps": "5205010"
+  "parent_kode_bps": "5205010",
+  "parent_kode_dagri": "52.05.03"
 }

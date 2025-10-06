@@ -3,5 +3,6 @@
   "nama_bps": "PADANG SEURAHET",
   "kode_dagri": "11.05.01.2010",
   "nama_dagri": "PADANG SEURAHET",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

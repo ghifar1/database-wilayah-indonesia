@@ -3,5 +3,6 @@
   "nama_bps": "MALASAN KULON",
   "kode_dagri": "35.13.05.2001",
   "nama_dagri": "MALASANKULON",
-  "parent_kode_bps": "3513050"
+  "parent_kode_bps": "3513050",
+  "parent_kode_dagri": "35.13.05"
 }

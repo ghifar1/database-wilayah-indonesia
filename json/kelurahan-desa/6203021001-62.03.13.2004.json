@@ -3,5 +3,6 @@
   "nama_bps": "BANDAR RAYA",
   "kode_dagri": "62.03.13.2004",
   "nama_dagri": "BANDARAYA",
-  "parent_kode_bps": "6203021"
+  "parent_kode_bps": "6203021",
+  "parent_kode_dagri": "62.03.13"
 }

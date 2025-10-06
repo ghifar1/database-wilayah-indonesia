@@ -3,5 +3,6 @@
   "nama_bps": "WAMEO",
   "kode_dagri": "74.72.08.1003",
   "nama_dagri": "WAMEO",
-  "parent_kode_bps": "7472012"
+  "parent_kode_bps": "7472012",
+  "parent_kode_dagri": "74.72.08"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PEMATANG GAJAH",
   "kode_dagri": "15.05.01.2022",
   "nama_dagri": "PEMATANG GAJAH",
-  "parent_kode_bps": "1505050"
+  "parent_kode_bps": "1505050",
+  "parent_kode_dagri": "15.05.01"
 }

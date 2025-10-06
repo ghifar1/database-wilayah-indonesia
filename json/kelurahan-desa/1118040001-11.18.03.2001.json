@@ -3,5 +3,6 @@
   "nama_bps": "MEUKO JURONG",
   "kode_dagri": "11.18.03.2001",
   "nama_dagri": "MEUKO JURONG",
-  "parent_kode_bps": "1118040"
+  "parent_kode_bps": "1118040",
+  "parent_kode_dagri": "11.18.03"
 }

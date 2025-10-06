@@ -3,5 +3,6 @@
   "nama_bps": "PERK. TOLAN",
   "kode_dagri": "12.22.02.2005",
   "nama_dagri": "PERK. TOLAN",
-  "parent_kode_bps": "1222050"
+  "parent_kode_bps": "1222050",
+  "parent_kode_dagri": "12.22.02"
 }

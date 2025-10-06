@@ -3,5 +3,6 @@
   "nama_bps": "SASAK",
   "kode_dagri": "13.12.11.2001",
   "nama_dagri": "SASAK",
-  "parent_kode_bps": "1312100"
+  "parent_kode_bps": "1312100",
+  "parent_kode_dagri": "13.12.11"
 }

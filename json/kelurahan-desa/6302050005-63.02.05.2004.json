@@ -3,5 +3,6 @@
   "nama_bps": "SARAKAMAN",
   "kode_dagri": "63.02.05.2004",
   "nama_dagri": "SERAKAMAN",
-  "parent_kode_bps": "6302050"
+  "parent_kode_bps": "6302050",
+  "parent_kode_dagri": "63.02.05"
 }

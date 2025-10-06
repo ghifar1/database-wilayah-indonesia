@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANG SARAMBU",
   "kode_dagri": "73.26.13.2003",
   "nama_dagri": "SARAMBU",
-  "parent_kode_bps": "7326200"
+  "parent_kode_bps": "7326200",
+  "parent_kode_dagri": "73.26.13"
 }

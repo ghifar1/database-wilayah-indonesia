@@ -3,5 +3,6 @@
   "nama_bps": "KOCUAS",
   "kode_dagri": "96.05.01.2004",
   "nama_dagri": "KOCUAS",
-  "parent_kode_bps": "9204030"
+  "parent_kode_bps": "9204030",
+  "parent_kode_dagri": "96.05.01"
 }

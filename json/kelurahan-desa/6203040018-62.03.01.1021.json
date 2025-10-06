@@ -3,5 +3,6 @@
   "nama_bps": "SELAT UTARA",
   "kode_dagri": "62.03.01.1021",
   "nama_dagri": "SELAT UTARA",
-  "parent_kode_bps": "6203040"
+  "parent_kode_bps": "6203040",
+  "parent_kode_dagri": "62.03.01"
 }

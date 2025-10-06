@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG BATU",
   "kode_dagri": "63.02.09.2001",
   "nama_dagri": "TANJUNG BATU",
-  "parent_kode_bps": "6302160"
+  "parent_kode_bps": "6302160",
+  "parent_kode_dagri": "63.02.09"
 }

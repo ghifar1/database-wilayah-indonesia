@@ -3,5 +3,6 @@
   "nama_bps": "PUNAKUL",
   "kode_dagri": "95.01.23.2005",
   "nama_dagri": "PUNAKUL",
-  "parent_kode_bps": "9702250"
+  "parent_kode_bps": "9702250",
+  "parent_kode_dagri": "95.01.23"
 }

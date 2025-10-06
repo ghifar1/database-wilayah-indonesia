@@ -3,5 +3,6 @@
   "nama_bps": "KOTA",
   "kode_dagri": "82.04.01.2002",
   "nama_dagri": "WAYKION",
-  "parent_kode_bps": "8204070"
+  "parent_kode_bps": "8204070",
+  "parent_kode_dagri": "82.04.01"
 }

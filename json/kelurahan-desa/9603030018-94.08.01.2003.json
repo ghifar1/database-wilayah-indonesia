@@ -3,5 +3,6 @@
   "nama_bps": "YABA",
   "kode_dagri": "94.08.01.2003",
   "nama_dagri": "YABA",
-  "parent_kode_bps": "9603030"
+  "parent_kode_bps": "9603030",
+  "parent_kode_dagri": "94.08.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG AUR GADING",
   "kode_dagri": "15.04.04.2017",
   "nama_dagri": "SIMPANG AUR GADING",
-  "parent_kode_bps": "1504020"
+  "parent_kode_bps": "1504020",
+  "parent_kode_dagri": "15.04.04"
 }

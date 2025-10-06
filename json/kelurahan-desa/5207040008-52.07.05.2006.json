@@ -3,5 +3,6 @@
   "nama_bps": "LAMUNTET",
   "kode_dagri": "52.07.05.2006",
   "nama_dagri": "LAMUNTET",
-  "parent_kode_bps": "5207040"
+  "parent_kode_bps": "5207040",
+  "parent_kode_dagri": "52.07.05"
 }

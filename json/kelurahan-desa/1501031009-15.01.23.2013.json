@@ -3,5 +3,6 @@
   "nama_bps": "PASAR SEMERAP",
   "kode_dagri": "15.01.23.2013",
   "nama_dagri": "PASAR SEMERAP",
-  "parent_kode_bps": "1501031"
+  "parent_kode_bps": "1501031",
+  "parent_kode_dagri": "15.01.23"
 }

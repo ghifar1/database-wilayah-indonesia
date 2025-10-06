@@ -3,5 +3,6 @@
   "nama_bps": "MUKA BLANG",
   "kode_dagri": "11.12.05.2008",
   "nama_dagri": "MUKA BLANG",
-  "parent_kode_bps": "1112050"
+  "parent_kode_bps": "1112050",
+  "parent_kode_dagri": "11.12.05"
 }

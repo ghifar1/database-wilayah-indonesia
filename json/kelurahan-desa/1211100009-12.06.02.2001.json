@@ -3,5 +3,6 @@
   "nama_bps": "DAULU",
   "kode_dagri": "12.06.02.2001",
   "nama_dagri": "DAULU",
-  "parent_kode_bps": "1211100"
+  "parent_kode_bps": "1211100",
+  "parent_kode_dagri": "12.06.02"
 }

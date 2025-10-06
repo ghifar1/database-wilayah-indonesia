@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI BELIUNG",
   "kode_dagri": "61.71.03.1004",
   "nama_dagri": "SUNGAIBELIUNG",
-  "parent_kode_bps": "6171030"
+  "parent_kode_bps": "6171030",
+  "parent_kode_dagri": "61.71.03"
 }

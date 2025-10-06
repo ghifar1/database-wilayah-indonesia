@@ -3,5 +3,6 @@
   "nama_bps": "HESATOM",
   "kode_dagri": "95.01.09.2003",
   "nama_dagri": "HESATOM",
-  "parent_kode_bps": "9702020"
+  "parent_kode_bps": "9702020",
+  "parent_kode_dagri": "95.01.09"
 }

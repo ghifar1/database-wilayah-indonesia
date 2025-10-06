@@ -3,5 +3,6 @@
   "nama_bps": "TALOPAK",
   "kode_dagri": "76.03.05.2012",
   "nama_dagri": "TALOPAK",
-  "parent_kode_bps": "7603100"
+  "parent_kode_bps": "7603100",
+  "parent_kode_dagri": "76.03.05"
 }

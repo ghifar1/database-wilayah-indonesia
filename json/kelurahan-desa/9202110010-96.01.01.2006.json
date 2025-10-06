@@ -3,5 +3,6 @@
   "nama_bps": "KUADAS",
   "kode_dagri": "96.01.01.2006",
   "nama_dagri": "KWADAS",
-  "parent_kode_bps": "9202110"
+  "parent_kode_bps": "9202110",
+  "parent_kode_dagri": "96.01.01"
 }

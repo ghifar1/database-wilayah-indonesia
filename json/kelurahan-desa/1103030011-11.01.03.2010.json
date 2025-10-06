@@ -3,5 +3,6 @@
   "nama_bps": "UJUNG",
   "kode_dagri": "11.01.03.2010",
   "nama_dagri": "UJUNG",
-  "parent_kode_bps": "1103030"
+  "parent_kode_bps": "1103030",
+  "parent_kode_dagri": "11.01.03"
 }

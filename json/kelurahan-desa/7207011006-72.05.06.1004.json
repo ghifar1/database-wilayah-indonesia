@@ -3,5 +3,6 @@
   "nama_bps": "LEOK 1",
   "kode_dagri": "72.05.06.1004",
   "nama_dagri": "LEOK I",
-  "parent_kode_bps": "7207011"
+  "parent_kode_bps": "7207011",
+  "parent_kode_dagri": "72.05.06"
 }

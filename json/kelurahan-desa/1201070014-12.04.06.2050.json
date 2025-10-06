@@ -3,5 +3,6 @@
   "nama_bps": "LASELA",
   "kode_dagri": "12.04.06.2050",
   "nama_dagri": "LASELA",
-  "parent_kode_bps": "1201070"
+  "parent_kode_bps": "1201070",
+  "parent_kode_dagri": "12.04.06"
 }

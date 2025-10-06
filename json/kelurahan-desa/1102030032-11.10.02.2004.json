@@ -3,5 +3,6 @@
   "nama_bps": "SIATAS",
   "kode_dagri": "11.10.02.2004",
   "nama_dagri": "SIATAS",
-  "parent_kode_bps": "1102030"
+  "parent_kode_bps": "1102030",
+  "parent_kode_dagri": "11.10.02"
 }

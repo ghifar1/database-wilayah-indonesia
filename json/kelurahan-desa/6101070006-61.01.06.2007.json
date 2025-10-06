@@ -3,5 +3,6 @@
   "nama_bps": "PERIGI LANDU",
   "kode_dagri": "61.01.06.2007",
   "nama_dagri": "PERIGI LANDU",
-  "parent_kode_bps": "6101070"
+  "parent_kode_bps": "6101070",
+  "parent_kode_dagri": "61.01.06"
 }

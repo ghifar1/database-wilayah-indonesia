@@ -3,5 +3,6 @@
   "nama_bps": "SITABAR",
   "kode_dagri": "12.20.09.2009",
   "nama_dagri": "SITABAR",
-  "parent_kode_bps": "1220090"
+  "parent_kode_bps": "1220090",
+  "parent_kode_dagri": "12.20.09"
 }

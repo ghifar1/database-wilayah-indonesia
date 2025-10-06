@@ -3,5 +3,6 @@
   "nama_bps": "BATE / BIBIOSI",
   "kode_dagri": "91.11.02.2031",
   "nama_dagri": "BIBIOSI",
-  "parent_kode_bps": "9420040"
+  "parent_kode_bps": "9420040",
+  "parent_kode_dagri": "91.11.02"
 }

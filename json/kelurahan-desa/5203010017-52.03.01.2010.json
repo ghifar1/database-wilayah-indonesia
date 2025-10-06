@@ -3,5 +3,6 @@
   "nama_bps": "DANERASE",
   "kode_dagri": "52.03.01.2010",
   "nama_dagri": "DANE RASE",
-  "parent_kode_bps": "5203010"
+  "parent_kode_bps": "5203010",
+  "parent_kode_dagri": "52.03.01"
 }

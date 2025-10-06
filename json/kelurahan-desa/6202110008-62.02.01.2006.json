@@ -3,5 +3,6 @@
   "nama_bps": "PAMALIAN",
   "kode_dagri": "62.02.01.2006",
   "nama_dagri": "PAMALIAN",
-  "parent_kode_bps": "6202110"
+  "parent_kode_bps": "6202110",
+  "parent_kode_dagri": "62.02.01"
 }

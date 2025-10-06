@@ -3,5 +3,6 @@
   "nama_bps": "BALAI-BALAI",
   "kode_dagri": "13.74.02.1008",
   "nama_dagri": "BALAI-BALAI",
-  "parent_kode_bps": "1374010"
+  "parent_kode_bps": "1374010",
+  "parent_kode_dagri": "13.74.02"
 }

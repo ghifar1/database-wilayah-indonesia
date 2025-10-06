@@ -3,5 +3,6 @@
   "nama_bps": "UAT",
   "kode_dagri": "81.02.18.2008",
   "nama_dagri": "UAT",
-  "parent_kode_bps": "8102024"
+  "parent_kode_bps": "8102024",
+  "parent_kode_dagri": "81.02.18"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LONG PELEBAN",
   "kode_dagri": "65.01.07.2009",
   "nama_dagri": "LONG PELBAN",
-  "parent_kode_bps": "6502010"
+  "parent_kode_bps": "6502010",
+  "parent_kode_dagri": "65.01.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MAMSIT",
   "kode_dagri": "96.01.29.2002",
   "nama_dagri": "MAMSIT",
-  "parent_kode_bps": "9202210"
+  "parent_kode_bps": "9202210",
+  "parent_kode_dagri": "96.01.29"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MUTING",
   "kode_dagri": "93.01.02",
   "nama_dagri": "MUTING",
-  "parent_kode_bps": "9501"
+  "parent_kode_bps": "9501",
+  "parent_kode_dagri": "93.01"
 }

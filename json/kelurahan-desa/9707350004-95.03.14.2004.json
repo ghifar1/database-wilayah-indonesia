@@ -3,5 +3,6 @@
   "nama_bps": "SUBSAL",
   "kode_dagri": "95.03.14.2004",
   "nama_dagri": "SUBSAL",
-  "parent_kode_bps": "9707350"
+  "parent_kode_bps": "9707350",
+  "parent_kode_dagri": "95.03.14"
 }

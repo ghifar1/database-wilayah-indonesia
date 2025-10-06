@@ -3,5 +3,6 @@
   "nama_bps": "NEGERI BESAR",
   "kode_dagri": "96.02.04.2002",
   "nama_dagri": "NEGERI BESAR",
-  "parent_kode_bps": "9203020"
+  "parent_kode_bps": "9203020",
+  "parent_kode_dagri": "96.02.04"
 }

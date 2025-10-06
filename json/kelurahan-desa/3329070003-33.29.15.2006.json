@@ -3,5 +3,6 @@
   "nama_bps": "PAMULIHAN",
   "kode_dagri": "33.29.15.2006",
   "nama_dagri": "PAMULIHAN",
-  "parent_kode_bps": "3329070"
+  "parent_kode_bps": "3329070",
+  "parent_kode_dagri": "33.29.15"
 }

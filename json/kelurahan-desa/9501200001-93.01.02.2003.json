@@ -3,5 +3,6 @@
   "nama_bps": "WAAN",
   "kode_dagri": "93.01.02.2003",
   "nama_dagri": "WAN",
-  "parent_kode_bps": "9501200"
+  "parent_kode_bps": "9501200",
+  "parent_kode_dagri": "93.01.02"
 }

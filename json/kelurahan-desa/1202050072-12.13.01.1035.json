@@ -3,5 +3,6 @@
   "nama_bps": "SIPOLU POLU",
   "kode_dagri": "12.13.01.1035",
   "nama_dagri": "SIPOLU-POLU",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "ONATALI",
   "kode_dagri": "53.14.04.1002",
   "nama_dagri": "ONATALI",
-  "parent_kode_bps": "5314040"
+  "parent_kode_bps": "5314040",
+  "parent_kode_dagri": "53.14.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "DIPA",
   "kode_dagri": "94.01.14",
   "nama_dagri": "DIPA",
-  "parent_kode_bps": "9604"
+  "parent_kode_bps": "9604",
+  "parent_kode_dagri": "94.01"
 }

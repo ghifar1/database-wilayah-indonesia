@@ -3,5 +3,6 @@
   "nama_bps": "BENTE",
   "kode_dagri": "74.10.02.2010",
   "nama_dagri": "BENTE",
-  "parent_kode_bps": "7409101"
+  "parent_kode_bps": "7409101",
+  "parent_kode_dagri": "74.10.02"
 }

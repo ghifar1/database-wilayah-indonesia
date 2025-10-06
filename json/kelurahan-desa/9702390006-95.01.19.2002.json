@@ -3,5 +3,6 @@
   "nama_bps": "MIAMI",
   "kode_dagri": "95.01.19.2002",
   "nama_dagri": "MIAMI",
-  "parent_kode_bps": "9702390"
+  "parent_kode_bps": "9702390",
+  "parent_kode_dagri": "95.01.19"
 }

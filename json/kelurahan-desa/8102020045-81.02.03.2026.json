@@ -3,5 +3,6 @@
   "nama_bps": "UDAR",
   "kode_dagri": "81.02.03.2026",
   "nama_dagri": "UDAR",
-  "parent_kode_bps": "8102020"
+  "parent_kode_bps": "8102020",
+  "parent_kode_dagri": "81.02.03"
 }

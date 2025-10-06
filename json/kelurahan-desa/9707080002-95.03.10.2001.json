@@ -3,5 +3,6 @@
   "nama_bps": "APDAGMA",
   "kode_dagri": "95.03.10.2001",
   "nama_dagri": "APDAGMA",
-  "parent_kode_bps": "9707080"
+  "parent_kode_bps": "9707080",
+  "parent_kode_dagri": "95.03.10"
 }

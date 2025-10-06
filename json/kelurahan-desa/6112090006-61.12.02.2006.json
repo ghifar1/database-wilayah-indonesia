@@ -3,5 +3,6 @@
   "nama_bps": "PADI JAYA",
   "kode_dagri": "61.12.02.2006",
   "nama_dagri": "PADI JAYA",
-  "parent_kode_bps": "6112090"
+  "parent_kode_bps": "6112090",
+  "parent_kode_dagri": "61.12.02"
 }

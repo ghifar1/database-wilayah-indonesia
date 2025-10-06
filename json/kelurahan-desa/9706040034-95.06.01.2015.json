@@ -3,5 +3,6 @@
   "nama_bps": "PIRIP",
   "kode_dagri": "95.06.01.2015",
   "nama_dagri": "PIRIP",
-  "parent_kode_bps": "9706040"
+  "parent_kode_bps": "9706040",
+  "parent_kode_dagri": "95.06.01"
 }

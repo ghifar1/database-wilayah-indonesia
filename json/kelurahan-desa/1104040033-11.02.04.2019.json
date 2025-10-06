@@ -3,5 +3,6 @@
   "nama_bps": "MEDABE",
   "kode_dagri": "11.02.04.2019",
   "nama_dagri": "MENDABE",
-  "parent_kode_bps": "1104040"
+  "parent_kode_bps": "1104040",
+  "parent_kode_dagri": "11.02.04"
 }

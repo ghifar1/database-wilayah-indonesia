@@ -3,5 +3,6 @@
   "nama_bps": "PAYAPOP",
   "kode_dagri": "96.01.10.2005",
   "nama_dagri": "PAYAPOP",
-  "parent_kode_bps": "9202010"
+  "parent_kode_bps": "9202010",
+  "parent_kode_dagri": "96.01.10"
 }

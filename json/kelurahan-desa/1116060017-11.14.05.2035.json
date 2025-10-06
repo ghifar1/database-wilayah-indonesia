@@ -3,5 +3,6 @@
   "nama_bps": "SEUREUBA",
   "kode_dagri": "11.14.05.2035",
   "nama_dagri": "MEUNASAH SERBA",
-  "parent_kode_bps": "1116060"
+  "parent_kode_bps": "1116060",
+  "parent_kode_dagri": "11.14.05"
 }

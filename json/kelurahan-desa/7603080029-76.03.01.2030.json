@@ -3,5 +3,6 @@
   "nama_bps": "SALUDURIAN",
   "kode_dagri": "76.03.01.2030",
   "nama_dagri": "SALUDURIAN",
-  "parent_kode_bps": "7603080"
+  "parent_kode_bps": "7603080",
+  "parent_kode_dagri": "76.03.01"
 }

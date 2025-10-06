@@ -3,5 +3,6 @@
   "nama_bps": "JAMBI",
   "kode_dagri": "11.75.04.2009",
   "nama_dagri": "JAMBI BARU",
-  "parent_kode_bps": "1175040"
+  "parent_kode_bps": "1175040",
+  "parent_kode_dagri": "11.75.04"
 }

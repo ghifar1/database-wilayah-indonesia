@@ -3,5 +3,6 @@
   "nama_bps": "SAFOTIEK",
   "kode_dagri": "96.04.15.2003",
   "nama_dagri": "SAFOTIEK",
-  "parent_kode_bps": "9205080"
+  "parent_kode_bps": "9205080",
+  "parent_kode_dagri": "96.04.15"
 }

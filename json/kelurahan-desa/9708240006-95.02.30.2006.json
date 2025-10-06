@@ -3,5 +3,6 @@
   "nama_bps": "BRIS",
   "kode_dagri": "95.02.30.2006",
   "nama_dagri": "BRIS",
-  "parent_kode_bps": "9708240"
+  "parent_kode_bps": "9708240",
+  "parent_kode_dagri": "95.02.30"
 }

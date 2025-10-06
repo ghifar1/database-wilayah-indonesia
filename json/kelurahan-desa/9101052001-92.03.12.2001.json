@@ -3,5 +3,6 @@
   "nama_bps": "WASERAT",
   "kode_dagri": "92.03.12.2001",
   "nama_dagri": "WASERAT",
-  "parent_kode_bps": "9101052"
+  "parent_kode_bps": "9101052",
+  "parent_kode_dagri": "92.03.12"
 }

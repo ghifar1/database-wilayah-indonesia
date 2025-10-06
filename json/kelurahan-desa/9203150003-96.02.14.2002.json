@@ -3,5 +3,6 @@
   "nama_bps": "KLAMIT",
   "kode_dagri": "96.02.14.2002",
   "nama_dagri": "KLAMIT",
-  "parent_kode_bps": "9203150"
+  "parent_kode_bps": "9203150",
+  "parent_kode_dagri": "96.02.14"
 }

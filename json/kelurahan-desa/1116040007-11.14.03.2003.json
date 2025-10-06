@@ -3,5 +3,6 @@
   "nama_bps": "PADANG",
   "kode_dagri": "11.14.03.2003",
   "nama_dagri": "PADANG",
-  "parent_kode_bps": "1116040"
+  "parent_kode_bps": "1116040",
+  "parent_kode_dagri": "11.14.03"
 }

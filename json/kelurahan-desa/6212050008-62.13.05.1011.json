@@ -3,5 +3,6 @@
   "nama_bps": "AMPAH KOTA",
   "kode_dagri": "62.13.05.1011",
   "nama_dagri": "AMPAH KOTA",
-  "parent_kode_bps": "6212050"
+  "parent_kode_bps": "6212050",
+  "parent_kode_dagri": "62.13.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LAHAGU",
   "kode_dagri": "12.25.06.2011",
   "nama_dagri": "LAHAGU",
-  "parent_kode_bps": "1225050"
+  "parent_kode_bps": "1225050",
+  "parent_kode_dagri": "12.25.06"
 }

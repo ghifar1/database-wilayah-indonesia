@@ -3,5 +3,6 @@
   "nama_bps": "JANGKA BUYA",
   "kode_dagri": "11.18.03",
   "nama_dagri": "JANGKA BUYA",
-  "parent_kode_bps": "1118"
+  "parent_kode_bps": "1118",
+  "parent_kode_dagri": "11.18"
 }

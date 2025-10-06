@@ -3,5 +3,6 @@
   "nama_bps": "TEMINABUAN",
   "kode_dagri": "96.02.01",
   "nama_dagri": "TEMINABUAN",
-  "parent_kode_bps": "9203"
+  "parent_kode_bps": "9203",
+  "parent_kode_dagri": "96.02"
 }

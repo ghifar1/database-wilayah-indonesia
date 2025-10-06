@@ -3,5 +3,6 @@
   "nama_bps": "PULAU RANTAU",
   "kode_dagri": "64.01.04.2013",
   "nama_dagri": "PULAU RANTAU",
-  "parent_kode_bps": "6401040"
+  "parent_kode_bps": "6401040",
+  "parent_kode_dagri": "64.01.04"
 }

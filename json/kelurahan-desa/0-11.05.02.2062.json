@@ -3,5 +3,6 @@
   "nama_bps": "0",
   "kode_dagri": "11.05.02.2062",
   "nama_dagri": "BATU JAYA",
-  "parent_kode_bps": "1107080"
+  "parent_kode_bps": "1107080",
+  "parent_kode_dagri": "11.05.02"
 }

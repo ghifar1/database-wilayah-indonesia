@@ -3,5 +3,6 @@
   "nama_bps": "SILIMO",
   "kode_dagri": "95.03.04",
   "nama_dagri": "SILIMO",
-  "parent_kode_bps": "9707"
+  "parent_kode_bps": "9707",
+  "parent_kode_dagri": "95.03"
 }

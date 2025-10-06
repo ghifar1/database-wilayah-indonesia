@@ -3,5 +3,6 @@
   "nama_bps": "TEBING RAYA",
   "kode_dagri": "61.05.01.2026",
   "nama_dagri": "TEBING RAYA",
-  "parent_kode_bps": "6107140"
+  "parent_kode_bps": "6107140",
+  "parent_kode_dagri": "61.05.01"
 }

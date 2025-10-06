@@ -3,5 +3,6 @@
   "nama_bps": "PUNCAK",
   "kode_dagri": "73.07.02.2002",
   "nama_dagri": "PUNCAK",
-  "parent_kode_bps": "7307030"
+  "parent_kode_bps": "7307030",
+  "parent_kode_dagri": "73.07.02"
 }

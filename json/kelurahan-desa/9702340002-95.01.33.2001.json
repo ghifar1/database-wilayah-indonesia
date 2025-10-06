@@ -3,5 +3,6 @@
   "nama_bps": "BUGI",
   "kode_dagri": "95.01.33.2001",
   "nama_dagri": "BUGI",
-  "parent_kode_bps": "9702340"
+  "parent_kode_bps": "9702340",
+  "parent_kode_dagri": "95.01.33"
 }

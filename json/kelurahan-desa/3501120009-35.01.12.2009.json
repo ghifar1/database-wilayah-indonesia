@@ -3,5 +3,6 @@
   "nama_bps": "GUNUNG REJO",
   "kode_dagri": "35.01.12.2009",
   "nama_dagri": "GUNUNGREJO",
-  "parent_kode_bps": "3501120"
+  "parent_kode_bps": "3501120",
+  "parent_kode_dagri": "35.01.12"
 }

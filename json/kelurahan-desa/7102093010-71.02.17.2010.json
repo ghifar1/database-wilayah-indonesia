@@ -3,5 +3,6 @@
   "nama_bps": "ATEP SATU",
   "kode_dagri": "71.02.17.2010",
   "nama_dagri": "ATEP SATU",
-  "parent_kode_bps": "7102093"
+  "parent_kode_bps": "7102093",
+  "parent_kode_dagri": "71.02.17"
 }

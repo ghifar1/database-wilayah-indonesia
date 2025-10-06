@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG SIGURAGURA",
   "kode_dagri": "12.12.07.2041",
   "nama_dagri": "SIMPANG SIGURA-GURA",
-  "parent_kode_bps": "1206070"
+  "parent_kode_bps": "1206070",
+  "parent_kode_dagri": "12.12.07"
 }

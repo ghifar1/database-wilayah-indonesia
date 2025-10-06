@@ -3,5 +3,6 @@
   "nama_bps": "UMUAF",
   "kode_dagri": "91.11.04.2002",
   "nama_dagri": "UMURAF",
-  "parent_kode_bps": "9420010"
+  "parent_kode_bps": "9420010",
+  "parent_kode_dagri": "91.11.04"
 }

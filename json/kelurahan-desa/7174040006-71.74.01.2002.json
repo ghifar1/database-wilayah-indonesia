@@ -3,5 +3,6 @@
   "nama_bps": "BILALANG II",
   "kode_dagri": "71.74.01.2002",
   "nama_dagri": "BILALANG DUA",
-  "parent_kode_bps": "7174040"
+  "parent_kode_bps": "7174040",
+  "parent_kode_dagri": "71.74.01"
 }

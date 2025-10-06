@@ -3,5 +3,6 @@
   "nama_bps": "AROA",
   "kode_dagri": "93.02.09.2007",
   "nama_dagri": "AROA",
-  "parent_kode_bps": "9502100"
+  "parent_kode_bps": "9502100",
+  "parent_kode_dagri": "93.02.09"
 }

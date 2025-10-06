@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT TINGGI",
   "kode_dagri": "12.25.08.2001",
   "nama_dagri": "BUKIT TINGGI",
-  "parent_kode_bps": "1225030"
+  "parent_kode_bps": "1225030",
+  "parent_kode_dagri": "12.25.08"
 }

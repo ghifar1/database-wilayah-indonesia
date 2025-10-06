@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI LAKAM BARAT",
   "kode_dagri": "21.02.03.1008",
   "nama_dagri": "SUNGAI LAKAM BARAT",
-  "parent_kode_bps": "2101030"
+  "parent_kode_bps": "2101030",
+  "parent_kode_dagri": "21.02.03"
 }

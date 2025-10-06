@@ -3,5 +3,6 @@
   "nama_bps": "PECORO",
   "kode_dagri": "35.09.13.2005",
   "nama_dagri": "PECORO",
-  "parent_kode_bps": "3509120"
+  "parent_kode_bps": "3509120",
+  "parent_kode_dagri": "35.09.13"
 }

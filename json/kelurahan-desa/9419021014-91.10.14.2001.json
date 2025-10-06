@@ -3,5 +3,6 @@
   "nama_bps": "ARTIBE",
   "kode_dagri": "91.10.14.2001",
   "nama_dagri": "ARARE",
-  "parent_kode_bps": "9419021"
+  "parent_kode_bps": "9419021",
+  "parent_kode_dagri": "91.10.14"
 }

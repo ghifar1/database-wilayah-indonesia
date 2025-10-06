@@ -3,5 +3,6 @@
   "nama_bps": "IBASUF",
   "kode_dagri": "96.05.06.2010",
   "nama_dagri": "IBASUF",
-  "parent_kode_bps": "9204100"
+  "parent_kode_bps": "9204100",
+  "parent_kode_dagri": "96.05.06"
 }

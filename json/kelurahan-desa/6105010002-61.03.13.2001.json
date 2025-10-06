@@ -3,5 +3,6 @@
   "nama_bps": "TERAJU",
   "kode_dagri": "61.03.13.2001",
   "nama_dagri": "TERAJU",
-  "parent_kode_bps": "6105010"
+  "parent_kode_bps": "6105010",
+  "parent_kode_dagri": "61.03.13"
 }

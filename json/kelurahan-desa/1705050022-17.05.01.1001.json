@@ -3,5 +3,6 @@
   "nama_bps": "BABATAN",
   "kode_dagri": "17.05.01.1001",
   "nama_dagri": "BABATAN",
-  "parent_kode_bps": "1705050"
+  "parent_kode_bps": "1705050",
+  "parent_kode_dagri": "17.05.01"
 }

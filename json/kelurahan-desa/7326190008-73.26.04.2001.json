@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANG BULU LANGKAN",
   "kode_dagri": "73.26.04.2001",
   "nama_dagri": "BULULANGKAN",
-  "parent_kode_bps": "7326190"
+  "parent_kode_bps": "7326190",
+  "parent_kode_dagri": "73.26.04"
 }

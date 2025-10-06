@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG BATU",
   "kode_dagri": "15.01.08.2005",
   "nama_dagri": "TANJUNGBATU",
-  "parent_kode_bps": "1501030"
+  "parent_kode_bps": "1501030",
+  "parent_kode_dagri": "15.01.08"
 }

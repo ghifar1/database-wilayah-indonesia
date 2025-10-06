@@ -3,5 +3,6 @@
   "nama_bps": "PANGKALAN",
   "kode_dagri": "21.03.06.2010",
   "nama_dagri": "PANGKALAN",
-  "parent_kode_bps": "2103060"
+  "parent_kode_bps": "2103060",
+  "parent_kode_dagri": "21.03.06"
 }

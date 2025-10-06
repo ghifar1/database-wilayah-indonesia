@@ -3,5 +3,6 @@
   "nama_bps": "TAGA EPE",
   "kode_dagri": "93.01.16.2003",
   "nama_dagri": "TAGA EPE",
-  "parent_kode_bps": "9501090"
+  "parent_kode_bps": "9501090",
+  "parent_kode_dagri": "93.01.16"
 }

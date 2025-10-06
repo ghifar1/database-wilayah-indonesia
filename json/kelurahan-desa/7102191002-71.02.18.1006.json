@@ -3,5 +3,6 @@
   "nama_bps": "PELELOAN",
   "kode_dagri": "71.02.18.1006",
   "nama_dagri": "PALELOAN",
-  "parent_kode_bps": "7102191"
+  "parent_kode_bps": "7102191",
+  "parent_kode_dagri": "71.02.18"
 }

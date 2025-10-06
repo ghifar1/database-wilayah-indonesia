@@ -3,5 +3,6 @@
   "nama_bps": "PERBANGUNAN",
   "kode_dagri": "12.13.01.2021",
   "nama_dagri": "PERBANGUNAN",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

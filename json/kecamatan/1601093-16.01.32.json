@@ -3,5 +3,6 @@
   "nama_bps": "KEDATON PENINJAUAN RAYA",
   "kode_dagri": "16.01.32",
   "nama_dagri": "KEDATON PENINJAUAN RAYA",
-  "parent_kode_bps": "1601"
+  "parent_kode_bps": "1601",
+  "parent_kode_dagri": "16.01"
 }

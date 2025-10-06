@@ -3,5 +3,6 @@
   "nama_bps": "PETIMBE",
   "kode_dagri": "72.10.02.2006",
   "nama_dagri": "PATIMBE",
-  "parent_kode_bps": "7210060"
+  "parent_kode_bps": "7210060",
+  "parent_kode_dagri": "72.10.02"
 }

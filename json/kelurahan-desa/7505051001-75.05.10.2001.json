@@ -3,5 +3,6 @@
   "nama_bps": "BIAU",
   "kode_dagri": "75.05.10.2001",
   "nama_dagri": "BIAU",
-  "parent_kode_bps": "7505051"
+  "parent_kode_bps": "7505051",
+  "parent_kode_dagri": "75.05.10"
 }

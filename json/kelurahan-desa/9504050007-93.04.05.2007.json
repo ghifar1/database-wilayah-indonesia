@@ -3,5 +3,6 @@
   "nama_bps": "AIS",
   "kode_dagri": "93.04.05.2007",
   "nama_dagri": "AIS",
-  "parent_kode_bps": "9504050"
+  "parent_kode_bps": "9504050",
+  "parent_kode_dagri": "93.04.05"
 }

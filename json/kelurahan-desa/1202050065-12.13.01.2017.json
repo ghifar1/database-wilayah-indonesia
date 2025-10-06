@@ -3,5 +3,6 @@
   "nama_bps": "PAGARAN TONGA",
   "kode_dagri": "12.13.01.2017",
   "nama_dagri": "PAGARAN TONGA",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

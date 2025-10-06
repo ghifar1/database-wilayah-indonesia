@@ -3,5 +3,6 @@
   "nama_bps": "ASOLOKOBAL",
   "kode_dagri": "95.01.09.2002",
   "nama_dagri": "ASOLOKOBAL",
-  "parent_kode_bps": "9702020"
+  "parent_kode_bps": "9702020",
+  "parent_kode_dagri": "95.01.09"
 }

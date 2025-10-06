@@ -3,5 +3,6 @@
   "nama_bps": "MATA BAHO",
   "kode_dagri": "74.12.01.2010",
   "nama_dagri": "MATA BAHO",
-  "parent_kode_bps": "7412070"
+  "parent_kode_bps": "7412070",
+  "parent_kode_dagri": "74.12.01"
 }

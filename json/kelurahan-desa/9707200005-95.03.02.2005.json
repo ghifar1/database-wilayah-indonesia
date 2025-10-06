@@ -3,5 +3,6 @@
   "nama_bps": "KILTAM",
   "kode_dagri": "95.03.02.2005",
   "nama_dagri": "KILTAM",
-  "parent_kode_bps": "9707200"
+  "parent_kode_bps": "9707200",
+  "parent_kode_dagri": "95.03.02"
 }

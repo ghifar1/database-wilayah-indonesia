@@ -3,5 +3,6 @@
   "nama_bps": "SILAUT",
   "kode_dagri": "13.01.15.2001",
   "nama_dagri": "SILAUT",
-  "parent_kode_bps": "1302011"
+  "parent_kode_bps": "1302011",
+  "parent_kode_dagri": "13.01.15"
 }

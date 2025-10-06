@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI AYAK I",
   "kode_dagri": "61.09.05.2001",
   "nama_dagri": "SUNGAI AYAK SATU",
-  "parent_kode_bps": "6109050"
+  "parent_kode_bps": "6109050",
+  "parent_kode_dagri": "61.09.05"
 }

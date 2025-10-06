@@ -3,5 +3,6 @@
   "nama_bps": "MULI",
   "kode_dagri": "93.01.01.1013",
   "nama_dagri": "MULI",
-  "parent_kode_bps": "9501140"
+  "parent_kode_bps": "9501140",
+  "parent_kode_dagri": "93.01.01"
 }

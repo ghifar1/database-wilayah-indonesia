@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG TANAH",
   "kode_dagri": "15.01.02.2007",
   "nama_dagri": "TANJUNGTANAH",
-  "parent_kode_bps": "1501040"
+  "parent_kode_bps": "1501040",
+  "parent_kode_dagri": "15.01.02"
 }

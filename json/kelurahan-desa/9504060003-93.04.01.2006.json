@@ -3,5 +3,6 @@
   "nama_bps": "BAGAIR",
   "kode_dagri": "93.04.01.2006",
   "nama_dagri": "PER",
-  "parent_kode_bps": "9504060"
+  "parent_kode_bps": "9504060",
+  "parent_kode_dagri": "93.04.21"
 }

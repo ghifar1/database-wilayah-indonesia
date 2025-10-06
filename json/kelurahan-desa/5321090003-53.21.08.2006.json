@@ -3,5 +3,6 @@
   "nama_bps": "BONIBAIS",
   "kode_dagri": "53.21.08.2006",
   "nama_dagri": "BONI BAIS",
-  "parent_kode_bps": "5321090"
+  "parent_kode_bps": "5321090",
+  "parent_kode_dagri": "53.21.08"
 }

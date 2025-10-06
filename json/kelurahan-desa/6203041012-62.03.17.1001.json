@@ -3,5 +3,6 @@
   "nama_bps": "PULAU KUPANG",
   "kode_dagri": "62.03.17.1001",
   "nama_dagri": "PULAU KUPANG",
-  "parent_kode_bps": "6203041"
+  "parent_kode_bps": "6203041",
+  "parent_kode_dagri": "62.03.17"
 }

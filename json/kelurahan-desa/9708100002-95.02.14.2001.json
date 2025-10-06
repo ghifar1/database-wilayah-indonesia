@@ -3,5 +3,6 @@
   "nama_bps": "OKSOP",
   "kode_dagri": "95.02.14.2001",
   "nama_dagri": "OKSOP",
-  "parent_kode_bps": "9708100"
+  "parent_kode_bps": "9708100",
+  "parent_kode_dagri": "95.02.14"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG DUA",
   "kode_dagri": "11.01.02.2014",
   "nama_dagri": "KAMPUNG TINGGI",
-  "parent_kode_bps": "1103042"
+  "parent_kode_bps": "1103042",
+  "parent_kode_dagri": "11.01.13"
 }

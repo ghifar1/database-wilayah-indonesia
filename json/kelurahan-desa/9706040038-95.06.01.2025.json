@@ -3,5 +3,6 @@
   "nama_bps": "FIMA",
   "kode_dagri": "95.06.01.2025",
   "nama_dagri": "FIMA",
-  "parent_kode_bps": "9706040"
+  "parent_kode_bps": "9706040",
+  "parent_kode_dagri": "95.06.01"
 }

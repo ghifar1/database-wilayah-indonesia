@@ -3,5 +3,6 @@
   "nama_bps": "KAPATLAP",
   "kode_dagri": "96.03.04.2002",
   "nama_dagri": "KAPATLAP",
-  "parent_kode_bps": "9201080"
+  "parent_kode_bps": "9201080",
+  "parent_kode_dagri": "96.03.04"
 }

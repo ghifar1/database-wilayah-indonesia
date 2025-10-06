@@ -3,5 +3,6 @@
   "nama_bps": "LOMBRIK",
   "kode_dagri": "95.08.11.2002",
   "nama_dagri": "LOMBRIK",
-  "parent_kode_bps": "9701160"
+  "parent_kode_bps": "9701160",
+  "parent_kode_dagri": "95.08.11"
 }

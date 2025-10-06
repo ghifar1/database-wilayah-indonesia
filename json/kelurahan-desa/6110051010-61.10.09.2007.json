@@ -3,5 +3,6 @@
   "nama_bps": "PELINGGANG",
   "kode_dagri": "61.10.09.2007",
   "nama_dagri": "PELINGGANG",
-  "parent_kode_bps": "6110051"
+  "parent_kode_bps": "6110051",
+  "parent_kode_dagri": "61.10.09"
 }

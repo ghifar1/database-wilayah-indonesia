@@ -3,5 +3,6 @@
   "nama_bps": "TEMBAGAPURA",
   "kode_dagri": "94.04.10.1001",
   "nama_dagri": "TEMBAGAPURA",
-  "parent_kode_bps": "9601100"
+  "parent_kode_bps": "9601100",
+  "parent_kode_dagri": "94.04.10"
 }

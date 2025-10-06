@@ -3,5 +3,6 @@
   "nama_bps": "MATARAM BARAT",
   "kode_dagri": "52.71.05.1001",
   "nama_dagri": "MATARAM BARAT",
-  "parent_kode_bps": "5271021"
+  "parent_kode_bps": "5271021",
+  "parent_kode_dagri": "52.71.05"
 }

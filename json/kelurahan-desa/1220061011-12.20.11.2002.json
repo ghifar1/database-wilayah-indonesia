@@ -3,5 +3,6 @@
   "nama_bps": "BOLATAN",
   "kode_dagri": "12.20.11.2002",
   "nama_dagri": "BOLATAN",
-  "parent_kode_bps": "1220061"
+  "parent_kode_bps": "1220061",
+  "parent_kode_dagri": "12.20.11"
 }

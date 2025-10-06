@@ -3,5 +3,6 @@
   "nama_bps": "KAB. AGAM",
   "kode_dagri": "13.06",
   "nama_dagri": "KABUPATEN AGAM",
-  "parent_kode_bps": "13"
+  "parent_kode_bps": "13",
+  "parent_kode_dagri": "13"
 }

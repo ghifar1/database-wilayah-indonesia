@@ -3,5 +3,6 @@
   "nama_bps": "LONGGALO",
   "kode_dagri": "95.07.01.2006",
   "nama_dagri": "LANGGALO",
-  "parent_kode_bps": "9703120"
+  "parent_kode_bps": "9703120",
+  "parent_kode_dagri": "95.07.01"
 }

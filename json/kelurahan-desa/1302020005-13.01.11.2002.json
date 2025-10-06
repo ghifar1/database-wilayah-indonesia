@@ -3,5 +3,6 @@
   "nama_bps": "PASAR TAPAN",
   "kode_dagri": "13.01.11.2002",
   "nama_dagri": "PASAR TAPAN",
-  "parent_kode_bps": "1302020"
+  "parent_kode_bps": "1302020",
+  "parent_kode_dagri": "13.01.11"
 }

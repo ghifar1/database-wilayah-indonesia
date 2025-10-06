@@ -3,5 +3,6 @@
   "nama_bps": "DOTIA",
   "kode_dagri": "82.03.09.2004",
   "nama_dagri": "DOITIA",
-  "parent_kode_bps": "8205060"
+  "parent_kode_bps": "8205060",
+  "parent_kode_dagri": "82.03.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PARTAWANGUNAN",
   "kode_dagri": "32.08.27.2002",
   "nama_dagri": "PARTAWANGUNAN",
-  "parent_kode_bps": "3208091"
+  "parent_kode_bps": "3208091",
+  "parent_kode_dagri": "32.08.27"
 }

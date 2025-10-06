@@ -3,5 +3,6 @@
   "nama_bps": "PANYAKALAN",
   "kode_dagri": "13.02.10.2003",
   "nama_dagri": "PANYAKALAN",
-  "parent_kode_bps": "1303110"
+  "parent_kode_bps": "1303110",
+  "parent_kode_dagri": "13.02.10"
 }

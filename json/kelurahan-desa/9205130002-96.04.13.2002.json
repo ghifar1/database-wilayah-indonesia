@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT",
   "kode_dagri": "96.04.13.2002",
   "nama_dagri": "BUKIT",
-  "parent_kode_bps": "9205130"
+  "parent_kode_bps": "9205130",
+  "parent_kode_dagri": "96.04.13"
 }

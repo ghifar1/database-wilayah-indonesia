@@ -3,5 +3,6 @@
   "nama_bps": "SIRUKAM",
   "kode_dagri": "13.02.05.2002",
   "nama_dagri": "SIRUKAM",
-  "parent_kode_bps": "1303060"
+  "parent_kode_bps": "1303060",
+  "parent_kode_dagri": "13.02.05"
 }

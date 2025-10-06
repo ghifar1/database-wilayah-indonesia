@@ -3,5 +3,6 @@
   "nama_bps": "BAGUN",
   "kode_dagri": "96.01.19.2002",
   "nama_dagri": "BAGUN",
-  "parent_kode_bps": "9202180"
+  "parent_kode_bps": "9202180",
+  "parent_kode_dagri": "96.01.19"
 }

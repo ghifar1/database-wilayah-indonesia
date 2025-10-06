@@ -3,5 +3,6 @@
   "nama_bps": "KAB. SORONG",
   "kode_dagri": "96.01",
   "nama_dagri": "KABUPATEN SORONG",
-  "parent_kode_bps": "92"
+  "parent_kode_bps": "92",
+  "parent_kode_dagri": "96"
 }

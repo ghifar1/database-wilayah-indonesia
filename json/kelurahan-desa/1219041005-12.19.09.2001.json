@@ -3,5 +3,6 @@
   "nama_bps": "GAMBUS LAUT",
   "kode_dagri": "12.19.09.2001",
   "nama_dagri": "GAMBUS LAUT",
-  "parent_kode_bps": "1219041"
+  "parent_kode_bps": "1219041",
+  "parent_kode_dagri": "12.19.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "WULUHAN",
   "kode_dagri": "35.09.11",
   "nama_dagri": "WULUHAN",
-  "parent_kode_bps": "3509"
+  "parent_kode_bps": "3509",
+  "parent_kode_dagri": "35.09"
 }

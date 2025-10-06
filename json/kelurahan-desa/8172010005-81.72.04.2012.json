@@ -3,5 +3,6 @@
   "nama_bps": "SERMAF",
   "kode_dagri": "81.72.04.2012",
   "nama_dagri": "SERMAF",
-  "parent_kode_bps": "8172010"
+  "parent_kode_bps": "8172010",
+  "parent_kode_dagri": "81.72.04"
 }

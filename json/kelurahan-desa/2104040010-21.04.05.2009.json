@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI BESAR",
   "kode_dagri": "21.04.05.2009",
   "nama_dagri": "SUNGAIBESAR",
-  "parent_kode_bps": "2104040"
+  "parent_kode_bps": "2104040",
+  "parent_kode_dagri": "21.04.05"
 }

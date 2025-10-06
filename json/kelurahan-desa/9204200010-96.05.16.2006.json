@@ -3,5 +3,6 @@
   "nama_bps": "RAWAS",
   "kode_dagri": "96.05.16.2006",
   "nama_dagri": "RAWAS",
-  "parent_kode_bps": "9204200"
+  "parent_kode_bps": "9204200",
+  "parent_kode_dagri": "96.05.16"
 }

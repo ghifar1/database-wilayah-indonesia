@@ -3,5 +3,6 @@
   "nama_bps": "BOMBAY",
   "kode_dagri": "81.02.03.2035",
   "nama_dagri": "BOMBAY",
-  "parent_kode_bps": "8102020"
+  "parent_kode_bps": "8102020",
+  "parent_kode_dagri": "81.02.03"
 }

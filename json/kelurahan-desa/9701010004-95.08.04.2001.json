@@ -3,5 +3,6 @@
   "nama_bps": "PILINI",
   "kode_dagri": "95.08.04.2001",
   "nama_dagri": "PILINI",
-  "parent_kode_bps": "9701010"
+  "parent_kode_bps": "9701010",
+  "parent_kode_dagri": "95.08.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SAKALAGUN",
   "kode_dagri": "62.03.06.2001",
   "nama_dagri": "SAKA LAGON",
-  "parent_kode_bps": "6203090"
+  "parent_kode_bps": "6203090",
+  "parent_kode_dagri": "62.03.06"
 }

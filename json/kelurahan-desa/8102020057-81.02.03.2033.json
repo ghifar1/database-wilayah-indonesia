@@ -3,5 +3,6 @@
   "nama_bps": "SOINRAT",
   "kode_dagri": "81.02.03.2033",
   "nama_dagri": "SOINRAT",
-  "parent_kode_bps": "8102020"
+  "parent_kode_bps": "8102020",
+  "parent_kode_dagri": "81.02.03"
 }

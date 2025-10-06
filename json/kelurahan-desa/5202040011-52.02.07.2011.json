@@ -3,5 +3,6 @@
   "nama_bps": "JANGO",
   "kode_dagri": "52.02.07.2011",
   "nama_dagri": "JANGO",
-  "parent_kode_bps": "5202040"
+  "parent_kode_bps": "5202040",
+  "parent_kode_dagri": "52.02.07"
 }

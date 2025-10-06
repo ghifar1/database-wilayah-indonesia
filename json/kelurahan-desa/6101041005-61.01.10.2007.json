@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT MULYA",
   "kode_dagri": "61.01.10.2007",
   "nama_dagri": "BUKIT MULYA",
-  "parent_kode_bps": "6101041"
+  "parent_kode_bps": "6101041",
+  "parent_kode_dagri": "61.01.10"
 }

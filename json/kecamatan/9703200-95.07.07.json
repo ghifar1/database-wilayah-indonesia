@@ -3,5 +3,6 @@
   "nama_bps": "BALINGGA",
   "kode_dagri": "95.07.07",
   "nama_dagri": "BALINGGA",
-  "parent_kode_bps": "9703"
+  "parent_kode_bps": "9703",
+  "parent_kode_dagri": "95.07"
 }

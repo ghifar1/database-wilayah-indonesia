@@ -3,5 +3,6 @@
   "nama_bps": "KINO",
   "kode_dagri": "95.05.03.2004",
   "nama_dagri": "KINO",
-  "parent_kode_bps": "9705040"
+  "parent_kode_bps": "9705040",
+  "parent_kode_dagri": "95.05.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "DAGGENPAGA",
   "kode_dagri": "94.02.14.2006",
   "nama_dagri": "DANGENPAGA",
-  "parent_kode_bps": "9608160"
+  "parent_kode_bps": "9608160",
+  "parent_kode_dagri": "94.02.14"
 }

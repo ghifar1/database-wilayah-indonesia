@@ -3,5 +3,6 @@
   "nama_bps": "PATRIOT",
   "kode_dagri": "93.02.09.2005",
   "nama_dagri": "PATRIOT",
-  "parent_kode_bps": "9502100"
+  "parent_kode_bps": "9502100",
+  "parent_kode_dagri": "93.02.09"
 }

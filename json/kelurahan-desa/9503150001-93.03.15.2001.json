@@ -3,5 +3,6 @@
   "nama_bps": "SAGIS",
   "kode_dagri": "93.03.15.2001",
   "nama_dagri": "SAGIS",
-  "parent_kode_bps": "9503150"
+  "parent_kode_bps": "9503150",
+  "parent_kode_dagri": "93.03.15"
 }

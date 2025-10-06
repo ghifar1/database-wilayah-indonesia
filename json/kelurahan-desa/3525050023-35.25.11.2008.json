@@ -3,5 +3,6 @@
   "nama_bps": "GEDANGKULUT",
   "kode_dagri": "35.25.11.2008",
   "nama_dagri": "GEDANGKULUD",
-  "parent_kode_bps": "3525050"
+  "parent_kode_bps": "3525050",
+  "parent_kode_dagri": "35.25.11"
 }

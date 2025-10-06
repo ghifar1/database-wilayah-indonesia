@@ -3,5 +3,6 @@
   "nama_bps": "UPAI",
   "kode_dagri": "71.74.01.1006",
   "nama_dagri": "UPAI",
-  "parent_kode_bps": "7174040"
+  "parent_kode_bps": "7174040",
+  "parent_kode_dagri": "71.74.01"
 }

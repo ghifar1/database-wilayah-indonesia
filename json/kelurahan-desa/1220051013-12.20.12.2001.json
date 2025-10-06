@@ -3,5 +3,6 @@
   "nama_bps": "HUTA RAJA",
   "kode_dagri": "12.20.12.2001",
   "nama_dagri": "HUTA RAJA",
-  "parent_kode_bps": "1220051"
+  "parent_kode_bps": "1220051",
+  "parent_kode_dagri": "12.20.12"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "ASNAIF",
   "kode_dagri": "96.05.22.2011",
   "nama_dagri": "ASNAIF",
-  "parent_kode_bps": "9204080"
+  "parent_kode_bps": "9204080",
+  "parent_kode_dagri": "96.05.22"
 }

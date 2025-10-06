@@ -3,5 +3,6 @@
   "nama_bps": "UMAGE",
   "kode_dagri": "95.04.02.2004",
   "nama_dagri": "UMAGA",
-  "parent_kode_bps": "9704160"
+  "parent_kode_bps": "9704160",
+  "parent_kode_dagri": "95.04.02"
 }

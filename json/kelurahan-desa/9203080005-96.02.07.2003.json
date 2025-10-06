@@ -3,5 +3,6 @@
   "nama_bps": "BOLDON",
   "kode_dagri": "96.02.07.2003",
   "nama_dagri": "BOLDON",
-  "parent_kode_bps": "9203080"
+  "parent_kode_bps": "9203080",
+  "parent_kode_dagri": "96.02.07"
 }

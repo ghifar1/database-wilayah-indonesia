@@ -3,5 +3,6 @@
   "nama_bps": "KOPER",
   "kode_dagri": "95.03.42.2003",
   "nama_dagri": "KOPER",
-  "parent_kode_bps": "9707390"
+  "parent_kode_bps": "9707390",
+  "parent_kode_dagri": "95.03.42"
 }

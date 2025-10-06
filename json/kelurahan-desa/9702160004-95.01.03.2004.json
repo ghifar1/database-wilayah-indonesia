@@ -3,5 +3,6 @@
   "nama_bps": "LOGOT",
   "kode_dagri": "95.01.03.2004",
   "nama_dagri": "LOGOTPAGA",
-  "parent_kode_bps": "9702160"
+  "parent_kode_bps": "9702160",
+  "parent_kode_dagri": "95.01.03"
 }

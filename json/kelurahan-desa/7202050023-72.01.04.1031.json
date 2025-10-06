@@ -3,5 +3,6 @@
   "nama_bps": "KARATON",
   "kode_dagri": "72.01.04.1031",
   "nama_dagri": "KARATON",
-  "parent_kode_bps": "7202050"
+  "parent_kode_bps": "7202050",
+  "parent_kode_dagri": "72.01.04"
 }

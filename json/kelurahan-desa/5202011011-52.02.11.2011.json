@@ -3,5 +3,6 @@
   "nama_bps": "TEDUH",
   "kode_dagri": "52.02.11.2011",
   "nama_dagri": "TEDUH",
-  "parent_kode_bps": "5202011"
+  "parent_kode_bps": "5202011",
+  "parent_kode_dagri": "52.02.11"
 }

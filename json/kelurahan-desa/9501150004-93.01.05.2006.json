@@ -3,5 +3,6 @@
   "nama_bps": "KUPER",
   "kode_dagri": "93.01.05.2006",
   "nama_dagri": "KUPER",
-  "parent_kode_bps": "9501150"
+  "parent_kode_bps": "9501150",
+  "parent_kode_dagri": "93.01.05"
 }

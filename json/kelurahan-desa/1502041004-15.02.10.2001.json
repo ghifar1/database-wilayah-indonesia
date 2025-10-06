@@ -3,5 +3,6 @@
   "nama_bps": "PULAU RENGAS",
   "kode_dagri": "15.02.10.2001",
   "nama_dagri": "PULAU RENGAS",
-  "parent_kode_bps": "1502041"
+  "parent_kode_bps": "1502041",
+  "parent_kode_dagri": "15.02.10"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PANGKALAN",
   "kode_dagri": "16.13.02.2001",
   "nama_dagri": "PANGKALAN",
-  "parent_kode_bps": "1613030"
+  "parent_kode_bps": "1613030",
+  "parent_kode_dagri": "16.13.02"
 }

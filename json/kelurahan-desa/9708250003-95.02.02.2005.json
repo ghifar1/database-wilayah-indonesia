@@ -3,5 +3,6 @@
   "nama_bps": "PELEBIB",
   "kode_dagri": "95.02.02.2005",
   "nama_dagri": "PELEBIB",
-  "parent_kode_bps": "9708250"
+  "parent_kode_bps": "9708250",
+  "parent_kode_dagri": "95.02.02"
 }

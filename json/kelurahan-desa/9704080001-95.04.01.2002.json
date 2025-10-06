@@ -3,5 +3,6 @@
   "nama_bps": "KOGIMAGE",
   "kode_dagri": "95.04.01.2002",
   "nama_dagri": "KOGIMAGI",
-  "parent_kode_bps": "9704080"
+  "parent_kode_bps": "9704080",
+  "parent_kode_dagri": "95.04.01"
 }

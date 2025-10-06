@@ -3,5 +3,6 @@
   "nama_bps": "PERKEBUNAN BATANG SEPONGGOL",
   "kode_dagri": "12.22.02.2004",
   "nama_dagri": "PERK. BATANG SAPONGGOL",
-  "parent_kode_bps": "1222050"
+  "parent_kode_bps": "1222050",
+  "parent_kode_dagri": "12.22.02"
 }

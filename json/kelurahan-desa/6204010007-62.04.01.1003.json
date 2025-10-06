@@ -3,5 +3,6 @@
   "nama_bps": "RANTAU KUJANG",
   "kode_dagri": "62.04.01.1003",
   "nama_dagri": "RANTAU KUJANG",
-  "parent_kode_bps": "6204010"
+  "parent_kode_bps": "6204010",
+  "parent_kode_dagri": "62.04.01"
 }

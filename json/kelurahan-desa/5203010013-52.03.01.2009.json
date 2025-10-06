@@ -3,5 +3,6 @@
   "nama_bps": "PIJOT UTARA",
   "kode_dagri": "52.03.01.2009",
   "nama_dagri": "PIJOT UTARA",
-  "parent_kode_bps": "5203010"
+  "parent_kode_bps": "5203010",
+  "parent_kode_dagri": "52.03.01"
 }

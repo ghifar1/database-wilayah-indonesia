@@ -3,5 +3,6 @@
   "nama_bps": "SOGIYAN",
   "kode_dagri": "35.27.05.2006",
   "nama_dagri": "SOGIAN",
-  "parent_kode_bps": "3527050"
+  "parent_kode_bps": "3527050",
+  "parent_kode_dagri": "35.27.05"
 }

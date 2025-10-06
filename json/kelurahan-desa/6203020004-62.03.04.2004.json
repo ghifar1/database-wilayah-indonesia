@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI TERAS",
   "kode_dagri": "62.03.04.2004",
   "nama_dagri": "SEI TERAS",
-  "parent_kode_bps": "6203020"
+  "parent_kode_bps": "6203020",
+  "parent_kode_dagri": "62.03.04"
 }

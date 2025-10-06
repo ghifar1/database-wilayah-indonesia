@@ -3,5 +3,6 @@
   "nama_bps": "PAL IV P KOLING",
   "kode_dagri": "12.77.05.2003",
   "nama_dagri": "PALOPAT PIJOR KOLING",
-  "parent_kode_bps": "1277010"
+  "parent_kode_bps": "1277010",
+  "parent_kode_dagri": "12.77.05"
 }

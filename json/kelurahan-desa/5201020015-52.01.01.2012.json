@@ -3,5 +3,6 @@
   "nama_bps": "MESANGGOK",
   "kode_dagri": "52.01.01.2012",
   "nama_dagri": "MESANGGOK",
-  "parent_kode_bps": "5201020"
+  "parent_kode_bps": "5201020",
+  "parent_kode_dagri": "52.01.01"
 }

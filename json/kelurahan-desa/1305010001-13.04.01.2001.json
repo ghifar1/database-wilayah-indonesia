@@ -3,5 +3,6 @@
   "nama_bps": "TAMBANGAN",
   "kode_dagri": "13.04.01.2001",
   "nama_dagri": "TAMBANGAN",
-  "parent_kode_bps": "1305010"
+  "parent_kode_bps": "1305010",
+  "parent_kode_dagri": "13.04.01"
 }

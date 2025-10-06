@@ -3,5 +3,6 @@
   "nama_bps": "LONG POQ BARU",
   "kode_dagri": "64.08.01.2012",
   "nama_dagri": "LONG POQ BARU",
-  "parent_kode_bps": "6404010"
+  "parent_kode_bps": "6404010",
+  "parent_kode_dagri": "64.08.01"
 }

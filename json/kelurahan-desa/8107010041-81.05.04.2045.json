@@ -3,5 +3,6 @@
   "nama_bps": "KILOTAK",
   "kode_dagri": "81.05.04.2045",
   "nama_dagri": "KILOTAK",
-  "parent_kode_bps": "8107010"
+  "parent_kode_bps": "8107010",
+  "parent_kode_dagri": "81.05.04"
 }

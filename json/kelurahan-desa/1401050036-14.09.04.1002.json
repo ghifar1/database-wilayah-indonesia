@@ -3,5 +3,6 @@
   "nama_bps": "PASAR BARU BASERAH",
   "kode_dagri": "14.09.04.1002",
   "nama_dagri": "PASAR BARU",
-  "parent_kode_bps": "1401050"
+  "parent_kode_bps": "1401050",
+  "parent_kode_dagri": "14.09.04"
 }

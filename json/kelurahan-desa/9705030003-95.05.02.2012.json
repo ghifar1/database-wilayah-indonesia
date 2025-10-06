@@ -3,5 +3,6 @@
   "nama_bps": "TARI",
   "kode_dagri": "95.05.02.2012",
   "nama_dagri": "TARI",
-  "parent_kode_bps": "9705030"
+  "parent_kode_bps": "9705030",
+  "parent_kode_dagri": "95.05.02"
 }

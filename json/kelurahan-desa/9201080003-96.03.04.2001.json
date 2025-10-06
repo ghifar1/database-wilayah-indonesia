@@ -3,5 +3,6 @@
   "nama_bps": "SAMATE",
   "kode_dagri": "96.03.04.2001",
   "nama_dagri": "SAMATE",
-  "parent_kode_bps": "9201080"
+  "parent_kode_bps": "9201080",
+  "parent_kode_dagri": "96.03.04"
 }

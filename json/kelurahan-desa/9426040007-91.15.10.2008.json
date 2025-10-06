@@ -3,5 +3,6 @@
   "nama_bps": "FOIDA",
   "kode_dagri": "91.15.10.2008",
   "nama_dagri": "FOIRA",
-  "parent_kode_bps": "9426040"
+  "parent_kode_bps": "9426040",
+  "parent_kode_dagri": "91.15.10"
 }

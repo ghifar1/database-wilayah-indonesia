@@ -3,5 +3,6 @@
   "nama_bps": "HUTAIBUS",
   "kode_dagri": "12.21.04.2004",
   "nama_dagri": "HUTAIBUS",
-  "parent_kode_bps": "1221040"
+  "parent_kode_bps": "1221040",
+  "parent_kode_dagri": "12.21.04"
 }

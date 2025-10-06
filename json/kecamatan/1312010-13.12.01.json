@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI BEREMAS",
   "kode_dagri": "13.12.01",
   "nama_dagri": "SUNGAI BEREMAS",
-  "parent_kode_bps": "1312"
+  "parent_kode_bps": "1312",
+  "parent_kode_dagri": "13.12"
 }

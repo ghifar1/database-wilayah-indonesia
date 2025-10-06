@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANG RINDING ALLO",
   "kode_dagri": "73.26.04.2003",
   "nama_dagri": "RINDINGALLO",
-  "parent_kode_bps": "7326190"
+  "parent_kode_bps": "7326190",
+  "parent_kode_dagri": "73.26.04"
 }

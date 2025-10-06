@@ -3,5 +3,6 @@
   "nama_bps": "LONG MERAH",
   "kode_dagri": "64.11.01.2010",
   "nama_dagri": "LONG MERAH",
-  "parent_kode_bps": "6411030"
+  "parent_kode_bps": "6411030",
+  "parent_kode_dagri": "64.11.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SAMOSLO",
   "kode_dagri": "96.01.12.2006",
   "nama_dagri": "SAMOLSLO",
-  "parent_kode_bps": "9202220"
+  "parent_kode_bps": "9202220",
+  "parent_kode_dagri": "96.01.12"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "GELANGSAR",
   "kode_dagri": "52.01.09.2014",
   "nama_dagri": "GELANGSAR",
-  "parent_kode_bps": "5201060"
+  "parent_kode_bps": "5201060",
+  "parent_kode_dagri": "52.01.09"
 }

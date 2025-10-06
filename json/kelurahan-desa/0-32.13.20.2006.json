@@ -3,5 +3,6 @@
   "nama_bps": "0",
   "kode_dagri": "32.13.20.2006",
   "nama_dagri": "KOSAR",
-  "parent_kode_bps": "3213090"
+  "parent_kode_bps": "3213090",
+  "parent_kode_dagri": "32.13.20"
 }

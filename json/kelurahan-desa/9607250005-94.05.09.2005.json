@@ -3,5 +3,6 @@
   "nama_bps": "FOISA",
   "kode_dagri": "94.05.09.2005",
   "nama_dagri": "FOISA",
-  "parent_kode_bps": "9607250"
+  "parent_kode_bps": "9607250",
+  "parent_kode_dagri": "94.05.09"
 }

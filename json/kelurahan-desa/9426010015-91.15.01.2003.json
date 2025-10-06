@@ -3,5 +3,6 @@
   "nama_bps": "WAREN SATU",
   "kode_dagri": "91.15.01.2003",
   "nama_dagri": "WAREN I",
-  "parent_kode_bps": "9426010"
+  "parent_kode_bps": "9426010",
+  "parent_kode_dagri": "91.15.01"
 }

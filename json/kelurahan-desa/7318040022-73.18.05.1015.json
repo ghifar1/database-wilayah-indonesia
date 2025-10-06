@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN PANTAN",
   "kode_dagri": "73.18.05.1015",
   "nama_dagri": "PANTAN",
-  "parent_kode_bps": "7318040"
+  "parent_kode_bps": "7318040",
+  "parent_kode_dagri": "73.18.05"
 }

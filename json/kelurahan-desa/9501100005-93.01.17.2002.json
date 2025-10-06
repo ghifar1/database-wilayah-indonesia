@@ -3,5 +3,6 @@
   "nama_bps": "KAPTEL",
   "kode_dagri": "93.01.17.2002",
   "nama_dagri": "KAPTEL",
-  "parent_kode_bps": "9501100"
+  "parent_kode_bps": "9501100",
+  "parent_kode_dagri": "93.01.17"
 }

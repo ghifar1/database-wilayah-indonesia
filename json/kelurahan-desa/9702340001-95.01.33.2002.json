@@ -3,5 +3,6 @@
   "nama_bps": "MANDA",
   "kode_dagri": "95.01.33.2002",
   "nama_dagri": "MANDA",
-  "parent_kode_bps": "9702340"
+  "parent_kode_bps": "9702340",
+  "parent_kode_dagri": "95.01.33"
 }

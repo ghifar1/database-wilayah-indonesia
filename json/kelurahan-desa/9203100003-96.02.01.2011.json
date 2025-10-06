@@ -3,5 +3,6 @@
   "nama_bps": "WERNAS",
   "kode_dagri": "96.02.01.2011",
   "nama_dagri": "WERNAS",
-  "parent_kode_bps": "9203100"
+  "parent_kode_bps": "9203100",
+  "parent_kode_dagri": "96.02.01"
 }

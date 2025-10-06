@@ -3,5 +3,6 @@
   "nama_bps": "TASIPI",
   "kode_dagri": "74.13.08.2001",
   "nama_dagri": "TASIPI",
-  "parent_kode_bps": "7413050"
+  "parent_kode_bps": "7413050",
+  "parent_kode_dagri": "74.13.08"
 }

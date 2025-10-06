@@ -3,5 +3,6 @@
   "nama_bps": "APIAM",
   "kode_dagri": "95.04.02.2003",
   "nama_dagri": "APIAM",
-  "parent_kode_bps": "9704160"
+  "parent_kode_bps": "9704160",
+  "parent_kode_dagri": "95.04.02"
 }

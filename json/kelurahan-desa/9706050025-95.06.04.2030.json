@@ -3,5 +3,6 @@
   "nama_bps": "WERMAS",
   "kode_dagri": "95.06.04.2030",
   "nama_dagri": "WERMAS",
-  "parent_kode_bps": "9706050"
+  "parent_kode_bps": "9706050",
+  "parent_kode_dagri": "95.06.04"
 }

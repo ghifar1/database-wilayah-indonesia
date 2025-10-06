@@ -3,5 +3,6 @@
   "nama_bps": "ATENAR",
   "kode_dagri": "95.02.14.2003",
   "nama_dagri": "ATENOR",
-  "parent_kode_bps": "9708100"
+  "parent_kode_bps": "9708100",
+  "parent_kode_dagri": "95.02.14"
 }

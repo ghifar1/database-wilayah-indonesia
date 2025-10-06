@@ -3,5 +3,6 @@
   "nama_bps": "MARE",
   "kode_dagri": "96.05.11",
   "nama_dagri": "MARE",
-  "parent_kode_bps": "9204"
+  "parent_kode_bps": "9204",
+  "parent_kode_dagri": "96.05"
 }

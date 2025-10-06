@@ -3,5 +3,6 @@
   "nama_bps": "MEDAN MAS",
   "kode_dagri": "61.12.05.2015",
   "nama_dagri": "MEDAN MAS",
-  "parent_kode_bps": "6112010"
+  "parent_kode_bps": "6112010",
+  "parent_kode_dagri": "61.12.05"
 }

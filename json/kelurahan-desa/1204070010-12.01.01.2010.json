@@ -3,5 +3,6 @@
   "nama_bps": "PATUPANGAN",
   "kode_dagri": "12.01.01.2010",
   "nama_dagri": "PATUPANGAN",
-  "parent_kode_bps": "1204070"
+  "parent_kode_bps": "1204070",
+  "parent_kode_dagri": "12.01.01"
 }

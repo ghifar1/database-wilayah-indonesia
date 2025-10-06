@@ -3,5 +3,6 @@
   "nama_bps": "TOILI",
   "kode_dagri": "72.01.14.2002",
   "nama_dagri": "TOILI",
-  "parent_kode_bps": "7202012"
+  "parent_kode_bps": "7202012",
+  "parent_kode_dagri": "72.01.14"
 }

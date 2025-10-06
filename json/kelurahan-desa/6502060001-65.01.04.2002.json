@@ -3,5 +3,6 @@
   "nama_bps": "MANGKU PADI",
   "kode_dagri": "65.01.04.2002",
   "nama_dagri": "MANGKUPADI",
-  "parent_kode_bps": "6502060"
+  "parent_kode_bps": "6502060",
+  "parent_kode_dagri": "65.01.04"
 }

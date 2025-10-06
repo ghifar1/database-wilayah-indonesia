@@ -3,5 +3,6 @@
   "nama_bps": "KEBON SEMBILAN",
   "kode_dagri": "15.05.08.2001",
   "nama_dagri": "KEBON IX",
-  "parent_kode_bps": "1505021"
+  "parent_kode_bps": "1505021",
+  "parent_kode_dagri": "15.05.08"
 }

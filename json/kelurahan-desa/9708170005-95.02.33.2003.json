@@ -3,5 +3,6 @@
   "nama_bps": "PAMEK",
   "kode_dagri": "95.02.33.2003",
   "nama_dagri": "PAMEK",
-  "parent_kode_bps": "9708170"
+  "parent_kode_bps": "9708170",
+  "parent_kode_dagri": "95.02.33"
 }

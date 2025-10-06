@@ -3,5 +3,6 @@
   "nama_bps": "API-API PASAR BARU",
   "kode_dagri": "13.01.06.2009",
   "nama_dagri": "API-API PASAR BARU",
-  "parent_kode_bps": "1302100"
+  "parent_kode_bps": "1302100",
+  "parent_kode_dagri": "13.01.06"
 }

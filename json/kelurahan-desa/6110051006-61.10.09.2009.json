@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI BAKAH",
   "kode_dagri": "61.10.09.2009",
   "nama_dagri": "SUNGAI BAKAH",
-  "parent_kode_bps": "6110051"
+  "parent_kode_bps": "6110051",
+  "parent_kode_dagri": "61.10.09"
 }

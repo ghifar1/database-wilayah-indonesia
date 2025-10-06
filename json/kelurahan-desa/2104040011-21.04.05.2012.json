@@ -3,5 +3,6 @@
   "nama_bps": "RESUN PESISIR",
   "kode_dagri": "21.04.05.2012",
   "nama_dagri": "RESUN PESISIR",
-  "parent_kode_bps": "2104040"
+  "parent_kode_bps": "2104040",
+  "parent_kode_dagri": "21.04.05"
 }

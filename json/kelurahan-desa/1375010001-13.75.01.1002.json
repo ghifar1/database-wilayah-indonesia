@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT CANGANG KAYU RAMANG",
   "kode_dagri": "13.75.01.1002",
   "nama_dagri": "BUKIT CANGANG KAYU RAMANG",
-  "parent_kode_bps": "1375010"
+  "parent_kode_bps": "1375010",
+  "parent_kode_dagri": "13.75.01"
 }

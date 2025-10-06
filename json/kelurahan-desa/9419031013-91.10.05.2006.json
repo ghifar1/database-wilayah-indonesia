@@ -3,5 +3,6 @@
   "nama_bps": "NARUM",
   "kode_dagri": "91.10.05.2006",
   "nama_dagri": "ANUS",
-  "parent_kode_bps": "9419031"
+  "parent_kode_bps": "9419031",
+  "parent_kode_dagri": "91.10.05"
 }

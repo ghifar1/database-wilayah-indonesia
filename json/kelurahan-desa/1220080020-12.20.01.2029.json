@@ -3,5 +3,6 @@
   "nama_bps": "SIPOGAS",
   "kode_dagri": "12.20.01.2029",
   "nama_dagri": "SIPOGAS",
-  "parent_kode_bps": "1220080"
+  "parent_kode_bps": "1220080",
+  "parent_kode_dagri": "12.20.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BATU LAYANG",
   "kode_dagri": "61.71.04.1004",
   "nama_dagri": "BATULAYANG",
-  "parent_kode_bps": "6171040"
+  "parent_kode_bps": "6171040",
+  "parent_kode_dagri": "61.71.04"
 }

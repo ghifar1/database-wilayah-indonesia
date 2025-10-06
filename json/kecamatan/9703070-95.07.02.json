@@ -3,5 +3,6 @@
   "nama_bps": "PIRIME",
   "kode_dagri": "95.07.02",
   "nama_dagri": "PIRIME",
-  "parent_kode_bps": "9703"
+  "parent_kode_bps": "9703",
+  "parent_kode_dagri": "95.07"
 }

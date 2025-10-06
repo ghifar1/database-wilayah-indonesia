@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG RIMBO",
   "kode_dagri": "15.71.09.1006",
   "nama_dagri": "SIMPANG RIMBO",
-  "parent_kode_bps": "1571011"
+  "parent_kode_bps": "1571011",
+  "parent_kode_dagri": "15.71.09"
 }

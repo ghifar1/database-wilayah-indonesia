@@ -3,5 +3,6 @@
   "nama_bps": "MILIMA",
   "kode_dagri": "95.01.02.2002",
   "nama_dagri": "MULIMA",
-  "parent_kode_bps": "9702220"
+  "parent_kode_bps": "9702220",
+  "parent_kode_dagri": "95.01.02"
 }

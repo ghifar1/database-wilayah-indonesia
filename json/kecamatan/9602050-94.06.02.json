@@ -3,5 +3,6 @@
   "nama_bps": "MAPIA",
   "kode_dagri": "94.06.02",
   "nama_dagri": "MAPIA",
-  "parent_kode_bps": "9602"
+  "parent_kode_bps": "9602",
+  "parent_kode_dagri": "94.06"
 }

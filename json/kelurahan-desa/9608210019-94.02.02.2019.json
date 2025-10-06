@@ -3,5 +3,6 @@
   "nama_bps": "GINIPAGO",
   "kode_dagri": "94.02.02.2019",
   "nama_dagri": "GINIPAGO",
-  "parent_kode_bps": "9608210"
+  "parent_kode_bps": "9608210",
+  "parent_kode_dagri": "94.02.02"
 }

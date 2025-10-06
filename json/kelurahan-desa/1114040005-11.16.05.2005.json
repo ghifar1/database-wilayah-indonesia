@@ -3,5 +3,6 @@
   "nama_bps": "KOTA LINTANG",
   "kode_dagri": "11.16.05.2005",
   "nama_dagri": "KOTA LINTANG",
-  "parent_kode_bps": "1114040"
+  "parent_kode_bps": "1114040",
+  "parent_kode_dagri": "11.16.05"
 }

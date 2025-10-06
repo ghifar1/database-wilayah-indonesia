@@ -3,5 +3,6 @@
   "nama_bps": "LEMO",
   "kode_dagri": "74.06.12.2002",
   "nama_dagri": "LEMO",
-  "parent_kode_bps": "7406053"
+  "parent_kode_bps": "7406053",
+  "parent_kode_dagri": "74.06.12"
 }

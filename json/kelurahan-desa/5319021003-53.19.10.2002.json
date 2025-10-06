@@ -3,5 +3,6 @@
   "nama_bps": "MOKEL",
   "kode_dagri": "53.19.10.2002",
   "nama_dagri": "MOKEL",
-  "parent_kode_bps": "5319021"
+  "parent_kode_bps": "5319021",
+  "parent_kode_dagri": "53.19.10"
 }

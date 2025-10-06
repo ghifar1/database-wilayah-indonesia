@@ -3,5 +3,6 @@
   "nama_bps": "LABUHAN",
   "kode_dagri": "18.13.06.2002",
   "nama_dagri": "LABUHAN",
-  "parent_kode_bps": "1813030"
+  "parent_kode_bps": "1813030",
+  "parent_kode_dagri": "18.13.06"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAKENTURAN SATU",
   "kode_dagri": "71.72.07.1006",
   "nama_dagri": "KAKENTURAN  SATU",
-  "parent_kode_bps": "7172031"
+  "parent_kode_bps": "7172031",
+  "parent_kode_dagri": "71.72.07"
 }

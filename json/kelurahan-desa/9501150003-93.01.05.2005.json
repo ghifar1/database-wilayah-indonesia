@@ -3,5 +3,6 @@
   "nama_bps": "KUPRIK",
   "kode_dagri": "93.01.05.2005",
   "nama_dagri": "KUPRIK",
-  "parent_kode_bps": "9501150"
+  "parent_kode_bps": "9501150",
+  "parent_kode_dagri": "93.01.05"
 }

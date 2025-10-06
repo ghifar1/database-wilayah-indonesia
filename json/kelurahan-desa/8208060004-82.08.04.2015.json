@@ -3,5 +3,6 @@
   "nama_bps": "PADANG",
   "kode_dagri": "82.08.04.2015",
   "nama_dagri": "PADANG",
-  "parent_kode_bps": "8208060"
+  "parent_kode_bps": "8208060",
+  "parent_kode_dagri": "82.08.04"
 }

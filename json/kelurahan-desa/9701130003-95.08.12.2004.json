@@ -3,5 +3,6 @@
   "nama_bps": "SETMIT",
   "kode_dagri": "95.08.12.2004",
   "nama_dagri": "SETMIT",
-  "parent_kode_bps": "9701130"
+  "parent_kode_bps": "9701130",
+  "parent_kode_dagri": "95.08.12"
 }

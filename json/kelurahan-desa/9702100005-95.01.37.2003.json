@@ -3,5 +3,6 @@
   "nama_bps": "ESIAK",
   "kode_dagri": "95.01.37.2003",
   "nama_dagri": "ESIAK",
-  "parent_kode_bps": "9702100"
+  "parent_kode_bps": "9702100",
+  "parent_kode_dagri": "95.01.37"
 }

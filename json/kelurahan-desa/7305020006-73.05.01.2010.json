@@ -3,5 +3,6 @@
   "nama_bps": "PA BATANGAN",
   "kode_dagri": "73.05.01.2010",
   "nama_dagri": "PA'BATANGANG",
-  "parent_kode_bps": "7305020"
+  "parent_kode_bps": "7305020",
+  "parent_kode_dagri": "73.05.01"
 }

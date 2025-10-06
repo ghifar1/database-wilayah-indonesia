@@ -3,5 +3,6 @@
   "nama_bps": "GOME",
   "kode_dagri": "94.05.08.2001",
   "nama_dagri": "GOME",
-  "parent_kode_bps": "9607040"
+  "parent_kode_bps": "9607040",
+  "parent_kode_dagri": "94.05.08"
 }

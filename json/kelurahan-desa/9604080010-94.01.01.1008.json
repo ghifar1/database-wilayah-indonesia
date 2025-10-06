@@ -3,5 +3,6 @@
   "nama_bps": "NABARUA",
   "kode_dagri": "94.01.01.1008",
   "nama_dagri": "NABARUA",
-  "parent_kode_bps": "9604080"
+  "parent_kode_bps": "9604080",
+  "parent_kode_dagri": "94.01.01"
 }

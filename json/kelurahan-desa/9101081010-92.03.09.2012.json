@@ -3,5 +3,6 @@
   "nama_bps": "US",
   "kode_dagri": "92.03.09.2012",
   "nama_dagri": "US",
-  "parent_kode_bps": "9101081"
+  "parent_kode_bps": "9101081",
+  "parent_kode_dagri": "92.03.09"
 }

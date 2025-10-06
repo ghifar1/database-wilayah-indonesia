@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG",
   "kode_dagri": "15.05.03.1008",
   "nama_dagri": "TANJUNG",
-  "parent_kode_bps": "1505030"
+  "parent_kode_bps": "1505030",
+  "parent_kode_dagri": "15.05.03"
 }

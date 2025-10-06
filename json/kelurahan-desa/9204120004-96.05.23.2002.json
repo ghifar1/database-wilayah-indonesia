@@ -3,5 +3,6 @@
   "nama_bps": "IKUF",
   "kode_dagri": "96.05.23.2002",
   "nama_dagri": "IKUF",
-  "parent_kode_bps": "9204120"
+  "parent_kode_bps": "9204120",
+  "parent_kode_dagri": "96.05.23"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "OBIO",
   "kode_dagri": "95.03.08.2002",
   "nama_dagri": "OBIO",
-  "parent_kode_bps": "9707040"
+  "parent_kode_bps": "9707040",
+  "parent_kode_dagri": "95.03.08"
 }

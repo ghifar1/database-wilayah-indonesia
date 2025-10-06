@@ -3,5 +3,6 @@
   "nama_bps": "HILIKARA",
   "kode_dagri": "12.14.08.2035",
   "nama_dagri": "HILIKARA",
-  "parent_kode_bps": "1214080"
+  "parent_kode_bps": "1214080",
+  "parent_kode_dagri": "12.14.08"
 }

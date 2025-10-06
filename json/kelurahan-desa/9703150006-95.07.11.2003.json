@@ -3,5 +3,6 @@
   "nama_bps": "DAPOGI",
   "kode_dagri": "95.07.11.2003",
   "nama_dagri": "DAPOGI",
-  "parent_kode_bps": "9703150"
+  "parent_kode_bps": "9703150",
+  "parent_kode_dagri": "95.07.11"
 }

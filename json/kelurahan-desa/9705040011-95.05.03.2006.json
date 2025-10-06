@@ -3,5 +3,6 @@
   "nama_bps": "ENGGAMA",
   "kode_dagri": "95.05.03.2006",
   "nama_dagri": "ENGGAMA",
-  "parent_kode_bps": "9705040"
+  "parent_kode_bps": "9705040",
+  "parent_kode_dagri": "95.05.03"
 }

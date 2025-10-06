@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG KUBU KANDANG",
   "kode_dagri": "15.04.05.2015",
   "nama_dagri": "SIMPANG KUBU KANDANG",
-  "parent_kode_bps": "1504050"
+  "parent_kode_bps": "1504050",
+  "parent_kode_dagri": "15.04.05"
 }

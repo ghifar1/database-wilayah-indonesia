@@ -3,5 +3,6 @@
   "nama_bps": "PARIBANG BARU",
   "kode_dagri": "61.05.02.2006",
   "nama_dagri": "PARIBANG BARU",
-  "parent_kode_bps": "6107120"
+  "parent_kode_bps": "6107120",
+  "parent_kode_dagri": "61.05.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "NAGARI SIMPANG TONANG UTARA",
   "kode_dagri": "13.08.12.2004",
   "nama_dagri": "SIMPANG TONANG UTARA",
-  "parent_kode_bps": "1309100"
+  "parent_kode_bps": "1309100",
+  "parent_kode_dagri": "13.08.12"
 }

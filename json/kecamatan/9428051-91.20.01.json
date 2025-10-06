@@ -3,5 +3,6 @@
   "nama_bps": "IWASO",
   "kode_dagri": "91.20.01",
   "nama_dagri": "MAMBERAMO TENGAH",
-  "parent_kode_bps": "9428"
+  "parent_kode_bps": "9428",
+  "parent_kode_dagri": "91.20"
 }

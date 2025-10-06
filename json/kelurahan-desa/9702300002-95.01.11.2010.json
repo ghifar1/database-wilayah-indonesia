@@ -3,5 +3,6 @@
   "nama_bps": "BITTI",
   "kode_dagri": "95.01.11.2010",
   "nama_dagri": "BITTI",
-  "parent_kode_bps": "9702300"
+  "parent_kode_bps": "9702300",
+  "parent_kode_dagri": "95.01.11"
 }

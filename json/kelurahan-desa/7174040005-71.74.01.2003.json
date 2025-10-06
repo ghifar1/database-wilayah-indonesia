@@ -3,5 +3,6 @@
   "nama_bps": "PONTODON",
   "kode_dagri": "71.74.01.2003",
   "nama_dagri": "PONTODON",
-  "parent_kode_bps": "7174040"
+  "parent_kode_bps": "7174040",
+  "parent_kode_dagri": "71.74.01"
 }

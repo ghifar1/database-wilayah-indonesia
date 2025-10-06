@@ -3,5 +3,6 @@
   "nama_bps": "KETA",
   "kode_dagri": "93.03.14.2003",
   "nama_dagri": "KETA",
-  "parent_kode_bps": "9503120"
+  "parent_kode_bps": "9503120",
+  "parent_kode_dagri": "93.03.14"
 }

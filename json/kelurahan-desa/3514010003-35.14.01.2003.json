@@ -3,5 +3,6 @@
   "nama_bps": "LEBAK REJO",
   "kode_dagri": "35.14.01.2003",
   "nama_dagri": "LEBAKREJO",
-  "parent_kode_bps": "3514010"
+  "parent_kode_bps": "3514010",
+  "parent_kode_dagri": "35.14.01"
 }

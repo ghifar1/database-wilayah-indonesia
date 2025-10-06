@@ -3,5 +3,6 @@
   "nama_bps": "SERIBAUW",
   "kode_dagri": "96.02.01.2008",
   "nama_dagri": "SIRIBAU",
-  "parent_kode_bps": "9203100"
+  "parent_kode_bps": "9203100",
+  "parent_kode_dagri": "96.02.01"
 }

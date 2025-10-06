@@ -3,5 +3,6 @@
   "nama_bps": "SEMBORO",
   "kode_dagri": "35.09.07.2004",
   "nama_dagri": "SEMBORO",
-  "parent_kode_bps": "3509150"
+  "parent_kode_bps": "3509150",
+  "parent_kode_dagri": "35.09.07"
 }

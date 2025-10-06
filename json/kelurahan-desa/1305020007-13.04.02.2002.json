@@ -3,5 +3,6 @@
   "nama_bps": "SABU",
   "kode_dagri": "13.04.02.2002",
   "nama_dagri": "SABU",
-  "parent_kode_bps": "1305020"
+  "parent_kode_bps": "1305020",
+  "parent_kode_dagri": "13.04.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KLASMAN",
   "kode_dagri": "96.01.24.2005",
   "nama_dagri": "KLASMAN",
-  "parent_kode_bps": "9202150"
+  "parent_kode_bps": "9202150",
+  "parent_kode_dagri": "96.01.24"
 }

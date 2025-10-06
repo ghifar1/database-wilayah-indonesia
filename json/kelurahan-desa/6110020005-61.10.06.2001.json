@@ -3,5 +3,6 @@
   "nama_bps": "BATU BEGIGI",
   "kode_dagri": "61.10.06.2001",
   "nama_dagri": "BATU BEGIGI",
-  "parent_kode_bps": "6110020"
+  "parent_kode_bps": "6110020",
+  "parent_kode_dagri": "61.10.06"
 }

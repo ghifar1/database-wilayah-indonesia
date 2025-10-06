@@ -3,5 +3,6 @@
   "nama_bps": "BU EPE",
   "kode_dagri": "93.01.17.2005",
   "nama_dagri": "BU EPE",
-  "parent_kode_bps": "9501100"
+  "parent_kode_bps": "9501100",
+  "parent_kode_dagri": "93.01.17"
 }

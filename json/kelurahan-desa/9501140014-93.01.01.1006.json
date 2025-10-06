@@ -3,5 +3,6 @@
   "nama_bps": "KELAPA LIMA",
   "kode_dagri": "93.01.01.1006",
   "nama_dagri": "KELAPA LIMA",
-  "parent_kode_bps": "9501140"
+  "parent_kode_bps": "9501140",
+  "parent_kode_dagri": "93.01.01"
 }

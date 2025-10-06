@@ -3,5 +3,6 @@
   "nama_bps": "BANDAR RAYA",
   "kode_dagri": "14.71.11.1005",
   "nama_dagri": "BANDARRAYA",
-  "parent_kode_bps": "1471011"
+  "parent_kode_bps": "1471011",
+  "parent_kode_dagri": "14.71.11"
 }

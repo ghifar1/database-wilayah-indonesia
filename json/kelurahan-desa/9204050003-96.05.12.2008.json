@@ -3,5 +3,6 @@
   "nama_bps": "AIFAM",
   "kode_dagri": "96.05.12.2008",
   "nama_dagri": "AIFAM",
-  "parent_kode_bps": "9204050"
+  "parent_kode_bps": "9204050",
+  "parent_kode_dagri": "96.05.12"
 }

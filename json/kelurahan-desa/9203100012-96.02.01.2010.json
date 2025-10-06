@@ -3,5 +3,6 @@
   "nama_bps": "TEGIROLO",
   "kode_dagri": "96.02.01.2010",
   "nama_dagri": "TEGIROLO",
-  "parent_kode_bps": "9203100"
+  "parent_kode_bps": "9203100",
+  "parent_kode_dagri": "96.02.01"
 }

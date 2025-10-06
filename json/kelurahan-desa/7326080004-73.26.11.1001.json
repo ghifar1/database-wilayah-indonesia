@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN TALLUNGLIPU MATALLO",
   "kode_dagri": "73.26.11.1001",
   "nama_dagri": "TALLUNGLIPU MATALO",
-  "parent_kode_bps": "7326080"
+  "parent_kode_bps": "7326080",
+  "parent_kode_dagri": "73.26.11"
 }

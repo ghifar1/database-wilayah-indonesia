@@ -3,5 +3,6 @@
   "nama_bps": "SUAM",
   "kode_dagri": "93.01.18.2003",
   "nama_dagri": "SUAM",
-  "parent_kode_bps": "9501030"
+  "parent_kode_bps": "9501030",
+  "parent_kode_dagri": "93.01.18"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LAPOKAINSE",
   "kode_dagri": "74.13.10.2006",
   "nama_dagri": "LAPOKAINSE",
-  "parent_kode_bps": "7413100"
+  "parent_kode_bps": "7413100",
+  "parent_kode_dagri": "74.13.10"
 }

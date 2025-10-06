@@ -3,5 +3,6 @@
   "nama_bps": "BANDAR SONO",
   "kode_dagri": "12.19.12.2006",
   "nama_dagri": "BANDAR SONO",
-  "parent_kode_bps": "1219021"
+  "parent_kode_bps": "1219021",
+  "parent_kode_dagri": "12.19.12"
 }

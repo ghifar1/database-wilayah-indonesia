@@ -3,5 +3,6 @@
   "nama_bps": "KEPI",
   "kode_dagri": "95.01.37.2005",
   "nama_dagri": "KEPI",
-  "parent_kode_bps": "9702100"
+  "parent_kode_bps": "9702100",
+  "parent_kode_dagri": "95.01.37"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LONG METUN",
   "kode_dagri": "65.02.04.2005",
   "nama_dagri": "LONG METUN",
-  "parent_kode_bps": "6501040"
+  "parent_kode_bps": "6501040",
+  "parent_kode_dagri": "65.02.04"
 }

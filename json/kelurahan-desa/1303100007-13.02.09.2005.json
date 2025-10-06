@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT BAIS",
   "kode_dagri": "13.02.09.2005",
   "nama_dagri": "BUKIK BAIS",
-  "parent_kode_bps": "1303100"
+  "parent_kode_bps": "1303100",
+  "parent_kode_dagri": "13.02.09"
 }

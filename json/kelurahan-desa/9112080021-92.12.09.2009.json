@@ -3,5 +3,6 @@
   "nama_bps": "ADUER",
   "kode_dagri": "92.12.09.2009",
   "nama_dagri": "ADUER",
-  "parent_kode_bps": "9112080"
+  "parent_kode_bps": "9112080",
+  "parent_kode_dagri": "92.12.09"
 }

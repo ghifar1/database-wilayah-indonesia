@@ -3,5 +3,6 @@
   "nama_bps": "SERALEMA",
   "kode_dagri": "95.05.01.2003",
   "nama_dagri": "SERALEMA",
-  "parent_kode_bps": "9705010"
+  "parent_kode_bps": "9705010",
+  "parent_kode_dagri": "95.05.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PELANGIRAN",
   "kode_dagri": "14.04.15.1002",
   "nama_dagri": "PELANGIRAN",
-  "parent_kode_bps": "1403121"
+  "parent_kode_bps": "1403121",
+  "parent_kode_dagri": "14.04.15"
 }

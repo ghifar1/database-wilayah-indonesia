@@ -3,5 +3,6 @@
   "nama_bps": "KERANGGAN",
   "kode_dagri": "19.05.01.1008",
   "nama_dagri": "KERANGGAN",
-  "parent_kode_bps": "1903030"
+  "parent_kode_bps": "1903030",
+  "parent_kode_dagri": "19.05.01"
 }

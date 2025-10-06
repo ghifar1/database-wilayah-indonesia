@@ -3,5 +3,6 @@
   "nama_bps": "WAAF",
   "kode_dagri": "91.10.02.2011",
   "nama_dagri": "WAAF",
-  "parent_kode_bps": "9419040"
+  "parent_kode_bps": "9419040",
+  "parent_kode_dagri": "91.10.02"
 }

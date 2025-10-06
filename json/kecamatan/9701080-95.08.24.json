@@ -3,5 +3,6 @@
   "nama_bps": "EMBETPEM",
   "kode_dagri": "95.08.24",
   "nama_dagri": "EMBETPEN",
-  "parent_kode_bps": "9701"
+  "parent_kode_bps": "9701",
+  "parent_kode_dagri": "95.08"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SAYOLO",
   "kode_dagri": "96.02.01.2015",
   "nama_dagri": "SEYOLO",
-  "parent_kode_bps": "9203100"
+  "parent_kode_bps": "9203100",
+  "parent_kode_dagri": "96.02.01"
 }

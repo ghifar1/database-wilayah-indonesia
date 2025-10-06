@@ -3,5 +3,6 @@
   "nama_bps": "BAJAK III",
   "kode_dagri": "17.09.08.2002",
   "nama_dagri": "BAJAK TIGA",
-  "parent_kode_bps": "1709041"
+  "parent_kode_bps": "1709041",
+  "parent_kode_dagri": "17.09.08"
 }

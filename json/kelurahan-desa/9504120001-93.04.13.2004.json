@@ -3,5 +3,6 @@
   "nama_bps": "SESAKAM",
   "kode_dagri": "93.04.13.2004",
   "nama_dagri": "SESAKAM",
-  "parent_kode_bps": "9504120"
+  "parent_kode_bps": "9504120",
+  "parent_kode_dagri": "93.04.13"
 }

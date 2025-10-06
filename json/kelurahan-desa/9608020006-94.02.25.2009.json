@@ -3,5 +3,6 @@
   "nama_bps": "DEBITE",
   "kode_dagri": "94.02.25.2009",
   "nama_dagri": "DEBITE",
-  "parent_kode_bps": "9608020"
+  "parent_kode_bps": "9608020",
+  "parent_kode_dagri": "94.02.25"
 }

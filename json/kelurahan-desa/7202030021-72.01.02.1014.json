@@ -3,5 +3,6 @@
   "nama_bps": "BUNTA SATU",
   "kode_dagri": "72.01.02.1014",
   "nama_dagri": "BUNTA I",
-  "parent_kode_bps": "7202030"
+  "parent_kode_bps": "7202030",
+  "parent_kode_dagri": "72.01.02"
 }

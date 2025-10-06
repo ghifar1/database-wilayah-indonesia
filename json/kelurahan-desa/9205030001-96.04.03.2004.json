@@ -3,5 +3,6 @@
   "nama_bps": "METBELUM",
   "kode_dagri": "96.04.03.2004",
   "nama_dagri": "METBELUM",
-  "parent_kode_bps": "9205030"
+  "parent_kode_bps": "9205030",
+  "parent_kode_dagri": "96.04.03"
 }

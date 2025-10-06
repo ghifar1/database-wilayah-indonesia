@@ -3,5 +3,6 @@
   "nama_bps": "JAMBU",
   "kode_dagri": "62.05.07.1002",
   "nama_dagri": "JAMBU",
-  "parent_kode_bps": "6205051"
+  "parent_kode_bps": "6205051",
+  "parent_kode_dagri": "62.05.07"
 }

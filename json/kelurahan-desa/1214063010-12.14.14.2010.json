@@ -3,5 +3,6 @@
   "nama_bps": "ORLIN",
   "kode_dagri": "12.14.14.2010",
   "nama_dagri": "ORLIN",
-  "parent_kode_bps": "1214063"
+  "parent_kode_bps": "1214063",
+  "parent_kode_dagri": "12.14.14"
 }

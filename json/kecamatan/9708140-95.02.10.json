@@ -3,5 +3,6 @@
   "nama_bps": "BIME",
   "kode_dagri": "95.02.10",
   "nama_dagri": "BIME",
-  "parent_kode_bps": "9708"
+  "parent_kode_bps": "9708",
+  "parent_kode_dagri": "95.02"
 }

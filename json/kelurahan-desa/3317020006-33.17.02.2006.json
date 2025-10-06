@@ -3,5 +3,6 @@
   "nama_bps": "CABEAN",
   "kode_dagri": "33.17.02.2006",
   "nama_dagri": "CABEAN KIDUL",
-  "parent_kode_bps": "3317020"
+  "parent_kode_bps": "3317020",
+  "parent_kode_dagri": "33.17.02"
 }

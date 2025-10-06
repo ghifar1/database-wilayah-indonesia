@@ -3,5 +3,6 @@
   "nama_bps": "BORA BORA",
   "kode_dagri": "91.10.02.2001",
   "nama_dagri": "BOTA-BORA",
-  "parent_kode_bps": "9419040"
+  "parent_kode_bps": "9419040",
+  "parent_kode_dagri": "91.10.02"
 }

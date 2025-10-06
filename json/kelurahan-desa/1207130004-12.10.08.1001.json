@@ -3,5 +3,6 @@
   "nama_bps": "NEGERI LAMA",
   "kode_dagri": "12.10.08.1001",
   "nama_dagri": "NEGERI LAMA",
-  "parent_kode_bps": "1207130"
+  "parent_kode_bps": "1207130",
+  "parent_kode_dagri": "12.10.08"
 }

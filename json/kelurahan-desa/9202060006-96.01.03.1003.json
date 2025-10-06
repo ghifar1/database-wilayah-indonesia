@@ -3,5 +3,6 @@
   "nama_bps": "MAJARAN",
   "kode_dagri": "96.01.03.1003",
   "nama_dagri": "MAJARAN",
-  "parent_kode_bps": "9202060"
+  "parent_kode_bps": "9202060",
+  "parent_kode_dagri": "96.01.03"
 }

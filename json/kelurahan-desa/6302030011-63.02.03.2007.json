@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI BAHIM",
   "kode_dagri": "63.02.03.2007",
   "nama_dagri": "SUNGAI BAHIM",
-  "parent_kode_bps": "6302030"
+  "parent_kode_bps": "6302030",
+  "parent_kode_dagri": "63.02.03"
 }

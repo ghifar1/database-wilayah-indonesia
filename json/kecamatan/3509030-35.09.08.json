@@ -3,5 +3,6 @@
   "nama_bps": "PUGER",
   "kode_dagri": "35.09.08",
   "nama_dagri": "PUGER",
-  "parent_kode_bps": "3509"
+  "parent_kode_bps": "3509",
+  "parent_kode_dagri": "35.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "STAGEN",
   "kode_dagri": "63.02.06.2011",
   "nama_dagri": "STAGEN",
-  "parent_kode_bps": "6302060"
+  "parent_kode_bps": "6302060",
+  "parent_kode_dagri": "63.02.06"
 }

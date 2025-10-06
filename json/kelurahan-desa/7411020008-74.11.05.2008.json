@@ -3,5 +3,6 @@
   "nama_bps": "ATOLANU",
   "kode_dagri": "74.11.05.2008",
   "nama_dagri": "ATOLANU",
-  "parent_kode_bps": "7411020"
+  "parent_kode_bps": "7411020",
+  "parent_kode_dagri": "74.11.05"
 }

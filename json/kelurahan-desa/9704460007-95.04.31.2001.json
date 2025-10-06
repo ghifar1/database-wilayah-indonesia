@@ -3,5 +3,6 @@
   "nama_bps": "SILO",
   "kode_dagri": "95.04.31.2001",
   "nama_dagri": "SILO",
-  "parent_kode_bps": "9704460"
+  "parent_kode_bps": "9704460",
+  "parent_kode_dagri": "95.04.31"
 }

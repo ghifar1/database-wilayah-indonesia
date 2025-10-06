@@ -3,5 +3,6 @@
   "nama_bps": "SILAGO",
   "kode_dagri": "13.10.05.2001",
   "nama_dagri": "SILAGO",
-  "parent_kode_bps": "1311041"
+  "parent_kode_bps": "1311041",
+  "parent_kode_dagri": "13.10.05"
 }

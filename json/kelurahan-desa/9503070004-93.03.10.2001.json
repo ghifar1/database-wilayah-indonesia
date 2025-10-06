@@ -3,5 +3,6 @@
   "nama_bps": "SIEN",
   "kode_dagri": "93.03.10.2001",
   "nama_dagri": "SIEN",
-  "parent_kode_bps": "9503070"
+  "parent_kode_bps": "9503070",
+  "parent_kode_dagri": "93.03.10"
 }

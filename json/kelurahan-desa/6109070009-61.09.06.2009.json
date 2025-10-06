@@ -3,5 +3,6 @@
   "nama_bps": "PAKET MULAU",
   "kode_dagri": "61.09.06.2009",
   "nama_dagri": "PAKIT MULAU",
-  "parent_kode_bps": "6109070"
+  "parent_kode_bps": "6109070",
+  "parent_kode_dagri": "61.09.06"
 }

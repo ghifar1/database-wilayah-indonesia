@@ -3,5 +3,6 @@
   "nama_bps": "AMPERA",
   "kode_dagri": "95.04.01.2004",
   "nama_dagri": "AMPERA",
-  "parent_kode_bps": "9704080"
+  "parent_kode_bps": "9704080",
+  "parent_kode_dagri": "95.04.01"
 }

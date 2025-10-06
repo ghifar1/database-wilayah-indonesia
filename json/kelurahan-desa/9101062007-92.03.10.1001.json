@@ -3,5 +3,6 @@
   "nama_bps": "WAGOM",
   "kode_dagri": "92.03.10.1001",
   "nama_dagri": "WAGOM",
-  "parent_kode_bps": "9101062"
+  "parent_kode_bps": "9101062",
+  "parent_kode_dagri": "92.03.10"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG",
   "kode_dagri": "33.16.04.2010",
   "nama_dagri": "TANJUNG",
-  "parent_kode_bps": "3316040"
+  "parent_kode_bps": "3316040",
+  "parent_kode_dagri": "33.16.04"
 }

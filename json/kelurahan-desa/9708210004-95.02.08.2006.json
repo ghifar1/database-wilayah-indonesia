@@ -3,5 +3,6 @@
   "nama_bps": "PIPAL",
   "kode_dagri": "95.02.08.2006",
   "nama_dagri": "PIPAL",
-  "parent_kode_bps": "9708210"
+  "parent_kode_bps": "9708210",
+  "parent_kode_dagri": "95.02.08"
 }

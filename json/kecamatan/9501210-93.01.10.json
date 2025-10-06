@@ -3,5 +3,6 @@
   "nama_bps": "ELIGOBEL",
   "kode_dagri": "93.01.10",
   "nama_dagri": "ELIKOBAL",
-  "parent_kode_bps": "9501"
+  "parent_kode_bps": "9501",
+  "parent_kode_dagri": "93.01"
 }

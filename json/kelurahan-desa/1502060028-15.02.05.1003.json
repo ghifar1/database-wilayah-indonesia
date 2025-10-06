@@ -3,5 +3,6 @@
   "nama_bps": "PASAR RANTAU PANJANG",
   "kode_dagri": "15.02.05.1003",
   "nama_dagri": "PASAR RANTAU PANJANG",
-  "parent_kode_bps": "1502060"
+  "parent_kode_bps": "1502060",
+  "parent_kode_dagri": "15.02.05"
 }

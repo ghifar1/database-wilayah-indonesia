@@ -3,5 +3,6 @@
   "nama_bps": "RATEM",
   "kode_dagri": "82.01.05.2028",
   "nama_dagri": "RATEM",
-  "parent_kode_bps": "8201091"
+  "parent_kode_bps": "8201091",
+  "parent_kode_dagri": "82.01.05"
 }

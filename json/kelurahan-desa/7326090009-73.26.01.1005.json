@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN PASELE",
   "kode_dagri": "73.26.01.1005",
   "nama_dagri": "PASALE",
-  "parent_kode_bps": "7326090"
+  "parent_kode_bps": "7326090",
+  "parent_kode_dagri": "73.26.01"
 }

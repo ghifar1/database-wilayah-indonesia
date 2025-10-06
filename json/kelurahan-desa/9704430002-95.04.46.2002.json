@@ -3,5 +3,6 @@
   "nama_bps": "TALEME",
   "kode_dagri": "95.04.46.2002",
   "nama_dagri": "TELEME",
-  "parent_kode_bps": "9704430"
+  "parent_kode_bps": "9704430",
+  "parent_kode_dagri": "95.04.46"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "TIGASERANGKAI",
   "kode_dagri": "12.25.01.2006",
   "nama_dagri": "TIGASERANGKAI",
-  "parent_kode_bps": "1225020"
+  "parent_kode_bps": "1225020",
+  "parent_kode_dagri": "12.25.01"
 }

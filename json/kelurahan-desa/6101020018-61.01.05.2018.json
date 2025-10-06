@@ -3,5 +3,6 @@
   "nama_bps": "LONAM",
   "kode_dagri": "61.01.05.2018",
   "nama_dagri": "LONAM",
-  "parent_kode_bps": "6101020"
+  "parent_kode_bps": "6101020",
+  "parent_kode_dagri": "61.01.05"
 }

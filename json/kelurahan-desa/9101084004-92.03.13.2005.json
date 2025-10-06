@@ -3,5 +3,6 @@
   "nama_bps": "PORIR",
   "kode_dagri": "92.03.13.2005",
   "nama_dagri": "FURIR",
-  "parent_kode_bps": "9101084"
+  "parent_kode_bps": "9101084",
+  "parent_kode_dagri": "92.03.13"
 }

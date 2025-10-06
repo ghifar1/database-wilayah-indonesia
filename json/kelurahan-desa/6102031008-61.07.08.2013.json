@@ -3,5 +3,6 @@
   "nama_bps": "SIAGA",
   "kode_dagri": "61.07.08.2013",
   "nama_dagri": "SIAGA",
-  "parent_kode_bps": "6102031"
+  "parent_kode_bps": "6102031",
+  "parent_kode_dagri": "61.07.08"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT MERDEKA",
   "kode_dagri": "64.02.20.1001",
   "nama_dagri": "BUKIT MERDEKA",
-  "parent_kode_bps": "6403011"
+  "parent_kode_bps": "6403011",
+  "parent_kode_dagri": "64.02.20"
 }

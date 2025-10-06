@@ -3,5 +3,6 @@
   "nama_bps": "KLASEGUN",
   "kode_dagri": "96.01.08.2004",
   "nama_dagri": "KLASEGUN",
-  "parent_kode_bps": "9202040"
+  "parent_kode_bps": "9202040",
+  "parent_kode_dagri": "96.01.08"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MIBI",
   "kode_dagri": "96.01.01.2015",
   "nama_dagri": "MIBI",
-  "parent_kode_bps": "9202110"
+  "parent_kode_bps": "9202110",
+  "parent_kode_dagri": "96.01.01"
 }

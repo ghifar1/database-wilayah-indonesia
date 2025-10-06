@@ -3,5 +3,6 @@
   "nama_bps": "MAWAN",
   "kode_dagri": "93.02.01.2005",
   "nama_dagri": "MAWAN",
-  "parent_kode_bps": "9502050"
+  "parent_kode_bps": "9502050",
+  "parent_kode_dagri": "93.02.01"
 }

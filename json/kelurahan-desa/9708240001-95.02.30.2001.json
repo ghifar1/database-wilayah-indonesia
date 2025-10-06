@@ -3,5 +3,6 @@
   "nama_bps": "JETFA",
   "kode_dagri": "95.02.30.2001",
   "nama_dagri": "JETFA",
-  "parent_kode_bps": "9708240"
+  "parent_kode_bps": "9708240",
+  "parent_kode_dagri": "95.02.30"
 }

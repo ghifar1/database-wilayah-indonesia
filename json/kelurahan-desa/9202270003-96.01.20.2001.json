@@ -3,5 +3,6 @@
   "nama_bps": "SALUK",
   "kode_dagri": "96.01.20.2001",
   "nama_dagri": "SALUK",
-  "parent_kode_bps": "9202270"
+  "parent_kode_bps": "9202270",
+  "parent_kode_dagri": "96.01.20"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN PANGALA",
   "kode_dagri": "73.26.04.1002",
   "nama_dagri": "PANGALA'",
-  "parent_kode_bps": "7326190"
+  "parent_kode_bps": "7326190",
+  "parent_kode_dagri": "73.26.04"
 }

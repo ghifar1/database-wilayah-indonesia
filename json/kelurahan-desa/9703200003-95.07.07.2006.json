@@ -3,5 +3,6 @@
   "nama_bps": "BINOLANGEN",
   "kode_dagri": "95.07.07.2006",
   "nama_dagri": "BINOLANGGEN",
-  "parent_kode_bps": "9703200"
+  "parent_kode_bps": "9703200",
+  "parent_kode_dagri": "95.07.07"
 }

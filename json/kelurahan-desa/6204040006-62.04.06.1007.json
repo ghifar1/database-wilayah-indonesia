@@ -3,5 +3,6 @@
   "nama_bps": "HILIR SPER",
   "kode_dagri": "62.04.06.1007",
   "nama_dagri": "HILIR SEPER",
-  "parent_kode_bps": "6204040"
+  "parent_kode_bps": "6204040",
+  "parent_kode_dagri": "62.04.06"
 }

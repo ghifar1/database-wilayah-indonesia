@@ -3,5 +3,6 @@
   "nama_bps": "SENGKUANG",
   "kode_dagri": "61.05.01.1019",
   "nama_dagri": "SENGKUANG",
-  "parent_kode_bps": "6107140"
+  "parent_kode_bps": "6107140",
+  "parent_kode_dagri": "61.05.01"
 }

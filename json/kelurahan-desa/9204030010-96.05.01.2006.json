@@ -3,5 +3,6 @@
   "nama_bps": "BORI",
   "kode_dagri": "96.05.01.2006",
   "nama_dagri": "BORI",
-  "parent_kode_bps": "9204030"
+  "parent_kode_bps": "9204030",
+  "parent_kode_dagri": "96.05.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SETIA MARGA",
   "kode_dagri": "16.13.05.2008",
   "nama_dagri": "SETIA MARGA",
-  "parent_kode_bps": "1613050"
+  "parent_kode_bps": "1613050",
+  "parent_kode_dagri": "16.13.05"
 }

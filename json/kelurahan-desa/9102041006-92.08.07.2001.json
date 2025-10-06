@@ -3,5 +3,6 @@
   "nama_bps": "URE",
   "kode_dagri": "92.08.07.2001",
   "nama_dagri": "URE",
-  "parent_kode_bps": "9102041"
+  "parent_kode_bps": "9102041",
+  "parent_kode_dagri": "92.08.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAMPUNG JAWA",
   "kode_dagri": "17.07.01.1004",
   "nama_dagri": "KAMPUNG JAWA",
-  "parent_kode_bps": "1707050"
+  "parent_kode_bps": "1707050",
+  "parent_kode_dagri": "17.07.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SATIONG",
   "kode_dagri": "62.02.03.2007",
   "nama_dagri": "SATIUNG",
-  "parent_kode_bps": "6202210"
+  "parent_kode_bps": "6202210",
+  "parent_kode_dagri": "62.02.03"
 }

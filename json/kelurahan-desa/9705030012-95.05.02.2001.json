@@ -3,5 +3,6 @@
   "nama_bps": "KELILA",
   "kode_dagri": "95.05.02.2001",
   "nama_dagri": "KELILA",
-  "parent_kode_bps": "9705030"
+  "parent_kode_bps": "9705030",
+  "parent_kode_dagri": "95.05.02"
 }

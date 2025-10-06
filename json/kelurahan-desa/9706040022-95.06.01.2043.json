@@ -3,5 +3,6 @@
   "nama_bps": "EMON",
   "kode_dagri": "95.06.01.2043",
   "nama_dagri": "EMON",
-  "parent_kode_bps": "9706040"
+  "parent_kode_bps": "9706040",
+  "parent_kode_dagri": "95.06.01"
 }

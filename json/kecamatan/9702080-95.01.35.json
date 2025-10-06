@@ -3,5 +3,6 @@
   "nama_bps": "WALESI",
   "kode_dagri": "95.01.35",
   "nama_dagri": "WELESI",
-  "parent_kode_bps": "9702"
+  "parent_kode_bps": "9702",
+  "parent_kode_dagri": "95.01"
 }

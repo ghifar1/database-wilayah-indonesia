@@ -3,5 +3,6 @@
   "nama_bps": "SIRUMA HOMBAR",
   "kode_dagri": "12.17.03.1012",
   "nama_dagri": "SIRUMAHOMBAR",
-  "parent_kode_bps": "1217050"
+  "parent_kode_bps": "1217050",
+  "parent_kode_dagri": "12.17.03"
 }

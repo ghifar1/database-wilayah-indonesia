@@ -3,5 +3,6 @@
   "nama_bps": "PENU",
   "kode_dagri": "82.08.05.2001",
   "nama_dagri": "PENU",
-  "parent_kode_bps": "8208050"
+  "parent_kode_bps": "8208050",
+  "parent_kode_dagri": "82.08.05"
 }

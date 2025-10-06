@@ -3,5 +3,6 @@
   "nama_bps": "PANYALAIAN",
   "kode_dagri": "13.04.01.2005",
   "nama_dagri": "PANYALAIAN",
-  "parent_kode_bps": "1305010"
+  "parent_kode_bps": "1305010",
+  "parent_kode_dagri": "13.04.01"
 }

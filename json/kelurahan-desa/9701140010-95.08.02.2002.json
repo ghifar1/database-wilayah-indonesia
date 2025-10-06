@@ -3,5 +3,6 @@
   "nama_bps": "DUMA",
   "kode_dagri": "95.08.02.2002",
   "nama_dagri": "DUMA",
-  "parent_kode_bps": "9701140"
+  "parent_kode_bps": "9701140",
+  "parent_kode_dagri": "95.08.02"
 }

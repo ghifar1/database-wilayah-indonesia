@@ -3,5 +3,6 @@
   "nama_bps": "TANGSI ATAS",
   "kode_dagri": "12.13.14.2035",
   "nama_dagri": "TANGSI ATAS",
-  "parent_kode_bps": "1202021"
+  "parent_kode_bps": "1202021",
+  "parent_kode_dagri": "12.13.14"
 }

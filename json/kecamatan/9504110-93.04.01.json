@@ -3,5 +3,6 @@
   "nama_bps": "AGATS",
   "kode_dagri": "93.04.01",
   "nama_dagri": "AGATS",
-  "parent_kode_bps": "9504"
+  "parent_kode_bps": "9504",
+  "parent_kode_dagri": "93.04"
 }

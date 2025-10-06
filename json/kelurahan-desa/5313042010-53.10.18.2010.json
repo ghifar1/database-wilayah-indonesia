@@ -3,5 +3,6 @@
   "nama_bps": "RUANG",
   "kode_dagri": "53.10.18.2010",
   "nama_dagri": "RUANG",
-  "parent_kode_bps": "5313042"
+  "parent_kode_bps": "5313042",
+  "parent_kode_dagri": "53.10.18"
 }

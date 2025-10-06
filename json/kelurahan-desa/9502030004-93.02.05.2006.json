@@ -3,5 +3,6 @@
   "nama_bps": "MIRI",
   "kode_dagri": "93.02.05.2006",
   "nama_dagri": "MIRI",
-  "parent_kode_bps": "9502030"
+  "parent_kode_bps": "9502030",
+  "parent_kode_dagri": "93.02.05"
 }

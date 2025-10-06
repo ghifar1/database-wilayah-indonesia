@@ -3,5 +3,6 @@
   "nama_bps": "BUMI RAYA",
   "kode_dagri": "94.01.12.2001",
   "nama_dagri": "BUMI RAYA",
-  "parent_kode_bps": "9604100"
+  "parent_kode_bps": "9604100",
+  "parent_kode_dagri": "94.01.12"
 }

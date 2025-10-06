@@ -3,5 +3,6 @@
   "nama_bps": "MALASAN",
   "kode_dagri": "62.12.01.2002",
   "nama_dagri": "MALASAN",
-  "parent_kode_bps": "6213020"
+  "parent_kode_bps": "6213020",
+  "parent_kode_dagri": "62.12.01"
 }

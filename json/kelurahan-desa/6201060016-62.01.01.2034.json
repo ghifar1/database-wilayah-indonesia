@@ -3,5 +3,6 @@
   "nama_bps": "SABUAI TIMUR",
   "kode_dagri": "62.01.01.2034",
   "nama_dagri": "SABUAI TIMUR",
-  "parent_kode_bps": "6201060"
+  "parent_kode_bps": "6201060",
+  "parent_kode_dagri": "62.01.01"
 }

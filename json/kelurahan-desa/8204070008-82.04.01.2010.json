@@ -3,5 +3,6 @@
   "nama_bps": "SAMSUMA",
   "kode_dagri": "82.04.01.2010",
   "nama_dagri": "SUMA",
-  "parent_kode_bps": "8204070"
+  "parent_kode_bps": "8204070",
+  "parent_kode_dagri": "82.04.01"
 }

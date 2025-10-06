@@ -3,5 +3,6 @@
   "nama_bps": "TAMAN AYU",
   "kode_dagri": "52.01.01.2013",
   "nama_dagri": "TAMAN AYU",
-  "parent_kode_bps": "5201020"
+  "parent_kode_bps": "5201020",
+  "parent_kode_dagri": "52.01.01"
 }

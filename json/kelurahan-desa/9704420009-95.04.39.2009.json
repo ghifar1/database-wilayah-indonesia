@@ -3,5 +3,6 @@
   "nama_bps": "RIPA",
   "kode_dagri": "95.04.39.2009",
   "nama_dagri": "RIPA",
-  "parent_kode_bps": "9704420"
+  "parent_kode_bps": "9704420",
+  "parent_kode_dagri": "95.04.39"
 }

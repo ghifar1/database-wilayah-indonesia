@@ -3,5 +3,6 @@
   "nama_bps": "FATASE",
   "kode_dagri": "96.05.05.2003",
   "nama_dagri": "FATASE",
-  "parent_kode_bps": "9204090"
+  "parent_kode_bps": "9204090",
+  "parent_kode_dagri": "96.05.05"
 }

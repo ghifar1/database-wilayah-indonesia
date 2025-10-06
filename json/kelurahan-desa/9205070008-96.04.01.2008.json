@@ -3,5 +3,6 @@
   "nama_bps": "IWIN",
   "kode_dagri": "96.04.01.2008",
   "nama_dagri": "IWIN",
-  "parent_kode_bps": "9205070"
+  "parent_kode_bps": "9205070",
+  "parent_kode_dagri": "96.04.01"
 }

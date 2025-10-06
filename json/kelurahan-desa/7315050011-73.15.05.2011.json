@@ -3,5 +3,6 @@
   "nama_bps": "MASOLO",
   "kode_dagri": "73.15.05.2011",
   "nama_dagri": "MASOLO",
-  "parent_kode_bps": "7315050"
+  "parent_kode_bps": "7315050",
+  "parent_kode_dagri": "73.15.05"
 }

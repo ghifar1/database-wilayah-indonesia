@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI KERAWANG",
   "kode_dagri": "61.12.05.2012",
   "nama_dagri": "SUNGAI KERAWANG",
-  "parent_kode_bps": "6112010"
+  "parent_kode_bps": "6112010",
+  "parent_kode_dagri": "61.12.05"
 }

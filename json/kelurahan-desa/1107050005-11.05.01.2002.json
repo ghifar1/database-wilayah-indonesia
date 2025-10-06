@@ -3,5 +3,6 @@
   "nama_bps": "KAMPUNG BELAKANG",
   "kode_dagri": "11.05.01.2002",
   "nama_dagri": "KAMPUNG BELAKANG",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

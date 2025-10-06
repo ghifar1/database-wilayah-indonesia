@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG TIGA",
   "kode_dagri": "64.72.10.1001",
   "nama_dagri": "SIMPANG TIGA",
-  "parent_kode_bps": "6472031"
+  "parent_kode_bps": "6472031",
+  "parent_kode_dagri": "64.72.10"
 }

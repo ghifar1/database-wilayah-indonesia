@@ -3,5 +3,6 @@
   "nama_bps": "PAUH",
   "kode_dagri": "15.03.04.1005",
   "nama_dagri": "PAUH",
-  "parent_kode_bps": "1503050"
+  "parent_kode_bps": "1503050",
+  "parent_kode_dagri": "15.03.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BINA",
   "kode_dagri": "94.05.14.2002",
   "nama_dagri": "BINA",
-  "parent_kode_bps": "9607180"
+  "parent_kode_bps": "9607180",
+  "parent_kode_dagri": "94.05.14"
 }

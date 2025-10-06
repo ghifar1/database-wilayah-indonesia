@@ -3,5 +3,6 @@
   "nama_bps": "EISYO",
   "kode_dagri": "96.05.01.2010",
   "nama_dagri": "AISYO",
-  "parent_kode_bps": "9204030"
+  "parent_kode_bps": "9204030",
+  "parent_kode_dagri": "96.05.01"
 }

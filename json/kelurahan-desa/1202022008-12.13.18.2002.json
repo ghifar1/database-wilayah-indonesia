@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG TALAP",
   "kode_dagri": "12.13.18.2002",
   "nama_dagri": "SIMPANG TALAP",
-  "parent_kode_bps": "1202022"
+  "parent_kode_bps": "1202022",
+  "parent_kode_dagri": "12.13.18"
 }

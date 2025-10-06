@@ -3,5 +3,6 @@
   "nama_bps": "CEMANTAN",
   "kode_dagri": "62.11.02.2001",
   "nama_dagri": "CEMANTAN",
-  "parent_kode_bps": "6210010"
+  "parent_kode_bps": "6210010",
+  "parent_kode_dagri": "62.11.02"
 }

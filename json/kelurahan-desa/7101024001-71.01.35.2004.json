@@ -3,5 +3,6 @@
   "nama_bps": "KOSIO",
   "kode_dagri": "71.01.35.2004",
   "nama_dagri": "KOSIO",
-  "parent_kode_bps": "7101024"
+  "parent_kode_bps": "7101024",
+  "parent_kode_dagri": "71.01.35"
 }

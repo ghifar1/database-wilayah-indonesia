@@ -3,5 +3,6 @@
   "nama_bps": "ISON",
   "kode_dagri": "95.03.05.2005",
   "nama_dagri": "ISON",
-  "parent_kode_bps": "9707280"
+  "parent_kode_bps": "9707280",
+  "parent_kode_dagri": "95.03.05"
 }

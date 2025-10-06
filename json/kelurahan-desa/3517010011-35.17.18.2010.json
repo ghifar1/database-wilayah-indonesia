@@ -3,5 +3,6 @@
   "nama_bps": "KARANG DAGANGAN",
   "kode_dagri": "35.17.18.2010",
   "nama_dagri": "KARANGDAGANGAN",
-  "parent_kode_bps": "3517010"
+  "parent_kode_bps": "3517010",
+  "parent_kode_dagri": "35.17.18"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAIS",
   "kode_dagri": "96.02.08.2001",
   "nama_dagri": "KAIS",
-  "parent_kode_bps": "9203050"
+  "parent_kode_bps": "9203050",
+  "parent_kode_dagri": "96.02.08"
 }

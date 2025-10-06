@@ -3,5 +3,6 @@
   "nama_bps": "BIAK TIMUR",
   "kode_dagri": "91.06.03",
   "nama_dagri": "BIAK TIMUR",
-  "parent_kode_bps": "9409"
+  "parent_kode_bps": "9409",
+  "parent_kode_dagri": "91.06"
 }

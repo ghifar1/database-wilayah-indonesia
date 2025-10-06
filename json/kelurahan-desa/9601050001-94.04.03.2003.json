@@ -3,5 +3,6 @@
   "nama_bps": "POMAKO",
   "kode_dagri": "94.04.03.2003",
   "nama_dagri": "POUMAKO",
-  "parent_kode_bps": "9601050"
+  "parent_kode_bps": "9601050",
+  "parent_kode_dagri": "94.04.03"
 }

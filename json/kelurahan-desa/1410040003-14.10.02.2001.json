@@ -3,5 +3,6 @@
   "nama_bps": "SEGOMENG",
   "kode_dagri": "14.10.02.2001",
   "nama_dagri": "SEGOMENG",
-  "parent_kode_bps": "1410040"
+  "parent_kode_bps": "1410040",
+  "parent_kode_dagri": "14.10.02"
 }

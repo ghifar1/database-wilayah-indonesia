@@ -3,5 +3,6 @@
   "nama_bps": "BONI",
   "kode_dagri": "53.14.11.2006",
   "nama_dagri": "BONI",
-  "parent_kode_bps": "5314021"
+  "parent_kode_bps": "5314021",
+  "parent_kode_dagri": "53.14.11"
 }

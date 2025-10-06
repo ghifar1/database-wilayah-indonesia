@@ -3,5 +3,6 @@
   "nama_bps": "ANGGULPA",
   "kode_dagri": "95.01.12.2006",
   "nama_dagri": "ANGGULPA",
-  "parent_kode_bps": "9702040"
+  "parent_kode_bps": "9702040",
+  "parent_kode_dagri": "95.01.12"
 }

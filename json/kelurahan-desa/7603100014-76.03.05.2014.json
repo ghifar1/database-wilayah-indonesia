@@ -3,5 +3,6 @@
   "nama_bps": "TIMORO",
   "kode_dagri": "76.03.05.2014",
   "nama_dagri": "TIMORO",
-  "parent_kode_bps": "7603100"
+  "parent_kode_bps": "7603100",
+  "parent_kode_dagri": "76.03.05"
 }

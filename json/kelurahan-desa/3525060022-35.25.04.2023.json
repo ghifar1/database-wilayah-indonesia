@@ -3,5 +3,6 @@
   "nama_bps": "PUNDUTTRATE",
   "kode_dagri": "35.25.04.2023",
   "nama_dagri": "PUNDUTTRATE",
-  "parent_kode_bps": "3525060"
+  "parent_kode_bps": "3525060",
+  "parent_kode_dagri": "35.25.04"
 }

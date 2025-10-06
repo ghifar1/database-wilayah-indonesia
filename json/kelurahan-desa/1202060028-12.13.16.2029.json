@@ -3,5 +3,6 @@
   "nama_bps": "SASARAN",
   "kode_dagri": "12.13.16.2029",
   "nama_dagri": "SASARAN",
-  "parent_kode_bps": "1202060"
+  "parent_kode_bps": "1202060",
+  "parent_kode_dagri": "12.13.16"
 }

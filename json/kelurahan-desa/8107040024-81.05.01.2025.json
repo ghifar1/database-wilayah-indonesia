@@ -3,5 +3,6 @@
   "nama_bps": "LEMUMIR",
   "kode_dagri": "81.05.01.2025",
   "nama_dagri": "LIMUMIR",
-  "parent_kode_bps": "8107040"
+  "parent_kode_bps": "8107040",
+  "parent_kode_dagri": "81.05.01"
 }

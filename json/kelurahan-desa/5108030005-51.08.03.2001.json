@@ -3,5 +3,6 @@
   "nama_bps": "SEPANG",
   "kode_dagri": "51.08.03.2001",
   "nama_dagri": "SEPANG",
-  "parent_kode_bps": "5108030"
+  "parent_kode_bps": "5108030",
+  "parent_kode_dagri": "51.08.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SIAK",
   "kode_dagri": "95.04.09.2007",
   "nama_dagri": "SIAK",
-  "parent_kode_bps": "9704220"
+  "parent_kode_bps": "9704220",
+  "parent_kode_dagri": "95.04.09"
 }

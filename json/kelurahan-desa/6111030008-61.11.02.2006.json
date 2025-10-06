@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI MATA-MATA",
   "kode_dagri": "61.11.02.2006",
   "nama_dagri": "SUNGAI MATA - MATA",
-  "parent_kode_bps": "6111030"
+  "parent_kode_bps": "6111030",
+  "parent_kode_dagri": "61.11.02"
 }

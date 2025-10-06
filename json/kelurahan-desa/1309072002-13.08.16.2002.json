@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG",
   "kode_dagri": "13.08.16.2002",
   "nama_dagri": "SIMPANG",
-  "parent_kode_bps": "1309072"
+  "parent_kode_bps": "1309072",
+  "parent_kode_dagri": "13.08.16"
 }

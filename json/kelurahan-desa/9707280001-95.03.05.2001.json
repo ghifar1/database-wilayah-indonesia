@@ -3,5 +3,6 @@
   "nama_bps": "SAMENAGE",
   "kode_dagri": "95.03.05.2001",
   "nama_dagri": "SAMENAGE",
-  "parent_kode_bps": "9707280"
+  "parent_kode_bps": "9707280",
+  "parent_kode_dagri": "95.03.05"
 }

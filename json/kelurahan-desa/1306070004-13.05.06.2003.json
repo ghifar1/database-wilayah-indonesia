@@ -3,5 +3,6 @@
   "nama_bps": "CAMPAGO BARAT",
   "kode_dagri": "13.05.06.2003",
   "nama_dagri": "CAMPAGO BARAT",
-  "parent_kode_bps": "1306070"
+  "parent_kode_bps": "1306070",
+  "parent_kode_dagri": "13.05.06"
 }

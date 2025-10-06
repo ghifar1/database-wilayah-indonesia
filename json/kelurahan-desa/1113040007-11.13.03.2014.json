@@ -3,5 +3,6 @@
   "nama_bps": "RIKIT GAIB",
   "kode_dagri": "11.13.03.2014",
   "nama_dagri": "KOTA RIKIT GAIB",
-  "parent_kode_bps": "1113040"
+  "parent_kode_bps": "1113040",
+  "parent_kode_dagri": "11.13.03"
 }

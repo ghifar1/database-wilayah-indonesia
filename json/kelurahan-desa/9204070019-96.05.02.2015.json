@@ -3,5 +3,6 @@
   "nama_bps": "RAHA",
   "kode_dagri": "96.05.02.2015",
   "nama_dagri": "RAHA",
-  "parent_kode_bps": "9204070"
+  "parent_kode_bps": "9204070",
+  "parent_kode_dagri": "96.05.02"
 }

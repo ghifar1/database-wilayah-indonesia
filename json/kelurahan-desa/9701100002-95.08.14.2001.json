@@ -3,5 +3,6 @@
   "nama_bps": "GEMAM",
   "kode_dagri": "95.08.14.2001",
   "nama_dagri": "GEMAM",
-  "parent_kode_bps": "9701100"
+  "parent_kode_bps": "9701100",
+  "parent_kode_dagri": "95.08.14"
 }

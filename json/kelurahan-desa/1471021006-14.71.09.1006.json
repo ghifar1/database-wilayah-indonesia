@@ -3,5 +3,6 @@
   "nama_bps": "PERHENTIAN MARPOYAN",
   "kode_dagri": "14.71.09.1006",
   "nama_dagri": "PERHENTIANMARPOYAN",
-  "parent_kode_bps": "1471021"
+  "parent_kode_bps": "1471021",
+  "parent_kode_dagri": "14.71.09"
 }

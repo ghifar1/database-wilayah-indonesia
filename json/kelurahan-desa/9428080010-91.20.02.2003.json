@@ -3,5 +3,6 @@
   "nama_bps": "FOAU",
   "kode_dagri": "91.20.02.2003",
   "nama_dagri": "FUAO",
-  "parent_kode_bps": "9428080"
+  "parent_kode_bps": "9428080",
+  "parent_kode_dagri": "91.20.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SIMUK",
   "kode_dagri": "12.14.28",
   "nama_dagri": "SIMUK",
-  "parent_kode_bps": "1214"
+  "parent_kode_bps": "1214",
+  "parent_kode_dagri": "12.14"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PENAHAN",
   "kode_dagri": "62.01.04.2010",
   "nama_dagri": "PANAHAN",
-  "parent_kode_bps": "6201070"
+  "parent_kode_bps": "6201070",
+  "parent_kode_dagri": "62.01.04"
 }

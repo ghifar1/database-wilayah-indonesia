@@ -3,5 +3,6 @@
   "nama_bps": "SUMBERGEDE",
   "kode_dagri": "35.25.06.2002",
   "nama_dagri": "SUMBERGEDE",
-  "parent_kode_bps": "3525010"
+  "parent_kode_bps": "3525010",
+  "parent_kode_dagri": "35.25.06"
 }

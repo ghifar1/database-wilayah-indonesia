@@ -3,5 +3,6 @@
   "nama_bps": "GANJANG",
   "kode_dagri": "61.10.11.2010",
   "nama_dagri": "GANJANG",
-  "parent_kode_bps": "6110021"
+  "parent_kode_bps": "6110021",
+  "parent_kode_dagri": "61.10.11"
 }

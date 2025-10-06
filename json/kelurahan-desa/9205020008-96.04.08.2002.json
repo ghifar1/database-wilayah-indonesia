@@ -3,5 +3,6 @@
   "nama_bps": "SALEWOK",
   "kode_dagri": "96.04.08.2002",
   "nama_dagri": "SELEWOK",
-  "parent_kode_bps": "9205020"
+  "parent_kode_bps": "9205020",
+  "parent_kode_dagri": "96.04.08"
 }

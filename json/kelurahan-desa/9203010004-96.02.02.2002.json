@@ -3,5 +3,6 @@
   "nama_bps": "SERKOS",
   "kode_dagri": "96.02.02.2002",
   "nama_dagri": "SERKOS",
-  "parent_kode_bps": "9203010"
+  "parent_kode_bps": "9203010",
+  "parent_kode_dagri": "96.02.02"
 }

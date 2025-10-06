@@ -3,5 +3,6 @@
   "nama_bps": "MEREMBU",
   "kode_dagri": "52.01.08.2002",
   "nama_dagri": "MEREMBU",
-  "parent_kode_bps": "5201030"
+  "parent_kode_bps": "5201030",
+  "parent_kode_dagri": "52.01.08"
 }

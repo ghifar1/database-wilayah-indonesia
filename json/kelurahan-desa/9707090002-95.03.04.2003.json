@@ -3,5 +3,6 @@
   "nama_bps": "EKSA",
   "kode_dagri": "95.03.04.2003",
   "nama_dagri": "EKSA",
-  "parent_kode_bps": "9707090"
+  "parent_kode_bps": "9707090",
+  "parent_kode_dagri": "95.03.04"
 }

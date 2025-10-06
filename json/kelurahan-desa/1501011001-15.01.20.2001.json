@@ -3,5 +3,6 @@
   "nama_bps": "PASAR KERMAN",
   "kode_dagri": "15.01.20.2001",
   "nama_dagri": "PASAR KERMAN",
-  "parent_kode_bps": "1501011"
+  "parent_kode_bps": "1501011",
+  "parent_kode_dagri": "15.01.20"
 }

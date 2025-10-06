@@ -3,5 +3,6 @@
   "nama_bps": "PAKANTAN",
   "kode_dagri": "12.13.21",
   "nama_dagri": "PAKANTAN",
-  "parent_kode_bps": "1202"
+  "parent_kode_bps": "1202",
+  "parent_kode_dagri": "12.13"
 }

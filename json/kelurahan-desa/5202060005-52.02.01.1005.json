@@ -3,5 +3,6 @@
   "nama_bps": "PRAPEN",
   "kode_dagri": "52.02.01.1005",
   "nama_dagri": "PERAPEN",
-  "parent_kode_bps": "5202060"
+  "parent_kode_bps": "5202060",
+  "parent_kode_dagri": "52.02.01"
 }

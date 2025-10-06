@@ -3,5 +3,6 @@
   "nama_bps": "WAMBAR",
   "kode_dagri": "92.03.12.2002",
   "nama_dagri": "WAMBAR",
-  "parent_kode_bps": "9101052"
+  "parent_kode_bps": "9101052",
+  "parent_kode_dagri": "92.03.12"
 }

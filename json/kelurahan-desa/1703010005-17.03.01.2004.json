@@ -3,5 +3,6 @@
   "nama_bps": "KAANA",
   "kode_dagri": "17.03.01.2004",
   "nama_dagri": "KAANA",
-  "parent_kode_bps": "1703010"
+  "parent_kode_bps": "1703010",
+  "parent_kode_dagri": "17.03.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SAPALEK",
   "kode_dagri": "95.01.13.2007",
   "nama_dagri": "SAPALEK",
-  "parent_kode_bps": "9702050"
+  "parent_kode_bps": "9702050",
+  "parent_kode_dagri": "95.01.13"
 }

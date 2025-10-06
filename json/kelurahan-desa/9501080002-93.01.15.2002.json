@@ -3,5 +3,6 @@
   "nama_bps": "DOKIB",
   "kode_dagri": "93.01.15.2002",
   "nama_dagri": "DOKIB",
-  "parent_kode_bps": "9501080"
+  "parent_kode_bps": "9501080",
+  "parent_kode_dagri": "93.01.15"
 }

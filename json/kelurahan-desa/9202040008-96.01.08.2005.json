@@ -3,5 +3,6 @@
   "nama_bps": "WAINLABAT",
   "kode_dagri": "96.01.08.2005",
   "nama_dagri": "WAIMLABAT",
-  "parent_kode_bps": "9202040"
+  "parent_kode_bps": "9202040",
+  "parent_kode_dagri": "96.01.08"
 }

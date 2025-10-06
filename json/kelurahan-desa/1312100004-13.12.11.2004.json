@@ -3,5 +3,6 @@
   "nama_bps": "MALIGI",
   "kode_dagri": "13.12.11.2004",
   "nama_dagri": "MALIGI",
-  "parent_kode_bps": "1312100"
+  "parent_kode_bps": "1312100",
+  "parent_kode_dagri": "13.12.11"
 }

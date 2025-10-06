@@ -3,5 +3,6 @@
   "nama_bps": "NAMRO",
   "kode_dagri": "96.02.01.2014",
   "nama_dagri": "NAMBRO",
-  "parent_kode_bps": "9203100"
+  "parent_kode_bps": "9203100",
+  "parent_kode_dagri": "96.02.01"
 }

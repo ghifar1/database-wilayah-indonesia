@@ -3,5 +3,6 @@
   "nama_bps": "TEMPINO",
   "kode_dagri": "15.05.05.1009",
   "nama_dagri": "TEMPINO",
-  "parent_kode_bps": "1505010"
+  "parent_kode_bps": "1505010",
+  "parent_kode_dagri": "15.05.05"
 }

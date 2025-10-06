@@ -3,5 +3,6 @@
   "nama_bps": "WALING",
   "kode_dagri": "53.19.01.2031",
   "nama_dagri": "WALING",
-  "parent_kode_bps": "5319010"
+  "parent_kode_bps": "5319010",
+  "parent_kode_dagri": "53.19.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KEGOUDA",
   "kode_dagri": "94.03.02.2002",
   "nama_dagri": "KEGOUDA",
-  "parent_kode_bps": "9605080"
+  "parent_kode_bps": "9605080",
+  "parent_kode_dagri": "94.03.02"
 }

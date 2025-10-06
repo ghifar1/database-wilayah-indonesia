@@ -3,5 +3,6 @@
   "nama_bps": "JERUK MANIS",
   "kode_dagri": "52.03.04.2012",
   "nama_dagri": "JERUK MANIS",
-  "parent_kode_bps": "5203040"
+  "parent_kode_bps": "5203040",
+  "parent_kode_dagri": "52.03.04"
 }

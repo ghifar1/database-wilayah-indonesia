@@ -3,5 +3,6 @@
   "nama_bps": "GATTARENG",
   "kode_dagri": "73.02.01.2006",
   "nama_dagri": "GATTARENG",
-  "parent_kode_bps": "7302010"
+  "parent_kode_bps": "7302010",
+  "parent_kode_dagri": "73.02.01"
 }

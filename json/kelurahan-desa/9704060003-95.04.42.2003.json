@@ -3,5 +3,6 @@
   "nama_bps": "POSMAN",
   "kode_dagri": "95.04.42.2003",
   "nama_dagri": "POSMAN",
-  "parent_kode_bps": "9704060"
+  "parent_kode_bps": "9704060",
+  "parent_kode_dagri": "95.04.42"
 }

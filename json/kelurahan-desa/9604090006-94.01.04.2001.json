@@ -3,5 +3,6 @@
   "nama_bps": "TOPO",
   "kode_dagri": "94.01.04.2001",
   "nama_dagri": "TOPO",
-  "parent_kode_bps": "9604090"
+  "parent_kode_bps": "9604090",
+  "parent_kode_dagri": "94.01.04"
 }

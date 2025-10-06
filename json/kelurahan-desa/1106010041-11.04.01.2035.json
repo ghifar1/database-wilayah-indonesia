@@ -3,5 +3,6 @@
   "nama_bps": "PANTAN REDUK",
   "kode_dagri": "11.04.01.2035",
   "nama_dagri": "PANTAN REDUK",
-  "parent_kode_bps": "1106010"
+  "parent_kode_bps": "1106010",
+  "parent_kode_dagri": "11.04.01"
 }

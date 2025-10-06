@@ -3,5 +3,6 @@
   "nama_bps": "TIMI",
   "kode_dagri": "95.07.17.2003",
   "nama_dagri": "TIMI",
-  "parent_kode_bps": "9703300"
+  "parent_kode_bps": "9703300",
+  "parent_kode_dagri": "95.07.17"
 }

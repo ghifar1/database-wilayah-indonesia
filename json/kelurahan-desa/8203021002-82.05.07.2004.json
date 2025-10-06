@@ -3,5 +3,6 @@
   "nama_bps": "FAT-IBA",
   "kode_dagri": "82.05.07.2004",
   "nama_dagri": "FAT IBA",
-  "parent_kode_bps": "8203021"
+  "parent_kode_bps": "8203021",
+  "parent_kode_dagri": "82.05.07"
 }

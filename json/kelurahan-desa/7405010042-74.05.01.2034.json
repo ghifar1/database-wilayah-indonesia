@@ -3,5 +3,6 @@
   "nama_bps": "PANGGOOSI",
   "kode_dagri": "74.05.01.2034",
   "nama_dagri": "PANGGOOSI",
-  "parent_kode_bps": "7405010"
+  "parent_kode_bps": "7405010",
+  "parent_kode_dagri": "74.05.01"
 }

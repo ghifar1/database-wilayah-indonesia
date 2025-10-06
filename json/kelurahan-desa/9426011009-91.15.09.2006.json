@@ -3,5 +3,6 @@
   "nama_bps": "DEMISA SP III",
   "kode_dagri": "91.15.09.2006",
   "nama_dagri": "DEMISA",
-  "parent_kode_bps": "9426011"
+  "parent_kode_bps": "9426011",
+  "parent_kode_dagri": "91.15.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PARDOMUAN",
   "kode_dagri": "12.15.04.2002",
   "nama_dagri": "PARDOMUAN",
-  "parent_kode_bps": "1216013"
+  "parent_kode_bps": "1216013",
+  "parent_kode_dagri": "12.15.04"
 }

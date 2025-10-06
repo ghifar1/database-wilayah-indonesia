@@ -3,5 +3,6 @@
   "nama_bps": "LIBAREK",
   "kode_dagri": "95.01.23",
   "nama_dagri": "LIBAREK",
-  "parent_kode_bps": "9702"
+  "parent_kode_bps": "9702",
+  "parent_kode_dagri": "95.01"
 }

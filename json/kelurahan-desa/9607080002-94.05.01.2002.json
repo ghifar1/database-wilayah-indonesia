@@ -3,5 +3,6 @@
   "nama_bps": "KIMAK",
   "kode_dagri": "94.05.01.2002",
   "nama_dagri": "KIMAK",
-  "parent_kode_bps": "9607080"
+  "parent_kode_bps": "9607080",
+  "parent_kode_dagri": "94.05.01"
 }

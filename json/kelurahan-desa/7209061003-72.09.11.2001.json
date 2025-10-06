@@ -3,5 +3,6 @@
   "nama_bps": "BOMBA",
   "kode_dagri": "72.09.11.2001",
   "nama_dagri": "BOMBA",
-  "parent_kode_bps": "7209061"
+  "parent_kode_bps": "7209061",
+  "parent_kode_dagri": "72.09.11"
 }

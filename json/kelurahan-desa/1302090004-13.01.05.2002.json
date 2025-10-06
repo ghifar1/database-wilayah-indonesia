@@ -3,5 +3,6 @@
   "nama_bps": "TAMBANG",
   "kode_dagri": "13.01.05.2002",
   "nama_dagri": "TAMBANG",
-  "parent_kode_bps": "1302090"
+  "parent_kode_bps": "1302090",
+  "parent_kode_dagri": "13.01.05"
 }

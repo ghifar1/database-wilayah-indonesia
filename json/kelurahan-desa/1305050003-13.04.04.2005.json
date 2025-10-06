@@ -3,5 +3,6 @@
   "nama_bps": "LABUH",
   "kode_dagri": "13.04.04.2005",
   "nama_dagri": "LABUH",
-  "parent_kode_bps": "1305050"
+  "parent_kode_bps": "1305050",
+  "parent_kode_dagri": "13.04.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LUBUK BATU",
   "kode_dagri": "61.11.02.2012",
   "nama_dagri": "LUBUK BATU",
-  "parent_kode_bps": "6111030"
+  "parent_kode_bps": "6111030",
+  "parent_kode_dagri": "61.11.02"
 }

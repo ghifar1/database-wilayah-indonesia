@@ -3,5 +3,6 @@
   "nama_bps": "SEI RASAU",
   "kode_dagri": "61.72.04.1004",
   "nama_dagri": "SUNGAI RASAU",
-  "parent_kode_bps": "6172030"
+  "parent_kode_bps": "6172030",
+  "parent_kode_dagri": "61.72.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SEMUNTAI",
   "kode_dagri": "61.03.02.2002",
   "nama_dagri": "SEMUNTAI",
-  "parent_kode_bps": "6105070"
+  "parent_kode_bps": "6105070",
+  "parent_kode_dagri": "61.03.02"
 }

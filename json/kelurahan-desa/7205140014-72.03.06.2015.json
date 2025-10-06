@@ -3,5 +3,6 @@
   "nama_bps": "LONG",
   "kode_dagri": "72.03.06.2015",
   "nama_dagri": "LONG",
-  "parent_kode_bps": "7205140"
+  "parent_kode_bps": "7205140",
+  "parent_kode_dagri": "72.03.06"
 }

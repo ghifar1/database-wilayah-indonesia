@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG JAYA",
   "kode_dagri": "14.04.11.2013",
   "nama_dagri": "SIMPANG JAYA",
-  "parent_kode_bps": "1403080"
+  "parent_kode_bps": "1403080",
+  "parent_kode_dagri": "14.04.11"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "TIGIR",
   "kode_dagri": "94.02.15.2007",
   "nama_dagri": "TIGIR",
-  "parent_kode_bps": "9608040"
+  "parent_kode_bps": "9608040",
+  "parent_kode_dagri": "94.02.15"
 }

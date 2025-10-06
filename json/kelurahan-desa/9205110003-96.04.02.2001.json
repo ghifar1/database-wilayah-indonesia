@@ -3,5 +3,6 @@
   "nama_bps": "SIAKWA",
   "kode_dagri": "96.04.02.2001",
   "nama_dagri": "SIAKWA",
-  "parent_kode_bps": "9205110"
+  "parent_kode_bps": "9205110",
+  "parent_kode_dagri": "96.04.02"
 }

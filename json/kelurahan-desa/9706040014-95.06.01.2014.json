@@ -3,5 +3,6 @@
   "nama_bps": "UBI",
   "kode_dagri": "95.06.01.2014",
   "nama_dagri": "UBI",
-  "parent_kode_bps": "9706040"
+  "parent_kode_bps": "9706040",
+  "parent_kode_dagri": "95.06.01"
 }

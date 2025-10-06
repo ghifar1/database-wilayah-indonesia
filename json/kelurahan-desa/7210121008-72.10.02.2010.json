@@ -3,5 +3,6 @@
   "nama_bps": "SIGIMPU",
   "kode_dagri": "72.10.02.2010",
   "nama_dagri": "SIGIMPU",
-  "parent_kode_bps": "7210121"
+  "parent_kode_bps": "7210121",
+  "parent_kode_dagri": "72.10.12"
 }

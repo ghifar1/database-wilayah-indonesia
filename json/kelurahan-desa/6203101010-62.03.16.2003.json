@@ -3,5 +3,6 @@
   "nama_bps": "BINA JAYA",
   "kode_dagri": "62.03.16.2003",
   "nama_dagri": "BINA JAYA",
-  "parent_kode_bps": "6203101"
+  "parent_kode_bps": "6203101",
+  "parent_kode_dagri": "62.03.16"
 }

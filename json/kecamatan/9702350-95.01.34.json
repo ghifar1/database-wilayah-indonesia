@@ -3,5 +3,6 @@
   "nama_bps": "BPIRI",
   "kode_dagri": "95.01.34",
   "nama_dagri": "BPIRI",
-  "parent_kode_bps": "9702"
+  "parent_kode_bps": "9702",
+  "parent_kode_dagri": "95.01"
 }

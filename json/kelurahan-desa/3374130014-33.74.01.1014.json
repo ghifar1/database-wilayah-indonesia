@@ -3,5 +3,6 @@
   "nama_bps": "PENDRIKAN KIDUL",
   "kode_dagri": "33.74.01.1014",
   "nama_dagri": "PINDRIKAN KIDUL",
-  "parent_kode_bps": "3374130"
+  "parent_kode_bps": "3374130",
+  "parent_kode_dagri": "33.74.01"
 }

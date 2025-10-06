@@ -3,5 +3,6 @@
   "nama_bps": "LABOKOLO",
   "kode_dagri": "74.13.07.2002",
   "nama_dagri": "LABUKOLO",
-  "parent_kode_bps": "7413030"
+  "parent_kode_bps": "7413030",
+  "parent_kode_dagri": "74.13.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "AMPEL",
   "kode_dagri": "35.09.11.2002",
   "nama_dagri": "AMPEL",
-  "parent_kode_bps": "3509040"
+  "parent_kode_bps": "3509040",
+  "parent_kode_dagri": "35.09.11"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "WIRIMA",
   "kode_dagri": "95.05.05.2004",
   "nama_dagri": "WIRIMA",
-  "parent_kode_bps": "9705020"
+  "parent_kode_bps": "9705020",
+  "parent_kode_dagri": "95.05.05"
 }

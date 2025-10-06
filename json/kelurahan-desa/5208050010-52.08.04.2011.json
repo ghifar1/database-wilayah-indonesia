@@ -3,5 +3,6 @@
   "nama_bps": "ANDALAN",
   "kode_dagri": "52.08.04.2011",
   "nama_dagri": "ANDALAN",
-  "parent_kode_bps": "5208050"
+  "parent_kode_bps": "5208050",
+  "parent_kode_dagri": "52.08.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAKAS",
   "kode_dagri": "96.02.06.2008",
   "nama_dagri": "KAKAS",
-  "parent_kode_bps": "9203120"
+  "parent_kode_bps": "9203120",
+  "parent_kode_dagri": "96.02.06"
 }

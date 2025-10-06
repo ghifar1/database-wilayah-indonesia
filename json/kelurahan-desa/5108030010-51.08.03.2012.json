@@ -3,5 +3,6 @@
   "nama_bps": "PELAPUAN",
   "kode_dagri": "51.08.03.2012",
   "nama_dagri": "PELAPUAN",
-  "parent_kode_bps": "5108030"
+  "parent_kode_bps": "5108030",
+  "parent_kode_dagri": "51.08.03"
 }

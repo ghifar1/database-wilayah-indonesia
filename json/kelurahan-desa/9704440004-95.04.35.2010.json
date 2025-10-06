@@ -3,5 +3,6 @@
   "nama_bps": "KAGI",
   "kode_dagri": "95.04.35.2010",
   "nama_dagri": "KAGI",
-  "parent_kode_bps": "9704440"
+  "parent_kode_bps": "9704440",
+  "parent_kode_dagri": "95.04.35"
 }

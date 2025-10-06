@@ -3,5 +3,6 @@
   "nama_bps": "EMPAJAK",
   "kode_dagri": "61.09.05.2009",
   "nama_dagri": "EMPAJAK",
-  "parent_kode_bps": "6109050"
+  "parent_kode_bps": "6109050",
+  "parent_kode_dagri": "61.09.05"
 }

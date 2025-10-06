@@ -3,5 +3,6 @@
   "nama_bps": "SARIO KOTA BARU",
   "kode_dagri": "71.71.06.1002",
   "nama_dagri": "SARIO KOTABARU",
-  "parent_kode_bps": "7171020"
+  "parent_kode_bps": "7171020",
+  "parent_kode_dagri": "71.71.06"
 }

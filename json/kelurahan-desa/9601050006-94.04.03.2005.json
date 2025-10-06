@@ -3,5 +3,6 @@
   "nama_bps": "MWAPI",
   "kode_dagri": "94.04.03.2005",
   "nama_dagri": "MUARE",
-  "parent_kode_bps": "9601050"
+  "parent_kode_bps": "9601050",
+  "parent_kode_dagri": "94.04.03"
 }

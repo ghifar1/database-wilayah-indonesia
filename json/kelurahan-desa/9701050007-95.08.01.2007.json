@@ -3,5 +3,6 @@
   "nama_bps": "DIM",
   "kode_dagri": "95.08.01.2007",
   "nama_dagri": "DIM",
-  "parent_kode_bps": "9701050"
+  "parent_kode_bps": "9701050",
+  "parent_kode_dagri": "95.08.01"
 }

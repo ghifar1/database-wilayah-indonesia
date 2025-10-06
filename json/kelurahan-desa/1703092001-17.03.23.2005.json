@@ -3,5 +3,6 @@
   "nama_bps": "PAGAR DIN",
   "kode_dagri": "17.03.23.2005",
   "nama_dagri": "PAGARDIN",
-  "parent_kode_bps": "1703092"
+  "parent_kode_bps": "1703092",
+  "parent_kode_dagri": "17.03.23"
 }

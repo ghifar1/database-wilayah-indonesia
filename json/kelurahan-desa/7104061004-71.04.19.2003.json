@@ -3,5 +3,6 @@
   "nama_bps": "ENSEM TIMUR",
   "kode_dagri": "71.04.19.2003",
   "nama_dagri": "ENSEM",
-  "parent_kode_bps": "7104061"
+  "parent_kode_bps": "7104061",
+  "parent_kode_dagri": "71.04.19"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PENUJAK",
   "kode_dagri": "52.02.05.2006",
   "nama_dagri": "PENUJAK",
-  "parent_kode_bps": "5202010"
+  "parent_kode_bps": "5202010",
+  "parent_kode_dagri": "52.02.05"
 }

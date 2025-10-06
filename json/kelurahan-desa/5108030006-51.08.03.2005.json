@@ -3,5 +3,6 @@
   "nama_bps": "TELAGA",
   "kode_dagri": "51.08.03.2005",
   "nama_dagri": "TELAGA",
-  "parent_kode_bps": "5108030"
+  "parent_kode_bps": "5108030",
+  "parent_kode_dagri": "51.08.03"
 }

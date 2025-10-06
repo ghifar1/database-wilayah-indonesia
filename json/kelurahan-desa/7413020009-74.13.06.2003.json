@@ -3,5 +3,6 @@
   "nama_bps": "PAJALA",
   "kode_dagri": "74.13.06.2003",
   "nama_dagri": "PAJALA",
-  "parent_kode_bps": "7413020"
+  "parent_kode_bps": "7413020",
+  "parent_kode_dagri": "74.13.06"
 }

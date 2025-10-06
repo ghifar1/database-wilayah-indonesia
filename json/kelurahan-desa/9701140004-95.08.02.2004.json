@@ -3,5 +3,6 @@
   "nama_bps": "PALSAM",
   "kode_dagri": "95.08.02.2004",
   "nama_dagri": "PALSAM",
-  "parent_kode_bps": "9701140"
+  "parent_kode_bps": "9701140",
+  "parent_kode_dagri": "95.08.02"
 }

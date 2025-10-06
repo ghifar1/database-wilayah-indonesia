@@ -3,5 +3,6 @@
   "nama_bps": "LESTEN",
   "kode_dagri": "11.13.05.2009",
   "nama_dagri": "LESTEN",
-  "parent_kode_bps": "1113030"
+  "parent_kode_bps": "1113030",
+  "parent_kode_dagri": "11.13.05"
 }

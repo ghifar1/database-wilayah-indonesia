@@ -3,5 +3,6 @@
   "nama_bps": "WAMAL",
   "kode_dagri": "93.01.15.2003",
   "nama_dagri": "WAMAL",
-  "parent_kode_bps": "9501080"
+  "parent_kode_bps": "9501080",
+  "parent_kode_dagri": "93.01.15"
 }

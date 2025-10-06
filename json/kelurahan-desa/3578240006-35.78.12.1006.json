@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG PERAK",
   "kode_dagri": "35.78.12.1006",
   "nama_dagri": "TANJUNG PERAK",
-  "parent_kode_bps": "3578240"
+  "parent_kode_bps": "3578240",
+  "parent_kode_dagri": "35.78.12"
 }

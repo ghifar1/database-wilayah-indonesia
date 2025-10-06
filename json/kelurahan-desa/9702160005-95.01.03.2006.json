@@ -3,5 +3,6 @@
   "nama_bps": "MILIGATNEM",
   "kode_dagri": "95.01.03.2006",
   "nama_dagri": "MILIGATNEM",
-  "parent_kode_bps": "9702160"
+  "parent_kode_bps": "9702160",
+  "parent_kode_dagri": "95.01.03"
 }

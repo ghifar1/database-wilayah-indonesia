@@ -3,5 +3,6 @@
   "nama_bps": "MASSEPE",
   "kode_dagri": "73.14.02.1002",
   "nama_dagri": "MASSEPE",
-  "parent_kode_bps": "7314020"
+  "parent_kode_bps": "7314020",
+  "parent_kode_dagri": "73.14.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MELONA",
   "kode_dagri": "61.10.04.2006",
   "nama_dagri": "NANGA MELONA SATU",
-  "parent_kode_bps": "6110070"
+  "parent_kode_bps": "6110070",
+  "parent_kode_dagri": "61.10.04"
 }

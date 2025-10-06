@@ -3,5 +3,6 @@
   "nama_bps": "MUDO",
   "kode_dagri": "15.02.02.2008",
   "nama_dagri": "MUDO",
-  "parent_kode_bps": "1502040"
+  "parent_kode_bps": "1502040",
+  "parent_kode_dagri": "15.02.02"
 }

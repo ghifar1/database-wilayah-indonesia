@@ -4,5 +4,6 @@
   "kode_dagri": "12.71",
   "nama_dagri": "KOTA MEDAN",
   "parent_kode_bps": "12",
+  "parent_kode_dagri": "12",
   "kode_pos": "20100;20200;20400"
 }

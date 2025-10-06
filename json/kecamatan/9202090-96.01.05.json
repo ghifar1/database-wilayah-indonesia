@@ -3,5 +3,6 @@
   "nama_bps": "AIMAS",
   "kode_dagri": "96.01.05",
   "nama_dagri": "AIMAS",
-  "parent_kode_bps": "9202"
+  "parent_kode_bps": "9202",
+  "parent_kode_dagri": "96.01"
 }

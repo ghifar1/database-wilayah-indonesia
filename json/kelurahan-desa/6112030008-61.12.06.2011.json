@@ -3,5 +3,6 @@
   "nama_bps": "KAMPUNG BARU",
   "kode_dagri": "61.12.06.2011",
   "nama_dagri": "KAMPUNG BARU",
-  "parent_kode_bps": "6112030"
+  "parent_kode_bps": "6112030",
+  "parent_kode_dagri": "61.12.06"
 }

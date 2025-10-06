@@ -3,5 +3,6 @@
   "nama_bps": "UPT ARSO III / JAIFURI",
   "kode_dagri": "91.11.05.2002",
   "nama_dagri": "JAIFURI",
-  "parent_kode_bps": "9420050"
+  "parent_kode_bps": "9420050",
+  "parent_kode_dagri": "91.11.05"
 }

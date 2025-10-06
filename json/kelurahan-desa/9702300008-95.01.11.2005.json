@@ -3,5 +3,6 @@
   "nama_bps": "TUMUN",
   "kode_dagri": "95.01.11.2005",
   "nama_dagri": "TUMUN",
-  "parent_kode_bps": "9702300"
+  "parent_kode_bps": "9702300",
+  "parent_kode_dagri": "95.01.11"
 }

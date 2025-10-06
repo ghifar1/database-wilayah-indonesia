@@ -8,6 +8,7 @@ type RegionRecord = {
     nama_dagri?: string
     kode_pos?: string
     parent_kode_bps?: string
+    parent_kode_dagri?: string
 }
 
 type Anomaly = {
@@ -44,7 +45,9 @@ const inspectRecord = (record: RegionRecord): Array<string> => {
         { key: "nama_bps" },
         { key: "kode_dagri" },
         { key: "nama_dagri" },
-        { key: "kode_pos", allowMissing: true }
+        { key: "kode_pos", allowMissing: true },
+        { key: "parent_kode_bps", allowMissing: true },
+        { key: "parent_kode_dagri", allowMissing: true }
     ]
 
     for (const { key, allowMissing } of checks) {

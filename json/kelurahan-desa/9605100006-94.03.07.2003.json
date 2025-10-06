@@ -3,5 +3,6 @@
   "nama_bps": "IKOTU / BUA",
   "kode_dagri": "94.03.07.2003",
   "nama_dagri": "BUA",
-  "parent_kode_bps": "9605100"
+  "parent_kode_bps": "9605100",
+  "parent_kode_dagri": "94.03.07"
 }

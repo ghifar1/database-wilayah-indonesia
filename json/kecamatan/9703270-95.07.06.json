@@ -3,5 +3,6 @@
   "nama_bps": "MALAGAINERI",
   "kode_dagri": "95.07.06",
   "nama_dagri": "MELAGINERI",
-  "parent_kode_bps": "9703"
+  "parent_kode_bps": "9703",
+  "parent_kode_dagri": "95.07"
 }

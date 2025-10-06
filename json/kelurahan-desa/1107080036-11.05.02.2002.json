@@ -3,5 +3,6 @@
   "nama_bps": "MESJID",
   "kode_dagri": "11.05.02.2002",
   "nama_dagri": "KAMPONG MESJID",
-  "parent_kode_bps": "1107080"
+  "parent_kode_bps": "1107080",
+  "parent_kode_dagri": "11.05.02"
 }

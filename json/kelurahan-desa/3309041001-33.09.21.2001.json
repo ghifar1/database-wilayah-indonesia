@@ -3,5 +3,6 @@
   "nama_bps": "LAMPAR",
   "kode_dagri": "33.09.21.2001",
   "nama_dagri": "LAMPAR",
-  "parent_kode_bps": "3309041"
+  "parent_kode_bps": "3309041",
+  "parent_kode_dagri": "33.09.21"
 }

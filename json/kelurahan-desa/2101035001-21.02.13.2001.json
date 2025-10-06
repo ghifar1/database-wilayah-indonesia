@@ -3,5 +3,6 @@
   "nama_bps": "PARIT",
   "kode_dagri": "21.02.13.2001",
   "nama_dagri": "PARIT",
-  "parent_kode_bps": "2101035"
+  "parent_kode_bps": "2101035",
+  "parent_kode_dagri": "21.02.13"
 }

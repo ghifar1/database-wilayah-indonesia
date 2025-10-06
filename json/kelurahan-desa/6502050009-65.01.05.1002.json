@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG SELOR HILIR",
   "kode_dagri": "65.01.05.1002",
   "nama_dagri": "TANJUNG SELOR HILIR",
-  "parent_kode_bps": "6502050"
+  "parent_kode_bps": "6502050",
+  "parent_kode_dagri": "65.01.05"
 }

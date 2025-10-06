@@ -3,5 +3,6 @@
   "nama_bps": "KAB. ASMAT",
   "kode_dagri": "93.04",
   "nama_dagri": "KABUPATEN ASMAT",
-  "parent_kode_bps": "95"
+  "parent_kode_bps": "95",
+  "parent_kode_dagri": "93"
 }

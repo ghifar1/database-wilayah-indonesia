@@ -3,5 +3,6 @@
   "nama_bps": "TIKU UTARA",
   "kode_dagri": "13.06.01.2002",
   "nama_dagri": "TIKU UTARA",
-  "parent_kode_bps": "1307010"
+  "parent_kode_bps": "1307010",
+  "parent_kode_dagri": "13.06.01"
 }

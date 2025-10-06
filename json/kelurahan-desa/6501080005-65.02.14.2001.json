@@ -3,5 +3,6 @@
   "nama_bps": "LONG LAKE",
   "kode_dagri": "65.02.14.2001",
   "nama_dagri": "LONG LAKE",
-  "parent_kode_bps": "6501080"
+  "parent_kode_bps": "6501080",
+  "parent_kode_dagri": "65.02.14"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SI NEUBOK",
   "kode_dagri": "11.01.10.2011",
   "nama_dagri": "SEUNEUBOK",
-  "parent_kode_bps": "1103041"
+  "parent_kode_bps": "1103041",
+  "parent_kode_dagri": "11.01.10"
 }

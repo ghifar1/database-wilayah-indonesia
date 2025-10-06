@@ -3,5 +3,6 @@
   "nama_bps": "KAIPOM",
   "kode_dagri": "93.04.05.2006",
   "nama_dagri": "OCENEP",
-  "parent_kode_bps": "9504020"
+  "parent_kode_bps": "9504020",
+  "parent_kode_dagri": "93.04.15"
 }

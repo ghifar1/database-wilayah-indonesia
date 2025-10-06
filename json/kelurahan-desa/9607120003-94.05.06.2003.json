@@ -3,5 +3,6 @@
   "nama_bps": "KELEBUT",
   "kode_dagri": "94.05.06.2003",
   "nama_dagri": "KALIBUK",
-  "parent_kode_bps": "9607120"
+  "parent_kode_bps": "9607120",
+  "parent_kode_dagri": "94.05.06"
 }

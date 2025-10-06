@@ -3,5 +3,6 @@
   "nama_bps": "BALUTA",
   "kode_dagri": "12.14.31.2001",
   "nama_dagri": "BALUTA",
-  "parent_kode_bps": "1214011"
+  "parent_kode_bps": "1214011",
+  "parent_kode_dagri": "12.14.31"
 }

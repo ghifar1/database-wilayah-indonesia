@@ -3,5 +3,6 @@
   "nama_bps": "KEPITO / GEFIDO",
   "kode_dagri": "95.06.03.2075",
   "nama_dagri": "GEFIDO",
-  "parent_kode_bps": "9706030"
+  "parent_kode_bps": "9706030",
+  "parent_kode_dagri": "95.06.03"
 }

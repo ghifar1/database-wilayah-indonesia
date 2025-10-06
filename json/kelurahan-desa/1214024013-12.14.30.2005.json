@@ -3,5 +3,6 @@
   "nama_bps": "MEMONG",
   "kode_dagri": "12.14.30.2005",
   "nama_dagri": "MEMONG",
-  "parent_kode_bps": "1214024"
+  "parent_kode_bps": "1214024",
+  "parent_kode_dagri": "12.14.30"
 }

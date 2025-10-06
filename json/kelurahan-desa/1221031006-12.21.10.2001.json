@@ -3,5 +3,6 @@
   "nama_bps": "BATANG BULU LAMA",
   "kode_dagri": "12.21.10.2001",
   "nama_dagri": "BATANG BULU LAMA",
-  "parent_kode_bps": "1221031"
+  "parent_kode_bps": "1221031",
+  "parent_kode_dagri": "12.21.10"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "TARINSING",
   "kode_dagri": "62.13.09.2007",
   "nama_dagri": "TARINSING",
-  "parent_kode_bps": "6212052"
+  "parent_kode_bps": "6212052",
+  "parent_kode_dagri": "62.13.09"
 }

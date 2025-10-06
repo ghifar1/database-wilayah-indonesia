@@ -3,5 +3,6 @@
   "nama_bps": "KATANGANA",
   "kode_dagri": "74.13.05.2002",
   "nama_dagri": "KATANGANA",
-  "parent_kode_bps": "7413040"
+  "parent_kode_bps": "7413040",
+  "parent_kode_dagri": "74.13.05"
 }

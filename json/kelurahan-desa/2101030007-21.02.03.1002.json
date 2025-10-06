@@ -3,5 +3,6 @@
   "nama_bps": "TELUK AIR",
   "kode_dagri": "21.02.03.1002",
   "nama_dagri": "TELUK AIR",
-  "parent_kode_bps": "2101030"
+  "parent_kode_bps": "2101030",
+  "parent_kode_dagri": "21.02.03"
 }

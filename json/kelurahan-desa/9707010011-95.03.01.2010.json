@@ -3,5 +3,6 @@
   "nama_bps": "ESALIEN",
   "kode_dagri": "95.03.01.2010",
   "nama_dagri": "ESALIEN",
-  "parent_kode_bps": "9707010"
+  "parent_kode_bps": "9707010",
+  "parent_kode_dagri": "95.03.01"
 }

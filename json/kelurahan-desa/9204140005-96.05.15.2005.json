@@ -3,5 +3,6 @@
   "nama_bps": "SFARARE",
   "kode_dagri": "96.05.15.2005",
   "nama_dagri": "SFARARE",
-  "parent_kode_bps": "9204140"
+  "parent_kode_bps": "9204140",
+  "parent_kode_dagri": "96.05.15"
 }

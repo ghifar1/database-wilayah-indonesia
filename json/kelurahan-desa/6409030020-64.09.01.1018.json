@@ -3,5 +3,6 @@
   "nama_bps": "JENEBORA",
   "kode_dagri": "64.09.01.1018",
   "nama_dagri": "JENEBORA",
-  "parent_kode_bps": "6409030"
+  "parent_kode_bps": "6409030",
+  "parent_kode_dagri": "64.09.01"
 }

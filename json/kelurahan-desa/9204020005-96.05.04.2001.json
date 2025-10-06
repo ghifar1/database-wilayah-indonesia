@@ -3,5 +3,6 @@
   "nama_bps": "KISOR",
   "kode_dagri": "96.05.04.2001",
   "nama_dagri": "KISOR",
-  "parent_kode_bps": "9204020"
+  "parent_kode_bps": "9204020",
+  "parent_kode_dagri": "96.05.04"
 }

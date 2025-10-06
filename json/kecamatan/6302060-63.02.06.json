@@ -3,5 +3,6 @@
   "nama_bps": "PULAU LAUT UTARA",
   "kode_dagri": "63.02.06",
   "nama_dagri": "PULAULAUT UTARA",
-  "parent_kode_bps": "6302"
+  "parent_kode_bps": "6302",
+  "parent_kode_dagri": "63.02"
 }

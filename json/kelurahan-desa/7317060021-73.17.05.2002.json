@@ -3,5 +3,6 @@
   "nama_bps": "TANJONG",
   "kode_dagri": "73.17.05.2002",
   "nama_dagri": "TANJONG",
-  "parent_kode_bps": "7317060"
+  "parent_kode_bps": "7317060",
+  "parent_kode_dagri": "73.17.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SELAT PANJANG SELATAN",
   "kode_dagri": "14.10.01.1003",
   "nama_dagri": "SELATPANJANG SELATAN",
-  "parent_kode_bps": "1410020"
+  "parent_kode_bps": "1410020",
+  "parent_kode_dagri": "14.10.01"
 }

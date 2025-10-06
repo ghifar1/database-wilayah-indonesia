@@ -3,5 +3,6 @@
   "nama_bps": "SIAVU",
   "kode_dagri": "72.08.03.2028",
   "nama_dagri": "SIAVU",
-  "parent_kode_bps": "7208040"
+  "parent_kode_bps": "7208040",
+  "parent_kode_dagri": "72.08.03"
 }

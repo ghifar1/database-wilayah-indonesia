@@ -3,5 +3,6 @@
   "nama_bps": "TOHOSTA",
   "kode_dagri": "92.11.04.2005",
   "nama_dagri": "TOHOSTA",
-  "parent_kode_bps": "9111020"
+  "parent_kode_bps": "9111020",
+  "parent_kode_dagri": "92.11.04"
 }

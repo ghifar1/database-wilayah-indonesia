@@ -3,5 +3,6 @@
   "nama_bps": "KUTA PADANG",
   "kode_dagri": "11.05.01.2004",
   "nama_dagri": "KUTA PADANG",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

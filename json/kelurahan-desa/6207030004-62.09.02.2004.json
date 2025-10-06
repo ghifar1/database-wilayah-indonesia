@@ -3,5 +3,6 @@
   "nama_bps": "RIAM PENAHAN",
   "kode_dagri": "62.09.02.2004",
   "nama_dagri": "RIAM PANAHAN",
-  "parent_kode_bps": "6207030"
+  "parent_kode_bps": "6207030",
+  "parent_kode_dagri": "62.09.02"
 }

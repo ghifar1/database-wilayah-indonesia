@@ -3,5 +3,6 @@
   "nama_bps": "ILOKAMA",
   "kode_dagri": "95.01.40.1001",
   "nama_dagri": "ILOKAMA",
-  "parent_kode_bps": "9702370"
+  "parent_kode_bps": "9702370",
+  "parent_kode_dagri": "95.01.40"
 }

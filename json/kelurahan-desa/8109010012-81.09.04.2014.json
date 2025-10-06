@@ -3,5 +3,6 @@
   "nama_bps": "SIOPOT",
   "kode_dagri": "81.09.04.2014",
   "nama_dagri": "SIOPOT",
-  "parent_kode_bps": "8109010"
+  "parent_kode_bps": "8109010",
+  "parent_kode_dagri": "81.09.04"
 }

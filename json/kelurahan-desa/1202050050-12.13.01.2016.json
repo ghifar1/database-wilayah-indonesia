@@ -3,5 +3,6 @@
   "nama_bps": "MANYABAR",
   "kode_dagri": "12.13.01.2016",
   "nama_dagri": "MANYABAR",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

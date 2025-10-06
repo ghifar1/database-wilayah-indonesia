@@ -3,5 +3,6 @@
   "nama_bps": "DUL",
   "kode_dagri": "19.04.02.1001",
   "nama_dagri": "DUL",
-  "parent_kode_bps": "1904020"
+  "parent_kode_bps": "1904020",
+  "parent_kode_dagri": "19.04.02"
 }

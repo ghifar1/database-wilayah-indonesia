@@ -3,5 +3,6 @@
   "nama_bps": "PULAU SUMEDANG",
   "kode_dagri": "19.02.02.2010",
   "nama_dagri": "PULAU SUMEDANG",
-  "parent_kode_bps": "1902010"
+  "parent_kode_bps": "1902010",
+  "parent_kode_dagri": "19.02.02"
 }

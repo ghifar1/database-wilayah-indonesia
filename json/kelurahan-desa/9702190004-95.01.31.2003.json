@@ -3,5 +3,6 @@
   "nama_bps": "PERABAGA",
   "kode_dagri": "95.01.31.2003",
   "nama_dagri": "PERABAGA",
-  "parent_kode_bps": "9702190"
+  "parent_kode_bps": "9702190",
+  "parent_kode_dagri": "95.01.31"
 }

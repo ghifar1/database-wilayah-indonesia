@@ -3,5 +3,6 @@
   "nama_bps": "UWAMBO",
   "kode_dagri": "95.06.03.2006",
   "nama_dagri": "WAMBO",
-  "parent_kode_bps": "9706030"
+  "parent_kode_bps": "9706030",
+  "parent_kode_dagri": "95.06.03"
 }

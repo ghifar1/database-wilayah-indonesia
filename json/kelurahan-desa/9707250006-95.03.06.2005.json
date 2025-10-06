@@ -3,5 +3,6 @@
   "nama_bps": "EMM",
   "kode_dagri": "95.03.06.2005",
   "nama_dagri": "EMM",
-  "parent_kode_bps": "9707250"
+  "parent_kode_bps": "9707250",
+  "parent_kode_dagri": "95.03.06"
 }

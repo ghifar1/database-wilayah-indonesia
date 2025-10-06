@@ -3,5 +3,6 @@
   "nama_bps": "RIAM BERASAPJAYA",
   "kode_dagri": "61.11.01.2010",
   "nama_dagri": "RIAM BERASAP JAYA",
-  "parent_kode_bps": "6111020"
+  "parent_kode_bps": "6111020",
+  "parent_kode_dagri": "61.11.01"
 }

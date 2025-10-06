@@ -3,5 +3,6 @@
   "nama_bps": "WATA BENUA",
   "kode_dagri": "74.05.05.2009",
   "nama_dagri": "WATABENUA",
-  "parent_kode_bps": "7405100"
+  "parent_kode_bps": "7405100",
+  "parent_kode_dagri": "74.05.05"
 }

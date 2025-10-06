@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANGMOKALLANG",
   "kode_dagri": "76.03.11.2001",
   "nama_dagri": "MOKALLANG",
-  "parent_kode_bps": "7603081"
+  "parent_kode_bps": "7603081",
+  "parent_kode_dagri": "76.03.11"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "UIBOA",
   "kode_dagri": "53.01.23.2006",
   "nama_dagri": "UIBOA",
-  "parent_kode_bps": "5303101"
+  "parent_kode_bps": "5303101",
+  "parent_kode_dagri": "53.01.23"
 }

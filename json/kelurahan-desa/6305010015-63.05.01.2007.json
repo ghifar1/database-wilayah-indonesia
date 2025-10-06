@@ -3,5 +3,6 @@
   "nama_bps": "PULAU PINANG",
   "kode_dagri": "63.05.01.2007",
   "nama_dagri": "PULAU PINANG",
-  "parent_kode_bps": "6305010"
+  "parent_kode_bps": "6305010",
+  "parent_kode_dagri": "63.05.01"
 }

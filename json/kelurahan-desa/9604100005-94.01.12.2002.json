@@ -3,5 +3,6 @@
   "nama_bps": "WAROKI",
   "kode_dagri": "94.01.12.2002",
   "nama_dagri": "WAROKI",
-  "parent_kode_bps": "9604100"
+  "parent_kode_bps": "9604100",
+  "parent_kode_dagri": "94.01.12"
 }

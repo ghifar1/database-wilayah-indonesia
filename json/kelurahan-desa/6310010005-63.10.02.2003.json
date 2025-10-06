@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI LEMBU",
   "kode_dagri": "63.10.02.2003",
   "nama_dagri": "SUNGAI LEMBU",
-  "parent_kode_bps": "6310010"
+  "parent_kode_bps": "6310010",
+  "parent_kode_dagri": "63.10.02"
 }

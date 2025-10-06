@@ -3,5 +3,6 @@
   "nama_bps": "MEDAN JAYA",
   "kode_dagri": "61.11.02.2011",
   "nama_dagri": "MEDAN JAYA",
-  "parent_kode_bps": "6111030"
+  "parent_kode_bps": "6111030",
+  "parent_kode_dagri": "61.11.02"
 }

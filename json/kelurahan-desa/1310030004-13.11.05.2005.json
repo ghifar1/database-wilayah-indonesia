@@ -3,5 +3,6 @@
   "nama_bps": "SITAPUS",
   "kode_dagri": "13.11.05.2005",
   "nama_dagri": "SITAPUS",
-  "parent_kode_bps": "1310030"
+  "parent_kode_bps": "1310030",
+  "parent_kode_dagri": "13.11.05"
 }

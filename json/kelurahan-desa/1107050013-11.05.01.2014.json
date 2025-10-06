@@ -3,5 +3,6 @@
   "nama_bps": "GAMPA",
   "kode_dagri": "11.05.01.2014",
   "nama_dagri": "GAMPA",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

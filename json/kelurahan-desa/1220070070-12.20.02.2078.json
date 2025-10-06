@@ -3,5 +3,6 @@
   "nama_bps": "SIMAMBAL",
   "kode_dagri": "12.20.02.2078",
   "nama_dagri": "SIMAMBAL",
-  "parent_kode_bps": "1220070"
+  "parent_kode_bps": "1220070",
+  "parent_kode_dagri": "12.20.02"
 }

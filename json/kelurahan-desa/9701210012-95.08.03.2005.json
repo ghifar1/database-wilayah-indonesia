@@ -3,5 +3,6 @@
   "nama_bps": "SIRIT",
   "kode_dagri": "95.08.03.2005",
   "nama_dagri": "SIRIT",
-  "parent_kode_bps": "9701210"
+  "parent_kode_bps": "9701210",
+  "parent_kode_dagri": "95.08.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BINUSAN DALAM",
   "kode_dagri": "65.03.02.2004",
   "nama_dagri": "BINUSAN",
-  "parent_kode_bps": "6504100"
+  "parent_kode_bps": "6504100",
+  "parent_kode_dagri": "65.03.02"
 }

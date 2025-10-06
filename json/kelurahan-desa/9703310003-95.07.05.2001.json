@@ -3,5 +3,6 @@
   "nama_bps": "DIMBA",
   "kode_dagri": "95.07.05.2001",
   "nama_dagri": "DIMBA",
-  "parent_kode_bps": "9703310"
+  "parent_kode_bps": "9703310",
+  "parent_kode_dagri": "95.07.05"
 }

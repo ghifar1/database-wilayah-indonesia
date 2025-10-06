@@ -3,5 +3,6 @@
   "nama_bps": "KOLANGGUN",
   "kode_dagri": "95.04.42.2010",
   "nama_dagri": "KOLANGGUN",
-  "parent_kode_bps": "9704060"
+  "parent_kode_bps": "9704060",
+  "parent_kode_dagri": "95.04.42"
 }

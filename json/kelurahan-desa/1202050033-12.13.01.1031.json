@@ -3,5 +3,6 @@
   "nama_bps": "PANYABUNGAN II",
   "kode_dagri": "12.13.01.1031",
   "nama_dagri": "PANYABUNGAN II",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

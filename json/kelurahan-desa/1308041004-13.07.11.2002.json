@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG KAPUAK",
   "kode_dagri": "13.07.11.2002",
   "nama_dagri": "SIMPANG KAPUAK",
-  "parent_kode_bps": "1308041"
+  "parent_kode_bps": "1308041",
+  "parent_kode_dagri": "13.07.11"
 }

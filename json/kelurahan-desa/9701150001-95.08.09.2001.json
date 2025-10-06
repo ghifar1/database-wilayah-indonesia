@@ -3,5 +3,6 @@
   "nama_bps": "KROPTAK",
   "kode_dagri": "95.08.09.2001",
   "nama_dagri": "KROPTAK",
-  "parent_kode_bps": "9701150"
+  "parent_kode_bps": "9701150",
+  "parent_kode_dagri": "95.08.09"
 }

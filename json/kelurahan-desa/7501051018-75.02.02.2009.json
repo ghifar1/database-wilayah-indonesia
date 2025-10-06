@@ -3,5 +3,6 @@
   "nama_bps": "UPT SP3 SARI TANI",
   "kode_dagri": "75.02.02.2009",
   "nama_dagri": "SARI TANI",
-  "parent_kode_bps": "7501051"
+  "parent_kode_bps": "7501051",
+  "parent_kode_dagri": "75.02.02"
 }

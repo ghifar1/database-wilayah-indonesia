@@ -3,5 +3,6 @@
   "nama_bps": "LOTIA/HUGLOT",
   "kode_dagri": "95.03.01.2017",
   "nama_dagri": "LOTIA",
-  "parent_kode_bps": "9707010"
+  "parent_kode_bps": "9707010",
+  "parent_kode_dagri": "95.03.01"
 }

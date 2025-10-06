@@ -3,5 +3,6 @@
   "nama_bps": "KOKAS",
   "kode_dagri": "96.05.01.2003",
   "nama_dagri": "KOKAS",
-  "parent_kode_bps": "9204030"
+  "parent_kode_bps": "9204030",
+  "parent_kode_dagri": "96.05.01"
 }

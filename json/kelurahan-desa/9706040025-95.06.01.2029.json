@@ -3,5 +3,6 @@
   "nama_bps": "SOWI",
   "kode_dagri": "95.06.01.2029",
   "nama_dagri": "SOWI",
-  "parent_kode_bps": "9706040"
+  "parent_kode_bps": "9706040",
+  "parent_kode_dagri": "95.06.01"
 }

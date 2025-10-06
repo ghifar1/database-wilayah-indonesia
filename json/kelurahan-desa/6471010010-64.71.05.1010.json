@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI NANGKA",
   "kode_dagri": "64.71.05.1010",
   "nama_dagri": "SUNGAINANGKA",
-  "parent_kode_bps": "6471010"
+  "parent_kode_bps": "6471010",
+  "parent_kode_dagri": "64.71.05"
 }

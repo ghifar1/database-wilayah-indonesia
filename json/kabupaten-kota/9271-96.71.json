@@ -3,5 +3,6 @@
   "nama_bps": "KOTA SORONG",
   "kode_dagri": "96.71",
   "nama_dagri": "KOTA SORONG",
-  "parent_kode_bps": "92"
+  "parent_kode_bps": "92",
+  "parent_kode_dagri": "96"
 }

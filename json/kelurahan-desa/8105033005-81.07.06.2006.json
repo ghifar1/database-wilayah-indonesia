@@ -3,5 +3,6 @@
   "nama_bps": "LEITING",
   "kode_dagri": "81.07.06.2006",
   "nama_dagri": "LEITING",
-  "parent_kode_bps": "8105033"
+  "parent_kode_bps": "8105033",
+  "parent_kode_dagri": "81.07.06"
 }

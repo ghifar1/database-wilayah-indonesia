@@ -3,5 +3,6 @@
   "nama_bps": "NOEMA",
   "kode_dagri": "94.04.05.2003",
   "nama_dagri": "NOEMA",
-  "parent_kode_bps": "9601160"
+  "parent_kode_bps": "9601160",
+  "parent_kode_dagri": "94.04.05"
 }

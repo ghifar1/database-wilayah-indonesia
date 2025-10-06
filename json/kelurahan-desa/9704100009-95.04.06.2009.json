@@ -3,5 +3,6 @@
   "nama_bps": "NUMBOBOTON",
   "kode_dagri": "95.04.06.2009",
   "nama_dagri": "NUMBUBOTON",
-  "parent_kode_bps": "9704100"
+  "parent_kode_bps": "9704100",
+  "parent_kode_dagri": "95.04.06"
 }

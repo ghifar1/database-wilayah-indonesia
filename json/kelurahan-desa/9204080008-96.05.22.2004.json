@@ -3,5 +3,6 @@
   "nama_bps": "EWAY",
   "kode_dagri": "96.05.22.2004",
   "nama_dagri": "EWAY",
-  "parent_kode_bps": "9204080"
+  "parent_kode_bps": "9204080",
+  "parent_kode_dagri": "96.05.22"
 }

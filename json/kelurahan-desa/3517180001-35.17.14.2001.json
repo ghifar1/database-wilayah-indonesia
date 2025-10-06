@@ -3,5 +3,6 @@
   "nama_bps": "TANGGUNG KRAMAT",
   "kode_dagri": "35.17.14.2001",
   "nama_dagri": "TANGGUNGKRAMAT",
-  "parent_kode_bps": "3517180"
+  "parent_kode_bps": "3517180",
+  "parent_kode_dagri": "35.17.14"
 }

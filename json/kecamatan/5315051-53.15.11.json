@@ -3,5 +3,6 @@
   "nama_bps": "PACAR",
   "kode_dagri": "53.15.11",
   "nama_dagri": "PACAR",
-  "parent_kode_bps": "5315"
+  "parent_kode_bps": "5315",
+  "parent_kode_dagri": "53.15"
 }

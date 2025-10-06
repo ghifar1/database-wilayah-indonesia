@@ -3,5 +3,6 @@
   "nama_bps": "SOREK DUA",
   "kode_dagri": "14.05.03.1001",
   "nama_dagri": "SOREK I",
-  "parent_kode_bps": "1404020"
+  "parent_kode_bps": "1404020",
+  "parent_kode_dagri": "14.05.03"
 }

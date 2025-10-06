@@ -3,5 +3,6 @@
   "nama_bps": "TALUAK",
   "kode_dagri": "13.04.06.2001",
   "nama_dagri": "TALUK",
-  "parent_kode_bps": "1305080"
+  "parent_kode_bps": "1305080",
+  "parent_kode_dagri": "13.04.06"
 }

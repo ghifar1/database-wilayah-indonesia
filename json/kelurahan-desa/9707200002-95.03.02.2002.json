@@ -3,5 +3,6 @@
   "nama_bps": "LELAMBO",
   "kode_dagri": "95.03.02.2002",
   "nama_dagri": "LELAMBO",
-  "parent_kode_bps": "9707200"
+  "parent_kode_bps": "9707200",
+  "parent_kode_dagri": "95.03.02"
 }

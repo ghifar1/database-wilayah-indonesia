@@ -3,5 +3,6 @@
   "nama_bps": "PRIS",
   "kode_dagri": "91.11.07.2011",
   "nama_dagri": "PRIS",
-  "parent_kode_bps": "9420011"
+  "parent_kode_bps": "9420011",
+  "parent_kode_dagri": "91.11.07"
 }

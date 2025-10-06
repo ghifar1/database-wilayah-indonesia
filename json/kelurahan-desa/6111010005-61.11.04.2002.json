@@ -3,5 +3,6 @@
   "nama_bps": "KEMBOJA",
   "kode_dagri": "61.11.04.2002",
   "nama_dagri": "KEMBOJA",
-  "parent_kode_bps": "6111010"
+  "parent_kode_bps": "6111010",
+  "parent_kode_dagri": "61.11.04"
 }

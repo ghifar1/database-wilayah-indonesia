@@ -3,5 +3,6 @@
   "nama_bps": "SEGUN",
   "kode_dagri": "96.01.08.2001",
   "nama_dagri": "SEGUN",
-  "parent_kode_bps": "9202040"
+  "parent_kode_bps": "9202040",
+  "parent_kode_dagri": "96.01.08"
 }

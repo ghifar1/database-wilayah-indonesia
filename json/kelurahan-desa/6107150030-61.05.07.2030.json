@@ -3,5 +3,6 @@
   "nama_bps": "SAMAK",
   "kode_dagri": "61.05.07.2030",
   "nama_dagri": "SAMAK",
-  "parent_kode_bps": "6107150"
+  "parent_kode_bps": "6107150",
+  "parent_kode_dagri": "61.05.07"
 }

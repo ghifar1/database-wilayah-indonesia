@@ -3,5 +3,6 @@
   "nama_bps": "LAMPER KIDUL",
   "kode_dagri": "33.74.07.1009",
   "nama_dagri": "LAMPER KIDUL",
-  "parent_kode_bps": "3374050"
+  "parent_kode_bps": "3374050",
+  "parent_kode_dagri": "33.74.07"
 }

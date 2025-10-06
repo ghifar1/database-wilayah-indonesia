@@ -3,5 +3,6 @@
   "nama_bps": "KAMPUNG PASIR",
   "kode_dagri": "11.05.01.2008",
   "nama_dagri": "PASIR",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

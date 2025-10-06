@@ -3,5 +3,6 @@
   "nama_bps": "GIN",
   "kode_dagri": "95.08.15.2003",
   "nama_dagri": "GIN",
-  "parent_kode_bps": "9701120"
+  "parent_kode_bps": "9701120",
+  "parent_kode_dagri": "95.08.15"
 }

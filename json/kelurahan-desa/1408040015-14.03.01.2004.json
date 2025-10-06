@@ -3,5 +3,6 @@
   "nama_bps": "KELAPA PATI",
   "kode_dagri": "14.03.01.2004",
   "nama_dagri": "KELAPAPATI",
-  "parent_kode_bps": "1408040"
+  "parent_kode_bps": "1408040",
+  "parent_kode_dagri": "14.03.01"
 }

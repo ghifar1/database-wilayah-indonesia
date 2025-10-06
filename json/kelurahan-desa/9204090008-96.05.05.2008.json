@@ -3,5 +3,6 @@
   "nama_bps": "FATEM",
   "kode_dagri": "96.05.05.2008",
   "nama_dagri": "FATEM",
-  "parent_kode_bps": "9204090"
+  "parent_kode_bps": "9204090",
+  "parent_kode_dagri": "96.05.05"
 }

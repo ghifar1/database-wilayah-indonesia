@@ -3,5 +3,6 @@
   "nama_bps": "TAGAUTO",
   "kode_dagri": "94.01.14.2003",
   "nama_dagri": "TAGAUTO",
-  "parent_kode_bps": "9604020"
+  "parent_kode_bps": "9604020",
+  "parent_kode_dagri": "94.01.14"
 }

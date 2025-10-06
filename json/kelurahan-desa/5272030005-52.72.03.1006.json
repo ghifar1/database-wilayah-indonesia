@@ -3,5 +3,6 @@
   "nama_bps": "ULE",
   "kode_dagri": "52.72.03.1006",
   "nama_dagri": "ULE",
-  "parent_kode_bps": "5272030"
+  "parent_kode_bps": "5272030",
+  "parent_kode_dagri": "52.72.03"
 }

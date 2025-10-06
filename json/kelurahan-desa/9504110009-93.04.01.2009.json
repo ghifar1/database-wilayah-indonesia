@@ -3,5 +3,6 @@
   "nama_bps": "BOU",
   "kode_dagri": "93.04.01.2009",
   "nama_dagri": "BOU",
-  "parent_kode_bps": "9504110"
+  "parent_kode_bps": "9504110",
+  "parent_kode_dagri": "93.04.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SUMBER REJO",
   "kode_dagri": "18.10.05.2030",
   "nama_dagri": "SUMBER REJO",
-  "parent_kode_bps": "1810030"
+  "parent_kode_bps": "1810030",
+  "parent_kode_dagri": "18.10.05"
 }

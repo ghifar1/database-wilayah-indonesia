@@ -3,5 +3,6 @@
   "nama_bps": "PENDAMARAN JAYA",
   "kode_dagri": "63.10.04.2026",
   "nama_dagri": "PANDAMARAN JAYA",
-  "parent_kode_bps": "6310030"
+  "parent_kode_bps": "6310030",
+  "parent_kode_dagri": "63.10.04"
 }

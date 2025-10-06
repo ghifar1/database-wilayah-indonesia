@@ -3,5 +3,6 @@
   "nama_bps": "ANREAPI",
   "kode_dagri": "76.04.13.1001",
   "nama_dagri": "ANREAPI",
-  "parent_kode_bps": "7602052"
+  "parent_kode_bps": "7602052",
+  "parent_kode_dagri": "76.04.13"
 }

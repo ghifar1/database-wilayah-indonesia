@@ -3,5 +3,6 @@
   "nama_bps": "MASOS",
   "kode_dagri": "96.01.21.2002",
   "nama_dagri": "MASOS",
-  "parent_kode_bps": "9202300"
+  "parent_kode_bps": "9202300",
+  "parent_kode_dagri": "96.01.21"
 }

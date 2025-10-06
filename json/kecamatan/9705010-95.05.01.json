@@ -3,5 +3,6 @@
   "nama_bps": "KOBAKMA",
   "kode_dagri": "95.05.01",
   "nama_dagri": "KOBAKMA",
-  "parent_kode_bps": "9705"
+  "parent_kode_bps": "9705",
+  "parent_kode_dagri": "95.05"
 }

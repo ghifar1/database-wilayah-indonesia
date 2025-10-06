@@ -3,5 +3,6 @@
   "nama_bps": "ALAI",
   "kode_dagri": "14.10.04.2001",
   "nama_dagri": "ALAI",
-  "parent_kode_bps": "1410010"
+  "parent_kode_bps": "1410010",
+  "parent_kode_dagri": "14.10.04"
 }

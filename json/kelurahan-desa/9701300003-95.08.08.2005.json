@@ -3,5 +3,6 @@
   "nama_bps": "GEBEM",
   "kode_dagri": "95.08.08.2005",
   "nama_dagri": "GEBEM",
-  "parent_kode_bps": "9701300"
+  "parent_kode_bps": "9701300",
+  "parent_kode_dagri": "95.08.08"
 }

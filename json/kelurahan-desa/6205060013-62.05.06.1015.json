@@ -3,5 +3,6 @@
   "nama_bps": "LAHEI I",
   "kode_dagri": "62.05.06.1015",
   "nama_dagri": "LAHEI I",
-  "parent_kode_bps": "6205060"
+  "parent_kode_bps": "6205060",
+  "parent_kode_dagri": "62.05.06"
 }

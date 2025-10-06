@@ -3,5 +3,6 @@
   "nama_bps": "SUYE",
   "kode_dagri": "96.01.23.2003",
   "nama_dagri": "SUYE",
-  "parent_kode_bps": "9202140"
+  "parent_kode_bps": "9202140",
+  "parent_kode_dagri": "96.01.23"
 }

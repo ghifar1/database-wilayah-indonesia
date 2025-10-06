@@ -3,5 +3,6 @@
   "nama_bps": "SAMIRI",
   "kode_dagri": "12.14.08.2044",
   "nama_dagri": "SAMIRI",
-  "parent_kode_bps": "1214080"
+  "parent_kode_bps": "1214080",
+  "parent_kode_dagri": "12.14.08"
 }

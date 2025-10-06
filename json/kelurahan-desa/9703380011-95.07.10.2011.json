@@ -3,5 +3,6 @@
   "nama_bps": "BINOMPAGA",
   "kode_dagri": "95.07.10.2011",
   "nama_dagri": "BINOMPAGA",
-  "parent_kode_bps": "9703380"
+  "parent_kode_bps": "9703380",
+  "parent_kode_dagri": "95.07.10"
 }

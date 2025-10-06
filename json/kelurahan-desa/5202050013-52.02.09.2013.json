@@ -3,5 +3,6 @@
   "nama_bps": "PAJANGAN",
   "kode_dagri": "52.02.09.2013",
   "nama_dagri": "PAJANGAN",
-  "parent_kode_bps": "5202050"
+  "parent_kode_bps": "5202050",
+  "parent_kode_dagri": "52.02.09"
 }

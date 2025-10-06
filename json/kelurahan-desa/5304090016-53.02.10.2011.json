@@ -3,5 +3,6 @@
   "nama_bps": "ENONAPI",
   "kode_dagri": "53.02.10.2011",
   "nama_dagri": "ENO NAPI",
-  "parent_kode_bps": "5304090"
+  "parent_kode_bps": "5304090",
+  "parent_kode_dagri": "53.02.10"
 }

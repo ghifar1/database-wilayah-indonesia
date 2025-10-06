@@ -3,5 +3,6 @@
   "nama_bps": "BOLO",
   "kode_dagri": "35.25.07.2009",
   "nama_dagri": "BOLO",
-  "parent_kode_bps": "3525160"
+  "parent_kode_bps": "3525160",
+  "parent_kode_dagri": "35.25.07"
 }

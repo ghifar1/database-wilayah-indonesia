@@ -3,5 +3,6 @@
   "nama_bps": "ROMA",
   "kode_dagri": "96.05.04.2011",
   "nama_dagri": "ROMA",
-  "parent_kode_bps": "9204020"
+  "parent_kode_bps": "9204020",
+  "parent_kode_dagri": "96.05.04"
 }

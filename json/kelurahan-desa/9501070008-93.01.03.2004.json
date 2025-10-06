@@ -3,5 +3,6 @@
   "nama_bps": "ALATEP",
   "kode_dagri": "93.01.03.2004",
   "nama_dagri": "ALATEP",
-  "parent_kode_bps": "9501070"
+  "parent_kode_bps": "9501070",
+  "parent_kode_dagri": "93.01.03"
 }

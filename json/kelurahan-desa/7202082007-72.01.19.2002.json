@@ -3,5 +3,6 @@
   "nama_bps": "KUNTANG",
   "kode_dagri": "72.01.19.2002",
   "nama_dagri": "KUNTANG",
-  "parent_kode_bps": "7202082"
+  "parent_kode_bps": "7202082",
+  "parent_kode_dagri": "72.01.19"
 }

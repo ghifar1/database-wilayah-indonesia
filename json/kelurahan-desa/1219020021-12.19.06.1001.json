@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG TIRAM",
   "kode_dagri": "12.19.06.1001",
   "nama_dagri": "TANJUNG TIRAM",
-  "parent_kode_bps": "1219020"
+  "parent_kode_bps": "1219020",
+  "parent_kode_dagri": "12.19.06"
 }

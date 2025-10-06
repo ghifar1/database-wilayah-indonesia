@@ -4,5 +4,6 @@
   "kode_dagri": "31.71",
   "nama_dagri": "KOTA ADMINISTRASI JAKARTA PUSAT",
   "parent_kode_bps": "31",
+  "parent_kode_dagri": "31",
   "kode_pos": "10100;10200;10300;10400;10500;10600;10700"
 }

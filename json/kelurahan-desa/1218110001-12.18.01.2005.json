@@ -3,5 +3,6 @@
   "nama_bps": "UJUNG RAMBUNG",
   "kode_dagri": "12.18.01.2005",
   "nama_dagri": "UJUNG RAMBUNG",
-  "parent_kode_bps": "1218110"
+  "parent_kode_bps": "1218110",
+  "parent_kode_dagri": "12.18.01"
 }

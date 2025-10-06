@@ -3,5 +3,6 @@
   "nama_bps": "SALATI",
   "kode_dagri": "82.08.02.2002",
   "nama_dagri": "SALATI",
-  "parent_kode_bps": "8208080"
+  "parent_kode_bps": "8208080",
+  "parent_kode_dagri": "82.08.02"
 }

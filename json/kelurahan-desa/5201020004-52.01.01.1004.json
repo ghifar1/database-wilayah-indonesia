@@ -3,5 +3,6 @@
   "nama_bps": "DASAN GERES",
   "kode_dagri": "52.01.01.1004",
   "nama_dagri": "DASAN GERES",
-  "parent_kode_bps": "5201020"
+  "parent_kode_bps": "5201020",
+  "parent_kode_dagri": "52.01.01"
 }

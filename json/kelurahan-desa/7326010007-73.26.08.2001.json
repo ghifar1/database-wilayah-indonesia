@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANG SALU",
   "kode_dagri": "73.26.08.2001",
   "nama_dagri": "SALU",
-  "parent_kode_bps": "7326010"
+  "parent_kode_bps": "7326010",
+  "parent_kode_dagri": "73.26.08"
 }

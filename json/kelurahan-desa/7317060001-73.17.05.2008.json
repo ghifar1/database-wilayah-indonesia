@@ -3,5 +3,6 @@
   "nama_bps": "BALUTAN",
   "kode_dagri": "73.17.05.2008",
   "nama_dagri": "BALUTAN",
-  "parent_kode_bps": "7317060"
+  "parent_kode_bps": "7317060",
+  "parent_kode_dagri": "73.17.05"
 }

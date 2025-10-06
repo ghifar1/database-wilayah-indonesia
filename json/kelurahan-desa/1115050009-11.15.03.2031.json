@@ -3,5 +3,6 @@
   "nama_bps": "SUAK PERBONG",
   "kode_dagri": "11.15.03.2031",
   "nama_dagri": "SUAK PEUREUBONG",
-  "parent_kode_bps": "1115050"
+  "parent_kode_bps": "1115050",
+  "parent_kode_dagri": "11.15.03"
 }

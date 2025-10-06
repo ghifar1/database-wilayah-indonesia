@@ -3,5 +3,6 @@
   "nama_bps": "DAI",
   "kode_dagri": "81.05.04.2005",
   "nama_dagri": "DAY",
-  "parent_kode_bps": "8107010"
+  "parent_kode_bps": "8107010",
+  "parent_kode_dagri": "81.05.04"
 }

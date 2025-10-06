@@ -3,5 +3,6 @@
   "nama_bps": "AEK MATA",
   "kode_dagri": "12.13.01.2003",
   "nama_dagri": "AEK MATA",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

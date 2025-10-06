@@ -3,5 +3,6 @@
   "nama_bps": "SELAT BARAT",
   "kode_dagri": "62.03.01.1022",
   "nama_dagri": "SELAT BARAT",
-  "parent_kode_bps": "6203040"
+  "parent_kode_bps": "6203040",
+  "parent_kode_dagri": "62.03.01"
 }

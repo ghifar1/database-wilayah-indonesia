@@ -3,5 +3,6 @@
   "nama_bps": "POBOLOBIA",
   "kode_dagri": "72.10.13.2005",
   "nama_dagri": "BOLOBIA",
-  "parent_kode_bps": "7210150"
+  "parent_kode_bps": "7210150",
+  "parent_kode_dagri": "72.10.13"
 }

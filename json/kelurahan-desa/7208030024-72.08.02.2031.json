@@ -3,5 +3,6 @@
   "nama_bps": "PANGKU",
   "kode_dagri": "72.08.02.2031",
   "nama_dagri": "PANGKU",
-  "parent_kode_bps": "7208030"
+  "parent_kode_bps": "7208030",
+  "parent_kode_dagri": "72.08.02"
 }

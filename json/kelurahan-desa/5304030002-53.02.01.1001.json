@@ -3,5 +3,6 @@
   "nama_bps": "SO E",
   "kode_dagri": "53.02.01.1001",
   "nama_dagri": "SOE",
-  "parent_kode_bps": "5304030"
+  "parent_kode_bps": "5304030",
+  "parent_kode_dagri": "53.02.01"
 }

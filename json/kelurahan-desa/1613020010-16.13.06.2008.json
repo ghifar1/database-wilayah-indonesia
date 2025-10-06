@@ -3,5 +3,6 @@
   "nama_bps": "TERUSAN",
   "kode_dagri": "16.13.06.2008",
   "nama_dagri": "TERUSAN",
-  "parent_kode_bps": "1613020"
+  "parent_kode_bps": "1613020",
+  "parent_kode_dagri": "16.13.06"
 }

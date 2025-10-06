@@ -3,5 +3,6 @@
   "nama_bps": "TELADAN",
   "kode_dagri": "12.72.02.1008",
   "nama_dagri": "TELADAN",
-  "parent_kode_bps": "1273030"
+  "parent_kode_bps": "1273030",
+  "parent_kode_dagri": "12.72.02"
 }

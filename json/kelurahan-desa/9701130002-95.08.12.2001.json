@@ -3,5 +3,6 @@
   "nama_bps": "MEBOROK",
   "kode_dagri": "95.08.12.2001",
   "nama_dagri": "MEBOROK",
-  "parent_kode_bps": "9701130"
+  "parent_kode_bps": "9701130",
+  "parent_kode_dagri": "95.08.12"
 }

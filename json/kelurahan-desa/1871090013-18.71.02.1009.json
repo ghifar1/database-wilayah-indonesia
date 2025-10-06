@@ -3,5 +3,6 @@
   "nama_bps": "KORPRI RAYA",
   "kode_dagri": "18.71.02.1009",
   "nama_dagri": "KORPRI RAYA",
-  "parent_kode_bps": "1871090"
+  "parent_kode_bps": "1871090",
+  "parent_kode_dagri": "18.71.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KIRELI",
   "kode_dagri": "93.01.09.2009",
   "nama_dagri": "KIR-ELY",
-  "parent_kode_bps": "9501220"
+  "parent_kode_bps": "9501220",
+  "parent_kode_dagri": "93.01.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAPA",
   "kode_dagri": "13.12.10.2002",
   "nama_dagri": "KAPA",
-  "parent_kode_bps": "1312090"
+  "parent_kode_bps": "1312090",
+  "parent_kode_dagri": "13.12.10"
 }

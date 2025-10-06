@@ -3,5 +3,6 @@
   "nama_bps": "TUTULO",
   "kode_dagri": "75.02.06.2001",
   "nama_dagri": "TUTULO",
-  "parent_kode_bps": "7501042"
+  "parent_kode_bps": "7501042",
+  "parent_kode_dagri": "75.02.06"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MARO",
   "kode_dagri": "93.01.01.1005",
   "nama_dagri": "MARO",
-  "parent_kode_bps": "9501140"
+  "parent_kode_bps": "9501140",
+  "parent_kode_dagri": "93.01.01"
 }

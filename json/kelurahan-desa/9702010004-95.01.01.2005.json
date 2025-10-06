@@ -3,5 +3,6 @@
   "nama_bps": "AUTAKMA",
   "kode_dagri": "95.01.01.2005",
   "nama_dagri": "AUTAKMA",
-  "parent_kode_bps": "9702010"
+  "parent_kode_bps": "9702010",
+  "parent_kode_dagri": "95.01.01"
 }

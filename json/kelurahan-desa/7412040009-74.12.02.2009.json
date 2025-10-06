@@ -3,5 +3,6 @@
   "nama_bps": "TOMBAONE UTAMA",
   "kode_dagri": "74.12.02.2009",
   "nama_dagri": "TAMBAONE UTAMA",
-  "parent_kode_bps": "7412040"
+  "parent_kode_bps": "7412040",
+  "parent_kode_dagri": "74.12.02"
 }

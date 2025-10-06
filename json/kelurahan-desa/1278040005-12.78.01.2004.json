@@ -3,5 +3,6 @@
   "nama_bps": "DAHANA",
   "kode_dagri": "12.78.01.2004",
   "nama_dagri": "DAHANA TABALOHO",
-  "parent_kode_bps": "1278040"
+  "parent_kode_bps": "1278040",
+  "parent_kode_dagri": "12.78.01"
 }

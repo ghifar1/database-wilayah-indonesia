@@ -3,5 +3,6 @@
   "nama_bps": "SEDAHAN JAYA",
   "kode_dagri": "61.11.01.2008",
   "nama_dagri": "SEDAHAN JAYA",
-  "parent_kode_bps": "6111020"
+  "parent_kode_bps": "6111020",
+  "parent_kode_dagri": "61.11.01"
 }

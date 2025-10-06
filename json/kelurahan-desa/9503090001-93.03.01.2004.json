@@ -3,5 +3,6 @@
   "nama_bps": "MAPPI BAWAH",
   "kode_dagri": "93.03.01.2004",
   "nama_dagri": "MAPPI BAWAH/YAMUI",
-  "parent_kode_bps": "9503090"
+  "parent_kode_bps": "9503090",
+  "parent_kode_dagri": "93.03.01"
 }

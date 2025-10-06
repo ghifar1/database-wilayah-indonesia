@@ -3,5 +3,6 @@
   "nama_bps": "PARO",
   "kode_dagri": "95.08.11.2001",
   "nama_dagri": "PARO",
-  "parent_kode_bps": "9701160"
+  "parent_kode_bps": "9701160",
+  "parent_kode_dagri": "95.08.11"
 }

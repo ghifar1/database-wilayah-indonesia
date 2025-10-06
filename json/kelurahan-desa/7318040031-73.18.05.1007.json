@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN LAMUNAN",
   "kode_dagri": "73.18.05.1007",
   "nama_dagri": "LAMUNAN",
-  "parent_kode_bps": "7318040"
+  "parent_kode_bps": "7318040",
+  "parent_kode_dagri": "73.18.05"
 }

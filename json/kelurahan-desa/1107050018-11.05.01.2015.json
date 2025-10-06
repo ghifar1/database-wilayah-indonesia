@@ -3,5 +3,6 @@
   "nama_bps": "LAPANG",
   "kode_dagri": "11.05.01.2015",
   "nama_dagri": "LAPANG",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

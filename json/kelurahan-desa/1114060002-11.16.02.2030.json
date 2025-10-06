@@ -3,5 +3,6 @@
   "nama_bps": "PERKEBUNAN UPAH",
   "kode_dagri": "11.16.02.2030",
   "nama_dagri": "PERKEBUNAN UPAH",
-  "parent_kode_bps": "1114060"
+  "parent_kode_bps": "1114060",
+  "parent_kode_dagri": "11.16.02"
 }

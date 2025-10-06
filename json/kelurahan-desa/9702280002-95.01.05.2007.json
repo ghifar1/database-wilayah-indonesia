@@ -3,5 +3,6 @@
   "nama_bps": "PATMOS",
   "kode_dagri": "95.01.05.2007",
   "nama_dagri": "POITMOS",
-  "parent_kode_bps": "9702280"
+  "parent_kode_bps": "9702280",
+  "parent_kode_dagri": "95.01.05"
 }

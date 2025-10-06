@@ -3,5 +3,6 @@
   "nama_bps": "UPIN",
   "kode_dagri": "93.03.09.2005",
   "nama_dagri": "UPIN",
-  "parent_kode_bps": "9503020"
+  "parent_kode_bps": "9503020",
+  "parent_kode_dagri": "93.03.09"
 }

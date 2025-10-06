@@ -3,5 +3,6 @@
   "nama_bps": "BOMO",
   "kode_dagri": "35.10.25.2005",
   "nama_dagri": "BOMO",
-  "parent_kode_bps": "3510121"
+  "parent_kode_bps": "3510121",
+  "parent_kode_dagri": "35.10.25"
 }

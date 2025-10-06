@@ -3,5 +3,6 @@
   "nama_bps": "BURBIS",
   "kode_dagri": "93.04.07.2003",
   "nama_dagri": "BURBIS",
-  "parent_kode_bps": "9504140"
+  "parent_kode_bps": "9504140",
+  "parent_kode_dagri": "93.04.07"
 }

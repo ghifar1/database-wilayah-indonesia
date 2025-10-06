@@ -3,5 +3,6 @@
   "nama_bps": "SUNDATA",
   "kode_dagri": "13.08.05.2006",
   "nama_dagri": "SUNDATA",
-  "parent_kode_bps": "1309080"
+  "parent_kode_bps": "1309080",
+  "parent_kode_dagri": "13.08.05"
 }

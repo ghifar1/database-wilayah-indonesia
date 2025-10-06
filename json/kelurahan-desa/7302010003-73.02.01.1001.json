@@ -3,5 +3,6 @@
   "nama_bps": "MATTEKKO",
   "kode_dagri": "73.02.01.1001",
   "nama_dagri": "MATEKKO",
-  "parent_kode_bps": "7302010"
+  "parent_kode_bps": "7302010",
+  "parent_kode_dagri": "73.02.01"
 }

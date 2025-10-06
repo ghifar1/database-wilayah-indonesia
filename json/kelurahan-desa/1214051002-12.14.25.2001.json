@@ -3,5 +3,6 @@
   "nama_bps": "MONDROWE",
   "kode_dagri": "12.14.25.2001",
   "nama_dagri": "MONDROWE",
-  "parent_kode_bps": "1214051"
+  "parent_kode_bps": "1214051",
+  "parent_kode_dagri": "12.14.25"
 }

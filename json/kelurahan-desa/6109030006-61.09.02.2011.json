@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI SAMBANG",
   "kode_dagri": "61.09.02.2011",
   "nama_dagri": "SUNGAI SAMBANG",
-  "parent_kode_bps": "6109030"
+  "parent_kode_bps": "6109030",
+  "parent_kode_dagri": "61.09.02"
 }

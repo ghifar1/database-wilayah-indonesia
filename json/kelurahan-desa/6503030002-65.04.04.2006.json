@@ -3,5 +3,6 @@
   "nama_bps": "PERIUK",
   "kode_dagri": "65.04.04.2006",
   "nama_dagri": "PERIUK",
-  "parent_kode_bps": "6503030"
+  "parent_kode_bps": "6503030",
+  "parent_kode_dagri": "65.04.04"
 }

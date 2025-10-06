@@ -3,5 +3,6 @@
   "nama_bps": "NUME",
   "kode_dagri": "94.02.06.2008",
   "nama_dagri": "NUME",
-  "parent_kode_bps": "9608250"
+  "parent_kode_bps": "9608250",
+  "parent_kode_dagri": "94.02.06"
 }

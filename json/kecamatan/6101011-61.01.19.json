@@ -3,5 +3,6 @@
   "nama_bps": "SELAKAU TIMUR",
   "kode_dagri": "61.01.19",
   "nama_dagri": "SELAKAU TIMUR",
-  "parent_kode_bps": "6101"
+  "parent_kode_bps": "6101",
+  "parent_kode_dagri": "61.01"
 }

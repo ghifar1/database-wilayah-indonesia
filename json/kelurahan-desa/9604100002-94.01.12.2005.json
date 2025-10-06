@@ -3,5 +3,6 @@
   "nama_bps": "WADIO",
   "kode_dagri": "94.01.12.2005",
   "nama_dagri": "WADIO",
-  "parent_kode_bps": "9604100"
+  "parent_kode_bps": "9604100",
+  "parent_kode_dagri": "94.01.12"
 }

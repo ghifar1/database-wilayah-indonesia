@@ -3,5 +3,6 @@
   "nama_bps": "BALAI SEBUT",
   "kode_dagri": "61.03.04.2001",
   "nama_dagri": "BALAI SEBUT",
-  "parent_kode_bps": "6105120"
+  "parent_kode_bps": "6105120",
+  "parent_kode_dagri": "61.03.04"
 }

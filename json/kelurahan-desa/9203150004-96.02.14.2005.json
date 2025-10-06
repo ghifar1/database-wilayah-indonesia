@@ -3,5 +3,6 @@
   "nama_bps": "ALMA",
   "kode_dagri": "96.02.14.2005",
   "nama_dagri": "ALMA",
-  "parent_kode_bps": "9203150"
+  "parent_kode_bps": "9203150",
+  "parent_kode_dagri": "96.02.14"
 }

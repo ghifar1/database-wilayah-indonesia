@@ -3,5 +3,6 @@
   "nama_bps": "MALAWILI",
   "kode_dagri": "96.01.05.1002",
   "nama_dagri": "MALAWILI",
-  "parent_kode_bps": "9202090"
+  "parent_kode_bps": "9202090",
+  "parent_kode_dagri": "96.01.05"
 }

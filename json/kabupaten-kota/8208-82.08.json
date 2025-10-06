@@ -3,5 +3,6 @@
   "nama_bps": "KAB. PULAU TALIABU",
   "kode_dagri": "82.08",
   "nama_dagri": "KABUPATEN PULAU TALIABU",
-  "parent_kode_bps": "82"
+  "parent_kode_bps": "82",
+  "parent_kode_dagri": "82"
 }

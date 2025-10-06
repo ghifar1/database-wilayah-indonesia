@@ -3,5 +3,6 @@
   "nama_bps": "GUMARUNTAR",
   "kode_dagri": "12.20.02.2071",
   "nama_dagri": "GUMARUNTAR",
-  "parent_kode_bps": "1220070"
+  "parent_kode_bps": "1220070",
+  "parent_kode_dagri": "12.20.02"
 }

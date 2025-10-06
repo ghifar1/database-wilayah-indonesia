@@ -3,5 +3,6 @@
   "nama_bps": "FALLAS",
   "kode_dagri": "53.02.10.2002",
   "nama_dagri": "FALAS",
-  "parent_kode_bps": "5304090"
+  "parent_kode_bps": "5304090",
+  "parent_kode_dagri": "53.02.10"
 }

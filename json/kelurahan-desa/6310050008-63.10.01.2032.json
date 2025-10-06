@@ -3,5 +3,6 @@
   "nama_bps": "POLEWALI MARAJAE",
   "kode_dagri": "63.10.01.2032",
   "nama_dagri": "POLEWALI MARAJAE",
-  "parent_kode_bps": "6310050"
+  "parent_kode_bps": "6310050",
+  "parent_kode_dagri": "63.10.01"
 }

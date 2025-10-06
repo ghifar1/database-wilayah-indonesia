@@ -3,5 +3,6 @@
   "nama_bps": "KLAGEN",
   "kode_dagri": "33.16.04.2005",
   "nama_dagri": "KLAGEN",
-  "parent_kode_bps": "3316040"
+  "parent_kode_bps": "3316040",
+  "parent_kode_dagri": "33.16.04"
 }

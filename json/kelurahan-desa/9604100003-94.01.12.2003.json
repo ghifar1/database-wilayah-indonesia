@@ -3,5 +3,6 @@
   "nama_bps": "GERBANG SADU",
   "kode_dagri": "94.01.12.2003",
   "nama_dagri": "GERBANG SADU",
-  "parent_kode_bps": "9604100"
+  "parent_kode_bps": "9604100",
+  "parent_kode_dagri": "94.01.12"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "LANDIKMA",
   "kode_dagri": "95.06.03.2003",
   "nama_dagri": "LANDIKMA",
-  "parent_kode_bps": "9706030"
+  "parent_kode_bps": "9706030",
+  "parent_kode_dagri": "95.06.03"
 }

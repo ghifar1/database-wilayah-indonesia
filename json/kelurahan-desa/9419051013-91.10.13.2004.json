@@ -3,5 +3,6 @@
   "nama_bps": "EBRAM",
   "kode_dagri": "91.10.13.2004",
   "nama_dagri": "EBRAM",
-  "parent_kode_bps": "9419051"
+  "parent_kode_bps": "9419051",
+  "parent_kode_dagri": "91.10.13"
 }

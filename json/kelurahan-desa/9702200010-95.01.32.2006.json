@@ -3,5 +3,6 @@
   "nama_bps": "SEKOM",
   "kode_dagri": "95.01.32.2006",
   "nama_dagri": "SEKOM",
-  "parent_kode_bps": "9702200"
+  "parent_kode_bps": "9702200",
+  "parent_kode_dagri": "95.01.32"
 }

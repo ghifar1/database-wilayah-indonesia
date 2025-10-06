@@ -3,5 +3,6 @@
   "nama_bps": "APNAE",
   "kode_dagri": "95.01.30.2007",
   "nama_dagri": "APNAE",
-  "parent_kode_bps": "9702180"
+  "parent_kode_bps": "9702180",
+  "parent_kode_dagri": "95.01.30"
 }

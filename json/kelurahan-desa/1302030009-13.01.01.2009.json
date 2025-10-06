@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG LAMA INDERAPURA",
   "kode_dagri": "13.01.01.2009",
   "nama_dagri": "SIMPANG LAMA INDERAPURA",
-  "parent_kode_bps": "1302030"
+  "parent_kode_bps": "1302030",
+  "parent_kode_dagri": "13.01.01"
 }

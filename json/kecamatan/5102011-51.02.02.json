@@ -3,5 +3,6 @@
   "nama_bps": "SELEMADEG TIMUR",
   "kode_dagri": "51.02.02",
   "nama_dagri": "SELEMADEG TIMUR",
-  "parent_kode_bps": "5102"
+  "parent_kode_bps": "5102",
+  "parent_kode_dagri": "51.02"
 }

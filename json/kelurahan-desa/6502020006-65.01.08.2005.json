@@ -3,5 +3,6 @@
   "nama_bps": "LONG LEMBU",
   "kode_dagri": "65.01.08.2005",
   "nama_dagri": "LONG LEMBU",
-  "parent_kode_bps": "6502020"
+  "parent_kode_bps": "6502020",
+  "parent_kode_dagri": "65.01.08"
 }

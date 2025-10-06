@@ -3,5 +3,6 @@
   "nama_bps": "KASANGO",
   "kode_dagri": "82.08.02.2004",
   "nama_dagri": "KASANGO",
-  "parent_kode_bps": "8208080"
+  "parent_kode_bps": "8208080",
+  "parent_kode_dagri": "82.08.02"
 }

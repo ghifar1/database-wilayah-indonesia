@@ -3,5 +3,6 @@
   "nama_bps": "WINAM",
   "kode_dagri": "95.05.03.2003",
   "nama_dagri": "WINAM",
-  "parent_kode_bps": "9705040"
+  "parent_kode_bps": "9705040",
+  "parent_kode_dagri": "95.05.03"
 }

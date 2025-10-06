@@ -3,5 +3,6 @@
   "nama_bps": "DARUSSALAM",
   "kode_dagri": "12.13.01.2004",
   "nama_dagri": "DARUSSALAM",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

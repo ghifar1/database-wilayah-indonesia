@@ -3,5 +3,6 @@
   "nama_bps": "JOGLO",
   "kode_dagri": "33.72.05.1015",
   "nama_dagri": "JOGLO",
-  "parent_kode_bps": "3372050"
+  "parent_kode_bps": "3372050",
+  "parent_kode_dagri": "33.72.05"
 }

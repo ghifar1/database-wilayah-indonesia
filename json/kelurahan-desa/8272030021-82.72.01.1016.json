@@ -3,5 +3,6 @@
   "nama_bps": "TAMBULA",
   "kode_dagri": "82.72.01.1016",
   "nama_dagri": "TAMBULA",
-  "parent_kode_bps": "8272030"
+  "parent_kode_bps": "8272030",
+  "parent_kode_dagri": "82.72.01"
 }

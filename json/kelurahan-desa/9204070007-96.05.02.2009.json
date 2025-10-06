@@ -3,5 +3,6 @@
   "nama_bps": "JARAT",
   "kode_dagri": "96.05.02.2009",
   "nama_dagri": "YARAT",
-  "parent_kode_bps": "9204070"
+  "parent_kode_bps": "9204070",
+  "parent_kode_dagri": "96.05.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAB. BENGKALIS",
   "kode_dagri": "14.03",
   "nama_dagri": "KABUPATEN BENGKALIS",
-  "parent_kode_bps": "14"
+  "parent_kode_bps": "14",
+  "parent_kode_dagri": "14"
 }

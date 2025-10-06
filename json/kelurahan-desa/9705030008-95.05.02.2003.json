@@ -3,5 +3,6 @@
   "nama_bps": "TIMERIA",
   "kode_dagri": "95.05.02.2003",
   "nama_dagri": "TIMERIA",
-  "parent_kode_bps": "9705030"
+  "parent_kode_bps": "9705030",
+  "parent_kode_dagri": "95.05.02"
 }

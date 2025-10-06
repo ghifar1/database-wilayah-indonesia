@@ -3,5 +3,6 @@
   "nama_bps": "ENGROS",
   "kode_dagri": "91.71.03.2004",
   "nama_dagri": "ENGGROS",
-  "parent_kode_bps": "9471020"
+  "parent_kode_bps": "9471020",
+  "parent_kode_dagri": "91.71.03"
 }

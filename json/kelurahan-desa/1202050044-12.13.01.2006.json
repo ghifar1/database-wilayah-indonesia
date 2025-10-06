@@ -3,5 +3,6 @@
   "nama_bps": "GUNUNG MANAON",
   "kode_dagri": "12.13.01.2006",
   "nama_dagri": "GUNUNG MANAON",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

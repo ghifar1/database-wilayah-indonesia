@@ -3,5 +3,6 @@
   "nama_bps": "TERKURY",
   "kode_dagri": "81.09.05.2030",
   "nama_dagri": "TERKURI",
-  "parent_kode_bps": "8109020"
+  "parent_kode_bps": "8109020",
+  "parent_kode_dagri": "81.09.05"
 }

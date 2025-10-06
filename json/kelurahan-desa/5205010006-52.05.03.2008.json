@@ -3,5 +3,6 @@
   "nama_bps": "SAWE",
   "kode_dagri": "52.05.03.2008",
   "nama_dagri": "SAWE",
-  "parent_kode_bps": "5205010"
+  "parent_kode_bps": "5205010",
+  "parent_kode_dagri": "52.05.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "DODAP MIKASA",
   "kode_dagri": "71.10.01.2010",
   "nama_dagri": "DODOP MIKASA",
-  "parent_kode_bps": "7111020"
+  "parent_kode_bps": "7111020",
+  "parent_kode_dagri": "71.10.01"
 }

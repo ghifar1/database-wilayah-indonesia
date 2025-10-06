@@ -3,5 +3,6 @@
   "nama_bps": "PIRPIS",
   "kode_dagri": "93.04.19.2006",
   "nama_dagri": "PIRPIS",
-  "parent_kode_bps": "9504080"
+  "parent_kode_bps": "9504080",
+  "parent_kode_dagri": "93.04.19"
 }

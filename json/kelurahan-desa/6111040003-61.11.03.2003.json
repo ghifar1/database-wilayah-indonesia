@@ -3,5 +3,6 @@
   "nama_bps": "TELUK BATANG",
   "kode_dagri": "61.11.03.2003",
   "nama_dagri": "TELUKBATANG",
-  "parent_kode_bps": "6111040"
+  "parent_kode_bps": "6111040",
+  "parent_kode_dagri": "61.11.03"
 }

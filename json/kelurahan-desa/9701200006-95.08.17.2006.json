@@ -3,5 +3,6 @@
   "nama_bps": "LAKDA",
   "kode_dagri": "95.08.17.2006",
   "nama_dagri": "LAKDA",
-  "parent_kode_bps": "9701200"
+  "parent_kode_bps": "9701200",
+  "parent_kode_dagri": "95.08.17"
 }

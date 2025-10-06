@@ -3,5 +3,6 @@
   "nama_bps": "LEMBANG SASAK",
   "kode_dagri": "73.18.02.2012",
   "nama_dagri": "SASAK",
-  "parent_kode_bps": "7318051"
+  "parent_kode_bps": "7318051",
+  "parent_kode_dagri": "73.18.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BIOUTI",
   "kode_dagri": "12.04.10.2025",
   "nama_dagri": "BIOUTI",
-  "parent_kode_bps": "1201060"
+  "parent_kode_bps": "1201060",
+  "parent_kode_dagri": "12.04.10"
 }

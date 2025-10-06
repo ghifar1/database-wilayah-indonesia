@@ -3,5 +3,6 @@
   "nama_bps": "HILIKANA",
   "kode_dagri": "12.14.04.2025",
   "nama_dagri": "HILIKANA",
-  "parent_kode_bps": "1214010"
+  "parent_kode_bps": "1214010",
+  "parent_kode_dagri": "12.14.04"
 }

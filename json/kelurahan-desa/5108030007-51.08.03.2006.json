@@ -3,5 +3,6 @@
   "nama_bps": "TITAB",
   "kode_dagri": "51.08.03.2006",
   "nama_dagri": "TITAB",
-  "parent_kode_bps": "5108030"
+  "parent_kode_bps": "5108030",
+  "parent_kode_dagri": "51.08.03"
 }

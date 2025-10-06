@@ -3,5 +3,6 @@
   "nama_bps": "ANTARA",
   "kode_dagri": "11.04.01.2036",
   "nama_dagri": "ANTARA",
-  "parent_kode_bps": "1106010"
+  "parent_kode_bps": "1106010",
+  "parent_kode_dagri": "11.04.01"
 }

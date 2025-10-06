@@ -3,5 +3,6 @@
   "nama_bps": "FINAI",
   "kode_dagri": "95.04.07.2010",
   "nama_dagri": "FINAI",
-  "parent_kode_bps": "9704200"
+  "parent_kode_bps": "9704200",
+  "parent_kode_dagri": "95.04.07"
 }

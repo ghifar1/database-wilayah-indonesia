@@ -3,5 +3,6 @@
   "nama_bps": "PANYABUNGAN",
   "kode_dagri": "12.13.01",
   "nama_dagri": "PANYABUNGAN",
-  "parent_kode_bps": "1202"
+  "parent_kode_bps": "1202",
+  "parent_kode_dagri": "12.13"
 }

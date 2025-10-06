@@ -3,5 +3,6 @@
   "nama_bps": "SERMA",
   "kode_dagri": "96.05.09.2009",
   "nama_dagri": "SERMA",
-  "parent_kode_bps": "9204210"
+  "parent_kode_bps": "9204210",
+  "parent_kode_dagri": "96.05.09"
 }

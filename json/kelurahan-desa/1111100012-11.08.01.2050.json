@@ -3,5 +3,6 @@
   "nama_bps": "BUKET LUENG BATA",
   "kode_dagri": "11.08.01.2050",
   "nama_dagri": "LUENG BATA",
-  "parent_kode_bps": "1111100"
+  "parent_kode_bps": "1111100",
+  "parent_kode_dagri": "11.08.01"
 }

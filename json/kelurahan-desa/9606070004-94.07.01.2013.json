@@ -3,5 +3,6 @@
   "nama_bps": "PESIGA",
   "kode_dagri": "94.07.01.2013",
   "nama_dagri": "PESIGA",
-  "parent_kode_bps": "9606070"
+  "parent_kode_bps": "9606070",
+  "parent_kode_dagri": "94.07.01"
 }

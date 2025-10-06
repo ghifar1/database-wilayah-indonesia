@@ -3,5 +3,6 @@
   "nama_bps": "ONEIBO",
   "kode_dagri": "94.08.01.2009",
   "nama_dagri": "ONEIBO",
-  "parent_kode_bps": "9603030"
+  "parent_kode_bps": "9603030",
+  "parent_kode_dagri": "94.08.01"
 }

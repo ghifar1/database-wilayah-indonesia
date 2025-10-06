@@ -3,5 +3,6 @@
   "nama_bps": "KEDIS",
   "kode_dagri": "51.08.03.2009",
   "nama_dagri": "KEDIS",
-  "parent_kode_bps": "5108030"
+  "parent_kode_bps": "5108030",
+  "parent_kode_dagri": "51.08.03"
 }

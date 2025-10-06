@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI LOBAN",
   "kode_dagri": "63.10.03.2002",
   "nama_dagri": "SUNGAILOBAN",
-  "parent_kode_bps": "6310020"
+  "parent_kode_bps": "6310020",
+  "parent_kode_dagri": "63.10.03"
 }

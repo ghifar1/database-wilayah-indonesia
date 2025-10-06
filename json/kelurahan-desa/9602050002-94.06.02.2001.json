@@ -3,5 +3,6 @@
   "nama_bps": "BOMOMANI",
   "kode_dagri": "94.06.02.2001",
   "nama_dagri": "BOBOMANI",
-  "parent_kode_bps": "9602050"
+  "parent_kode_bps": "9602050",
+  "parent_kode_dagri": "94.06.02"
 }

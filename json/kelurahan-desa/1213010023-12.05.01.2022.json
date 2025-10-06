@@ -3,5 +3,6 @@
   "nama_bps": "UJUNG BANDAR",
   "kode_dagri": "12.05.01.2022",
   "nama_dagri": "UJUNG BANDAR",
-  "parent_kode_bps": "1213010"
+  "parent_kode_bps": "1213010",
+  "parent_kode_dagri": "12.05.01"
 }

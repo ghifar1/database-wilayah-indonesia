@@ -3,5 +3,6 @@
   "nama_bps": "SIGUNTUR",
   "kode_dagri": "13.10.04.2002",
   "nama_dagri": "SIGUNTUR",
-  "parent_kode_bps": "1311030"
+  "parent_kode_bps": "1311030",
+  "parent_kode_dagri": "13.10.04"
 }

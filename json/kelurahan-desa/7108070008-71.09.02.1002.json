@@ -3,5 +3,6 @@
   "nama_bps": "PASENG",
   "kode_dagri": "71.09.02.1002",
   "nama_dagri": "PASENG",
-  "parent_kode_bps": "7108070"
+  "parent_kode_bps": "7108070",
+  "parent_kode_dagri": "71.09.02"
 }

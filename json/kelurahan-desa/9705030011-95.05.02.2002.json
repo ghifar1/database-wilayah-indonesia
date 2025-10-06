@@ -3,5 +3,6 @@
   "nama_bps": "DIBUNGGEN",
   "kode_dagri": "95.05.02.2002",
   "nama_dagri": "DIBUNGGEN",
-  "parent_kode_bps": "9705030"
+  "parent_kode_bps": "9705030",
+  "parent_kode_dagri": "95.05.02"
 }

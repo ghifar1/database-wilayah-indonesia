@@ -3,5 +3,6 @@
   "nama_bps": "IBE",
   "kode_dagri": "96.04.01.2005",
   "nama_dagri": "IBE",
-  "parent_kode_bps": "9205070"
+  "parent_kode_bps": "9205070",
+  "parent_kode_dagri": "96.04.01"
 }

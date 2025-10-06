@@ -3,5 +3,6 @@
   "nama_bps": "ELES",
   "kode_dagri": "96.02.03.2003",
   "nama_dagri": "ELLES",
-  "parent_kode_bps": "9203130"
+  "parent_kode_bps": "9203130",
+  "parent_kode_dagri": "96.02.03"
 }

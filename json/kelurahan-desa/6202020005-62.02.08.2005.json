@@ -3,5 +3,6 @@
   "nama_bps": "SABAMBAN",
   "kode_dagri": "62.02.08.2005",
   "nama_dagri": "SEBAMBAN",
-  "parent_kode_bps": "6202020"
+  "parent_kode_bps": "6202020",
+  "parent_kode_dagri": "62.02.08"
 }

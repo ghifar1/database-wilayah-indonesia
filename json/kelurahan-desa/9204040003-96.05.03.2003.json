@@ -3,5 +3,6 @@
   "nama_bps": "AITREM",
   "kode_dagri": "96.05.03.2003",
   "nama_dagri": "AITREM",
-  "parent_kode_bps": "9204040"
+  "parent_kode_bps": "9204040",
+  "parent_kode_dagri": "96.05.03"
 }

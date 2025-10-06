@@ -3,5 +3,6 @@
   "nama_bps": "PERUGAIAN",
   "kode_dagri": "17.04.03.2030",
   "nama_dagri": "PERUGAIAN",
-  "parent_kode_bps": "1704070"
+  "parent_kode_bps": "1704070",
+  "parent_kode_dagri": "17.04.03"
 }

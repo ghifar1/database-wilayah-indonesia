@@ -3,5 +3,6 @@
   "nama_bps": "KAMPUNG BLANG",
   "kode_dagri": "11.14.02.2004",
   "nama_dagri": "GAMPONG BLANG",
-  "parent_kode_bps": "1116030"
+  "parent_kode_bps": "1116030",
+  "parent_kode_dagri": "11.14.02"
 }

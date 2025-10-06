@@ -3,5 +3,6 @@
   "nama_bps": "KALARIN",
   "kode_dagri": "95.05.05.2001",
   "nama_dagri": "KALARIN",
-  "parent_kode_bps": "9705020"
+  "parent_kode_bps": "9705020",
+  "parent_kode_dagri": "95.05.05"
 }

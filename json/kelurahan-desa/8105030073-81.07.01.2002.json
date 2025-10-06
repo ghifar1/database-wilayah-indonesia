@@ -3,5 +3,6 @@
   "nama_bps": "NAPAR",
   "kode_dagri": "81.07.01.2002",
   "nama_dagri": "NAFAR",
-  "parent_kode_bps": "8105030"
+  "parent_kode_bps": "8105030",
+  "parent_kode_dagri": "81.07.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BANGKO PUSAKO",
   "kode_dagri": "14.07.10",
   "nama_dagri": "BANGKO PUSAKO",
-  "parent_kode_bps": "1409"
+  "parent_kode_bps": "1409",
+  "parent_kode_dagri": "14.07"
 }

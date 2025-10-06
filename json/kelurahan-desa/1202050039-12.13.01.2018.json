@@ -3,5 +3,6 @@
   "nama_bps": "PANYABUNGAN JAE",
   "kode_dagri": "12.13.01.2018",
   "nama_dagri": "PANYABUNGAN JAE",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MASMASPOP",
   "kode_dagri": "96.01.10.2006",
   "nama_dagri": "MASMAPOP",
-  "parent_kode_bps": "9202010"
+  "parent_kode_bps": "9202010",
+  "parent_kode_dagri": "96.01.10"
 }

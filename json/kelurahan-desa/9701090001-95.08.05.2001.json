@@ -3,5 +3,6 @@
   "nama_bps": "GESELEMA",
   "kode_dagri": "95.08.05.2001",
   "nama_dagri": "GESELMA",
-  "parent_kode_bps": "9701090"
+  "parent_kode_bps": "9701090",
+  "parent_kode_dagri": "95.08.05"
 }

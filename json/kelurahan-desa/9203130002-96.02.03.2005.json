@@ -3,5 +3,6 @@
   "nama_bps": "SFAGYO",
   "kode_dagri": "96.02.03.2005",
   "nama_dagri": "SFAKYO",
-  "parent_kode_bps": "9203130"
+  "parent_kode_bps": "9203130",
+  "parent_kode_dagri": "96.02.03"
 }

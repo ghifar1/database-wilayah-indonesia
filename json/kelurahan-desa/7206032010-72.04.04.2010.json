@@ -3,5 +3,6 @@
   "nama_bps": "BASI",
   "kode_dagri": "72.04.04.2010",
   "nama_dagri": "BASI",
-  "parent_kode_bps": "7206032"
+  "parent_kode_bps": "7206032",
+  "parent_kode_dagri": "72.04.04"
 }

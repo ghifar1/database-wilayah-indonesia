@@ -3,5 +3,6 @@
   "nama_bps": "KIMAAM",
   "kode_dagri": "93.01.04",
   "nama_dagri": "KIMAAM",
-  "parent_kode_bps": "9501"
+  "parent_kode_bps": "9501",
+  "parent_kode_dagri": "93.01"
 }

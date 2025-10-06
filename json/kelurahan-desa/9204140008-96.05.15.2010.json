@@ -3,5 +3,6 @@
   "nama_bps": "SAGRIM",
   "kode_dagri": "96.05.15.2010",
   "nama_dagri": "SAGRIM",
-  "parent_kode_bps": "9204140"
+  "parent_kode_bps": "9204140",
+  "parent_kode_dagri": "96.05.15"
 }

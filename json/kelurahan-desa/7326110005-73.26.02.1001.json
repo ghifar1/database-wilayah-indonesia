@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN BORI",
   "kode_dagri": "73.26.02.1001",
   "nama_dagri": "BORI",
-  "parent_kode_bps": "7326110"
+  "parent_kode_bps": "7326110",
+  "parent_kode_dagri": "73.26.02"
 }

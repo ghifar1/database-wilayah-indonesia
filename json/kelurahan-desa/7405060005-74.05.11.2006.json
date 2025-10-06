@@ -3,5 +3,6 @@
   "nama_bps": "BATU JAYA",
   "kode_dagri": "74.05.11.2006",
   "nama_dagri": "BATU JAYA",
-  "parent_kode_bps": "7405060"
+  "parent_kode_bps": "7405060",
+  "parent_kode_dagri": "74.05.11"
 }

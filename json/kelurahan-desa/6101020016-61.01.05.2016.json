@@ -3,5 +3,6 @@
   "nama_bps": "SEBATUAN",
   "kode_dagri": "61.01.05.2016",
   "nama_dagri": "SEBATUAN",
-  "parent_kode_bps": "6101020"
+  "parent_kode_bps": "6101020",
+  "parent_kode_dagri": "61.01.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BANJARASRI",
   "kode_dagri": "35.15.06.2008",
   "nama_dagri": "BANJARASRI",
-  "parent_kode_bps": "3515060"
+  "parent_kode_bps": "3515060",
+  "parent_kode_dagri": "35.15.06"
 }

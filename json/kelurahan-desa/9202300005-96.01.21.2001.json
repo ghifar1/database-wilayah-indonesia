@@ -3,5 +3,6 @@
   "nama_bps": "DASRI",
   "kode_dagri": "96.01.21.2001",
   "nama_dagri": "DASRI",
-  "parent_kode_bps": "9202300"
+  "parent_kode_bps": "9202300",
+  "parent_kode_dagri": "96.01.21"
 }

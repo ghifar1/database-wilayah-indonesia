@@ -3,5 +3,6 @@
   "nama_bps": "BANGKO BARAT",
   "kode_dagri": "15.02.10",
   "nama_dagri": "BANGKO  BARAT",
-  "parent_kode_bps": "1502"
+  "parent_kode_bps": "1502",
+  "parent_kode_dagri": "15.02"
 }

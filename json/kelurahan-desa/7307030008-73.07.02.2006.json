@@ -3,5 +3,6 @@
   "nama_bps": "PALAE",
   "kode_dagri": "73.07.02.2006",
   "nama_dagri": "PALAE",
-  "parent_kode_bps": "7307030"
+  "parent_kode_bps": "7307030",
+  "parent_kode_dagri": "73.07.02"
 }

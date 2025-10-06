@@ -3,5 +3,6 @@
   "nama_bps": "PULO KEDEP",
   "kode_dagri": "11.75.04.2010",
   "nama_dagri": "PULO KEDEP",
-  "parent_kode_bps": "1175040"
+  "parent_kode_bps": "1175040",
+  "parent_kode_dagri": "11.75.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SALIDO",
   "kode_dagri": "13.01.05.2003",
   "nama_dagri": "SALIDO",
-  "parent_kode_bps": "1302090"
+  "parent_kode_bps": "1302090",
+  "parent_kode_dagri": "13.01.05"
 }

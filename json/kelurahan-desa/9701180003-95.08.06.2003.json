@@ -3,5 +3,6 @@
   "nama_bps": "DOBOPEM",
   "kode_dagri": "95.08.06.2003",
   "nama_dagri": "DOBOPEM",
-  "parent_kode_bps": "9701180"
+  "parent_kode_bps": "9701180",
+  "parent_kode_dagri": "95.08.06"
 }

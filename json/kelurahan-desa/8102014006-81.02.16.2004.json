@@ -3,5 +3,6 @@
   "nama_bps": "EVU",
   "kode_dagri": "81.02.16.2004",
   "nama_dagri": "EVU",
-  "parent_kode_bps": "8102014"
+  "parent_kode_bps": "8102014",
+  "parent_kode_dagri": "81.02.16"
 }

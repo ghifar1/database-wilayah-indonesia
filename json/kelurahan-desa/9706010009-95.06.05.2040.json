@@ -3,5 +3,6 @@
   "nama_bps": "PAMI",
   "kode_dagri": "95.06.05.2040",
   "nama_dagri": "PAMI",
-  "parent_kode_bps": "9706010"
+  "parent_kode_bps": "9706010",
+  "parent_kode_dagri": "95.06.05"
 }

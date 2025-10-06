@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG MESUJI",
   "kode_dagri": "18.11.05.2010",
   "nama_dagri": "SIMPANG MESUJI",
-  "parent_kode_bps": "1811020"
+  "parent_kode_bps": "1811020",
+  "parent_kode_dagri": "18.11.05"
 }

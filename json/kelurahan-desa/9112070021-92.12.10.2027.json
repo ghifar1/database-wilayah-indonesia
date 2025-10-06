@@ -3,5 +3,6 @@
   "nama_bps": "NTAP",
   "kode_dagri": "92.12.10.2027",
   "nama_dagri": "NTAP",
-  "parent_kode_bps": "9112070"
+  "parent_kode_bps": "9112070",
+  "parent_kode_dagri": "92.12.10"
 }

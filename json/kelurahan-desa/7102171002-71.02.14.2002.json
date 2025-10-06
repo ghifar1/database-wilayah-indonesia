@@ -3,5 +3,6 @@
   "nama_bps": "KEMBES SATU",
   "kode_dagri": "71.02.14.2002",
   "nama_dagri": "KEMBES I",
-  "parent_kode_bps": "7102171"
+  "parent_kode_bps": "7102171",
+  "parent_kode_dagri": "71.02.14"
 }

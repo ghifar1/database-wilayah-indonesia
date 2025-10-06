@@ -3,5 +3,6 @@
   "nama_bps": "LUNG FALA",
   "kode_dagri": "65.02.12.2001",
   "nama_dagri": "LUNG FALA",
-  "parent_kode_bps": "6501120"
+  "parent_kode_bps": "6501120",
+  "parent_kode_dagri": "65.02.12"
 }

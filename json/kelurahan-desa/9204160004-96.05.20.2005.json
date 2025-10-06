@@ -3,5 +3,6 @@
   "nama_bps": "ISME",
   "kode_dagri": "96.05.20.2005",
   "nama_dagri": "ISME",
-  "parent_kode_bps": "9204160"
+  "parent_kode_bps": "9204160",
+  "parent_kode_dagri": "96.05.20"
 }

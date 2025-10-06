@@ -3,5 +3,6 @@
   "nama_bps": "TELUK MELANAU",
   "kode_dagri": "61.11.02.2001",
   "nama_dagri": "TELUK MELANO",
-  "parent_kode_bps": "6111030"
+  "parent_kode_bps": "6111030",
+  "parent_kode_dagri": "61.11.02"
 }

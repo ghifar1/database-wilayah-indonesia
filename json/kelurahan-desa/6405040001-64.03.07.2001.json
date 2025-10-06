@@ -3,5 +3,6 @@
   "nama_bps": "PEGAT",
   "kode_dagri": "64.03.07.2001",
   "nama_dagri": "PEGAT BATUMBUK",
-  "parent_kode_bps": "6405040"
+  "parent_kode_bps": "6405040",
+  "parent_kode_dagri": "64.03.07"
 }

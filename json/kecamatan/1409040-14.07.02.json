@@ -3,5 +3,6 @@
   "nama_bps": "BANGKO",
   "kode_dagri": "14.07.02",
   "nama_dagri": "BANGKO",
-  "parent_kode_bps": "1409"
+  "parent_kode_bps": "1409",
+  "parent_kode_dagri": "14.07"
 }

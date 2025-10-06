@@ -3,5 +3,6 @@
   "nama_bps": "PUSUAGA",
   "kode_dagri": "95.03.01.2006",
   "nama_dagri": "PUSUAGA",
-  "parent_kode_bps": "9707010"
+  "parent_kode_bps": "9707010",
+  "parent_kode_dagri": "95.03.01"
 }

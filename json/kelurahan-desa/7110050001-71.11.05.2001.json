@@ -3,5 +3,6 @@
   "nama_bps": "MOTANDOI",
   "kode_dagri": "71.11.05.2001",
   "nama_dagri": "MOTANDOI",
-  "parent_kode_bps": "7110050"
+  "parent_kode_bps": "7110050",
+  "parent_kode_dagri": "71.11.05"
 }

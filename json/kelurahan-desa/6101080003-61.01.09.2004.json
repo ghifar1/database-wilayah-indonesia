@@ -3,5 +3,6 @@
   "nama_bps": "SANATAB",
   "kode_dagri": "61.01.09.2004",
   "nama_dagri": "SANATAB",
-  "parent_kode_bps": "6101080"
+  "parent_kode_bps": "6101080",
+  "parent_kode_dagri": "61.01.09"
 }

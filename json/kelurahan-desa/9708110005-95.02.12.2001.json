@@ -3,5 +3,6 @@
   "nama_bps": "BAPE",
   "kode_dagri": "95.02.12.2001",
   "nama_dagri": "BAPE",
-  "parent_kode_bps": "9708110"
+  "parent_kode_bps": "9708110",
+  "parent_kode_dagri": "95.02.12"
 }

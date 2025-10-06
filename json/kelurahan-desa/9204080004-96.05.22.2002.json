@@ -3,5 +3,6 @@
   "nama_bps": "AWIT",
   "kode_dagri": "96.05.22.2002",
   "nama_dagri": "AWIT",
-  "parent_kode_bps": "9204080"
+  "parent_kode_bps": "9204080",
+  "parent_kode_dagri": "96.05.22"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BIRA BARAT",
   "kode_dagri": "35.27.12.2007",
   "nama_dagri": "BIRA BARAT",
-  "parent_kode_bps": "3527110"
+  "parent_kode_bps": "3527110",
+  "parent_kode_dagri": "35.27.12"
 }

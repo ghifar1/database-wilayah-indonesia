@@ -3,5 +3,6 @@
   "nama_bps": "PASAR HILIR",
   "kode_dagri": "12.13.01.1022",
   "nama_dagri": "PASAR HILIR",
-  "parent_kode_bps": "1202050"
+  "parent_kode_bps": "1202050",
+  "parent_kode_dagri": "12.13.01"
 }

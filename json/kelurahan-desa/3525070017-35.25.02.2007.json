@@ -3,5 +3,6 @@
   "nama_bps": "KEDUNGSUMBER",
   "kode_dagri": "35.25.02.2007",
   "nama_dagri": "KEDUNGSUMBER",
-  "parent_kode_bps": "3525070"
+  "parent_kode_bps": "3525070",
+  "parent_kode_dagri": "35.25.02"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SAYAL",
   "kode_dagri": "96.02.12.2003",
   "nama_dagri": "SAYAL",
-  "parent_kode_bps": "9203110"
+  "parent_kode_bps": "9203110",
+  "parent_kode_dagri": "96.02.12"
 }

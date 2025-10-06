@@ -3,5 +3,6 @@
   "nama_bps": "SEMBIKUAN",
   "kode_dagri": "62.08.05.2007",
   "nama_dagri": "SEMBIKUAN",
-  "parent_kode_bps": "6206031"
+  "parent_kode_bps": "6206031",
+  "parent_kode_dagri": "62.08.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAJAI",
   "kode_dagri": "13.12.04.2001",
   "nama_dagri": "KAJAI",
-  "parent_kode_bps": "1312070"
+  "parent_kode_bps": "1312070",
+  "parent_kode_dagri": "13.12.04"
 }

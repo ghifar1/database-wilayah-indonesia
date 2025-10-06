@@ -3,5 +3,6 @@
   "nama_bps": "KILMID",
   "kode_dagri": "95.08.14.2004",
   "nama_dagri": "KILMID",
-  "parent_kode_bps": "9701100"
+  "parent_kode_bps": "9701100",
+  "parent_kode_dagri": "95.08.14"
 }

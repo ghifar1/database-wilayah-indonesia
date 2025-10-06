@@ -3,5 +3,6 @@
   "nama_bps": "SIWALAN",
   "kode_dagri": "33.74.04.1005",
   "nama_dagri": "SIWALAN",
-  "parent_kode_bps": "3374100"
+  "parent_kode_bps": "3374100",
+  "parent_kode_dagri": "33.74.04"
 }

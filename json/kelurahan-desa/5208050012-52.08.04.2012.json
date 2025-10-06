@@ -3,5 +3,6 @@
   "nama_bps": "BATU RAKIT",
   "kode_dagri": "52.08.04.2012",
   "nama_dagri": "BATU RAKIT",
-  "parent_kode_bps": "5208050"
+  "parent_kode_bps": "5208050",
+  "parent_kode_dagri": "52.08.04"
 }

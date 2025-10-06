@@ -3,5 +3,6 @@
   "nama_bps": "MAMAHAK ILIR",
   "kode_dagri": "64.11.01.2003",
   "nama_dagri": "MEMAHAK BESAR",
-  "parent_kode_bps": "6411030"
+  "parent_kode_bps": "6411030",
+  "parent_kode_dagri": "64.11.01"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BESAH",
   "kode_dagri": "35.22.20.2005",
   "nama_dagri": "BESAH",
-  "parent_kode_bps": "3522240"
+  "parent_kode_bps": "3522240",
+  "parent_kode_dagri": "35.22.20"
 }

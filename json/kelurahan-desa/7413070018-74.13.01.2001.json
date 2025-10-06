@@ -3,5 +3,6 @@
   "nama_bps": "WAKOILA",
   "kode_dagri": "74.13.01.2001",
   "nama_dagri": "WAKOILA",
-  "parent_kode_bps": "7413070"
+  "parent_kode_bps": "7413070",
+  "parent_kode_dagri": "74.13.01"
 }

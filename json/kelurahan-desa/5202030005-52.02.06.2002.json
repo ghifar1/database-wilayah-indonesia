@@ -3,5 +3,6 @@
   "nama_bps": "BELEKA",
   "kode_dagri": "52.02.06.2002",
   "nama_dagri": "BELEKA",
-  "parent_kode_bps": "5202030"
+  "parent_kode_bps": "5202030",
+  "parent_kode_dagri": "52.02.06"
 }

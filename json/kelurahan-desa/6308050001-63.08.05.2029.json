@@ -3,5 +3,6 @@
   "nama_bps": "DANAU CERMIN",
   "kode_dagri": "63.08.05.2029",
   "nama_dagri": "DANAU CERMIN",
-  "parent_kode_bps": "6308050"
+  "parent_kode_bps": "6308050",
+  "parent_kode_dagri": "63.08.05"
 }

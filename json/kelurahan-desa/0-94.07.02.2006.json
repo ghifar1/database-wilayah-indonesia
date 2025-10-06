@@ -3,5 +3,6 @@
   "nama_bps": "0",
   "kode_dagri": "94.07.02.2006",
   "nama_dagri": "BAMBA",
-  "parent_kode_bps": "9606080"
+  "parent_kode_bps": "9606080",
+  "parent_kode_dagri": "94.07.02"
 }

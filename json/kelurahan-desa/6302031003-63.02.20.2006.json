@@ -3,5 +3,6 @@
   "nama_bps": "PULAU KERUMPUTAN",
   "kode_dagri": "63.02.20.2006",
   "nama_dagri": "PULAU KERUMPUTAN",
-  "parent_kode_bps": "6302031"
+  "parent_kode_bps": "6302031",
+  "parent_kode_dagri": "63.02.20"
 }

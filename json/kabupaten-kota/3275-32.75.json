@@ -4,5 +4,6 @@
   "kode_dagri": "32.75",
   "nama_dagri": "KOTA BEKASI",
   "parent_kode_bps": "32",
+  "parent_kode_dagri": "32",
   "kode_pos": "17100;17400"
 }

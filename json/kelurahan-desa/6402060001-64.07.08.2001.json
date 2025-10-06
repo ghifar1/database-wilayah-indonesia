@@ -3,5 +3,6 @@
   "nama_bps": "BESIK",
   "kode_dagri": "64.07.08.2001",
   "nama_dagri": "BESIQ",
-  "parent_kode_bps": "6402060"
+  "parent_kode_bps": "6402060",
+  "parent_kode_dagri": "64.07.08"
 }

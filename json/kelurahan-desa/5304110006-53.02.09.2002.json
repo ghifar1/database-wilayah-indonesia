@@ -3,5 +3,6 @@
   "nama_bps": "FATILO",
   "kode_dagri": "53.02.09.2002",
   "nama_dagri": "FOTILO",
-  "parent_kode_bps": "5304110"
+  "parent_kode_bps": "5304110",
+  "parent_kode_dagri": "53.02.09"
 }

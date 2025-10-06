@@ -3,5 +3,6 @@
   "nama_bps": "KARANG DALEM",
   "kode_dagri": "35.27.03.1007",
   "nama_dagri": "KARANG DALAM",
-  "parent_kode_bps": "3527030"
+  "parent_kode_bps": "3527030",
+  "parent_kode_dagri": "35.27.03"
 }

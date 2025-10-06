@@ -3,5 +3,6 @@
   "nama_bps": "DAPIAGA",
   "kode_dagri": "94.07.08.2003",
   "nama_dagri": "DAPIAGA",
-  "parent_kode_bps": "9606040"
+  "parent_kode_bps": "9606040",
+  "parent_kode_dagri": "94.07.08"
 }

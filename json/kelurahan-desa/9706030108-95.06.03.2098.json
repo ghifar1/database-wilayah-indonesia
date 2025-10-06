@@ -3,5 +3,6 @@
   "nama_bps": "DAMA",
   "kode_dagri": "95.06.03.2098",
   "nama_dagri": "DAMA",
-  "parent_kode_bps": "9706030"
+  "parent_kode_bps": "9706030",
+  "parent_kode_dagri": "95.06.03"
 }

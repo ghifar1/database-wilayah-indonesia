@@ -3,5 +3,6 @@
   "nama_bps": "DELIT",
   "kode_dagri": "95.08.06.2008",
   "nama_dagri": "DELIT",
-  "parent_kode_bps": "9701180"
+  "parent_kode_bps": "9701180",
+  "parent_kode_dagri": "95.08.06"
 }

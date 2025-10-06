@@ -3,5 +3,6 @@
   "nama_bps": "BAWO ANALITA SAERU",
   "kode_dagri": "12.14.31.2009",
   "nama_dagri": "BAWO ANALITA SAERU",
-  "parent_kode_bps": "1214011"
+  "parent_kode_bps": "1214011",
+  "parent_kode_dagri": "12.14.31"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "FUIM",
   "kode_dagri": "95.06.03.2056",
   "nama_dagri": "FUIM",
-  "parent_kode_bps": "9706030"
+  "parent_kode_bps": "9706030",
+  "parent_kode_dagri": "95.06.03"
 }

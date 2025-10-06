@@ -3,5 +3,6 @@
   "nama_bps": "PARIT I API API",
   "kode_dagri": "14.03.14.2001",
   "nama_dagri": "PARIT I API-API",
-  "parent_kode_bps": "1408022"
+  "parent_kode_bps": "1408022",
+  "parent_kode_dagri": "14.03.14"
 }

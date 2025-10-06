@@ -3,5 +3,6 @@
   "nama_bps": "BONGO DUA",
   "kode_dagri": "75.02.02.2002",
   "nama_dagri": "BONGO II",
-  "parent_kode_bps": "7501051"
+  "parent_kode_bps": "7501051",
+  "parent_kode_dagri": "75.02.02"
 }

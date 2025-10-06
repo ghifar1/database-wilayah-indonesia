@@ -3,5 +3,6 @@
   "nama_bps": "MOAT",
   "kode_dagri": "71.10.07.2001",
   "nama_dagri": "MOOAT",
-  "parent_kode_bps": "7111041"
+  "parent_kode_bps": "7111041",
+  "parent_kode_dagri": "71.10.07"
 }

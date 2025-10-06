@@ -3,5 +3,6 @@
   "nama_bps": "PULAU SEJUK",
   "kode_dagri": "12.19.10.2006",
   "nama_dagri": "PULAU SEJUK",
-  "parent_kode_bps": "1219042"
+  "parent_kode_bps": "1219042",
+  "parent_kode_dagri": "12.19.10"
 }

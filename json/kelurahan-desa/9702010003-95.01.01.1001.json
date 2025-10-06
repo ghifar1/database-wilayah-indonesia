@@ -3,5 +3,6 @@
   "nama_bps": "WAMENA KOTA",
   "kode_dagri": "95.01.01.1001",
   "nama_dagri": "WAMENA KOTA",
-  "parent_kode_bps": "9702010"
+  "parent_kode_bps": "9702010",
+  "parent_kode_dagri": "95.01.01"
 }

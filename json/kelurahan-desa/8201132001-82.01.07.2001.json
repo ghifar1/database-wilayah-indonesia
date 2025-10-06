@@ -3,5 +3,6 @@
   "nama_bps": "PODOL",
   "kode_dagri": "82.01.07.2001",
   "nama_dagri": "PODOL",
-  "parent_kode_bps": "8201132"
+  "parent_kode_bps": "8201132",
+  "parent_kode_dagri": "82.01.07"
 }

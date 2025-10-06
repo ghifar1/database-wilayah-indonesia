@@ -3,5 +3,6 @@
   "nama_bps": "BINJAI SERBANGAN",
   "kode_dagri": "12.09.09.1001",
   "nama_dagri": "BINJAI SERBANGAN",
-  "parent_kode_bps": "1208100"
+  "parent_kode_bps": "1208100",
+  "parent_kode_dagri": "12.09.09"
 }

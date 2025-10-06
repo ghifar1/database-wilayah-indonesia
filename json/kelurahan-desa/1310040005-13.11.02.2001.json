@@ -3,5 +3,6 @@
   "nama_bps": "PASIR TALANG",
   "kode_dagri": "13.11.02.2001",
   "nama_dagri": "PASIR TALANG",
-  "parent_kode_bps": "1310040"
+  "parent_kode_bps": "1310040",
+  "parent_kode_dagri": "13.11.02"
 }

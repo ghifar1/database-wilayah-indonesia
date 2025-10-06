@@ -3,5 +3,6 @@
   "nama_bps": "LONG RANAU",
   "kode_dagri": "65.02.15.2003",
   "nama_dagri": "LONG RANAU",
-  "parent_kode_bps": "6501070"
+  "parent_kode_bps": "6501070",
+  "parent_kode_dagri": "65.02.15"
 }

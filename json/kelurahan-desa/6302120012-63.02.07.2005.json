@@ -3,5 +3,6 @@
   "nama_bps": "PEMBELANCANAN",
   "kode_dagri": "63.02.07.2005",
   "nama_dagri": "PEMBELACANAN",
-  "parent_kode_bps": "6302120"
+  "parent_kode_bps": "6302120",
+  "parent_kode_dagri": "63.02.07"
 }

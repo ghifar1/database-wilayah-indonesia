@@ -3,5 +3,6 @@
   "nama_bps": "TURMO",
   "kode_dagri": "94.02.03.2003",
   "nama_dagri": "TURUMO",
-  "parent_kode_bps": "9608010"
+  "parent_kode_bps": "9608010",
+  "parent_kode_dagri": "94.02.03"
 }

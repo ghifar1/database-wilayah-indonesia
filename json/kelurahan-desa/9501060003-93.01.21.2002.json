@@ -3,5 +3,6 @@
   "nama_bps": "PADUA",
   "kode_dagri": "93.01.21.2002",
   "nama_dagri": "PADUA",
-  "parent_kode_bps": "9501060"
+  "parent_kode_bps": "9501060",
+  "parent_kode_dagri": "93.01.21"
 }

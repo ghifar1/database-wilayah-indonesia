@@ -3,5 +3,6 @@
   "nama_bps": "PESUE",
   "kode_dagri": "74.12.07.2010",
   "nama_dagri": "PESUE",
-  "parent_kode_bps": "7412060"
+  "parent_kode_bps": "7412060",
+  "parent_kode_dagri": "74.12.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BAHORAS",
   "kode_dagri": "13.12.06.2004",
   "nama_dagri": "BAHORAS",
-  "parent_kode_bps": "1312060"
+  "parent_kode_bps": "1312060",
+  "parent_kode_dagri": "13.12.06"
 }

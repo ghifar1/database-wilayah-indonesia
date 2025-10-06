@@ -3,5 +3,6 @@
   "nama_bps": "PAL SEMBILAN",
   "kode_dagri": "61.12.09.2006",
   "nama_dagri": "PAL SEMBILAN",
-  "parent_kode_bps": "6112050"
+  "parent_kode_bps": "6112050",
+  "parent_kode_dagri": "61.12.09"
 }

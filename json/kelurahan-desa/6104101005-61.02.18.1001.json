@@ -3,5 +3,6 @@
   "nama_bps": "PULAU PEDALAMAN",
   "kode_dagri": "61.02.18.1001",
   "nama_dagri": "PULAU PEDALAMAN",
-  "parent_kode_bps": "6104101"
+  "parent_kode_bps": "6104101",
+  "parent_kode_dagri": "61.02.18"
 }

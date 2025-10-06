@@ -3,5 +3,6 @@
   "nama_bps": "BALOLI",
   "kode_dagri": "73.22.03.2005",
   "nama_dagri": "BALEBO",
-  "parent_kode_bps": "7322120"
+  "parent_kode_bps": "7322120",
+  "parent_kode_dagri": "73.22.03"
 }

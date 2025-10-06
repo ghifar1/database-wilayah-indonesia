@@ -3,5 +3,6 @@
   "nama_bps": "JITRA",
   "kode_dagri": "17.71.03.1003",
   "nama_dagri": "JITRA",
-  "parent_kode_bps": "1771030"
+  "parent_kode_bps": "1771030",
+  "parent_kode_dagri": "17.71.03"
 }

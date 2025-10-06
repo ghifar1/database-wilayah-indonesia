@@ -3,5 +3,6 @@
   "nama_bps": "DOSAI",
   "kode_dagri": "91.03.04.2001",
   "nama_dagri": "DOSAY",
-  "parent_kode_bps": "9403220"
+  "parent_kode_bps": "9403220",
+  "parent_kode_dagri": "91.03.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "AS",
   "kode_dagri": "93.04.12.2002",
   "nama_dagri": "AS",
-  "parent_kode_bps": "9504220"
+  "parent_kode_bps": "9504220",
+  "parent_kode_dagri": "93.04.12"
 }

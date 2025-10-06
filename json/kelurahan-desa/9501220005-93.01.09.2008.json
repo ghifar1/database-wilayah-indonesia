@@ -3,5 +3,6 @@
   "nama_bps": "BELBELAND",
   "kode_dagri": "93.01.09.2008",
   "nama_dagri": "BELBELAND",
-  "parent_kode_bps": "9501220"
+  "parent_kode_bps": "9501220",
+  "parent_kode_dagri": "93.01.09"
 }

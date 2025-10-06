@@ -3,5 +3,6 @@
   "nama_bps": "SINAR HARAPAN",
   "kode_dagri": "61.05.03.2034",
   "nama_dagri": "SINAR HARAPAN",
-  "parent_kode_bps": "6107110"
+  "parent_kode_bps": "6107110",
+  "parent_kode_dagri": "61.05.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "NOMAN",
   "kode_dagri": "16.13.01.2002",
   "nama_dagri": "NOMAN",
-  "parent_kode_bps": "1613040"
+  "parent_kode_bps": "1613040",
+  "parent_kode_dagri": "16.13.01"
 }

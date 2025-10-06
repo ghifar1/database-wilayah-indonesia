@@ -3,5 +3,6 @@
   "nama_bps": "GUNUNG TAMANG",
   "kode_dagri": "61.12.01.2009",
   "nama_dagri": "GUNUNG TAMANG",
-  "parent_kode_bps": "6112070"
+  "parent_kode_bps": "6112070",
+  "parent_kode_dagri": "61.12.01"
 }

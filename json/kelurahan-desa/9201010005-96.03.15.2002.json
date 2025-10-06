@@ -3,5 +3,6 @@
   "nama_bps": "GAMTA",
   "kode_dagri": "96.03.15.2002",
   "nama_dagri": "GAMTA",
-  "parent_kode_bps": "9201010"
+  "parent_kode_bps": "9201010",
+  "parent_kode_dagri": "96.03.15"
 }

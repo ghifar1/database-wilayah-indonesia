@@ -3,5 +3,6 @@
   "nama_bps": "WAI KADAI",
   "kode_dagri": "82.08.06.2001",
   "nama_dagri": "WAIKADAI",
-  "parent_kode_bps": "8208040"
+  "parent_kode_bps": "8208040",
+  "parent_kode_dagri": "82.08.06"
 }

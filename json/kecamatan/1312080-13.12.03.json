@@ -3,5 +3,6 @@
   "nama_bps": "PASAMAN",
   "kode_dagri": "13.12.03",
   "nama_dagri": "PASAMAN",
-  "parent_kode_bps": "1312"
+  "parent_kode_bps": "1312",
+  "parent_kode_dagri": "13.12"
 }

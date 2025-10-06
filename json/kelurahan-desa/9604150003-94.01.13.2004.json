@@ -3,5 +3,6 @@
   "nama_bps": "KAMA",
   "kode_dagri": "94.01.13.2004",
   "nama_dagri": "KAMA",
-  "parent_kode_bps": "9604150"
+  "parent_kode_bps": "9604150",
+  "parent_kode_dagri": "94.01.13"
 }

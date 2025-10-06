@@ -3,5 +3,6 @@
   "nama_bps": "TRIBIT",
   "kode_dagri": "95.08.08.2001",
   "nama_dagri": "TRIBID",
-  "parent_kode_bps": "9701300"
+  "parent_kode_bps": "9701300",
+  "parent_kode_dagri": "95.08.08"
 }

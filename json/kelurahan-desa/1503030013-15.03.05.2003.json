@@ -3,5 +3,6 @@
   "nama_bps": "PULAU ARO",
   "kode_dagri": "15.03.05.2003",
   "nama_dagri": "PULAUARO",
-  "parent_kode_bps": "1503030"
+  "parent_kode_bps": "1503030",
+  "parent_kode_dagri": "15.03.05"
 }

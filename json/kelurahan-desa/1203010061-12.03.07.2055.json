@@ -3,5 +3,6 @@
   "nama_bps": "HURASE",
   "kode_dagri": "12.03.07.2055",
   "nama_dagri": "HURASE",
-  "parent_kode_bps": "1203010"
+  "parent_kode_bps": "1203010",
+  "parent_kode_dagri": "12.03.07"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "NAHASAHABE",
   "kode_dagri": "71.03.08.2005",
   "nama_dagri": "NAHA",
-  "parent_kode_bps": "7103100"
+  "parent_kode_bps": "7103100",
+  "parent_kode_dagri": "71.03.08"
 }

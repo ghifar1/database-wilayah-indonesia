@@ -3,5 +3,6 @@
   "nama_bps": "AWAT",
   "kode_dagri": "96.03.10.2005",
   "nama_dagri": "AWAT",
-  "parent_kode_bps": "9201060"
+  "parent_kode_bps": "9201060",
+  "parent_kode_dagri": "96.03.10"
 }

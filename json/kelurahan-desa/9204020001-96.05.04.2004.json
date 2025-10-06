@@ -3,5 +3,6 @@
   "nama_bps": "SABAH",
   "kode_dagri": "96.05.04.2004",
   "nama_dagri": "SABAH",
-  "parent_kode_bps": "9204020"
+  "parent_kode_bps": "9204020",
+  "parent_kode_dagri": "96.05.04"
 }

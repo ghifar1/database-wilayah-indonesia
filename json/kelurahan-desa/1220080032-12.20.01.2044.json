@@ -3,5 +3,6 @@
   "nama_bps": "PAMONORAN",
   "kode_dagri": "12.20.01.2044",
   "nama_dagri": "PAMONORAN",
-  "parent_kode_bps": "1220080"
+  "parent_kode_bps": "1220080",
+  "parent_kode_dagri": "12.20.01"
 }

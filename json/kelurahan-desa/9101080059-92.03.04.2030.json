@@ -3,5 +3,6 @@
   "nama_bps": "MASINA",
   "kode_dagri": "92.03.04.2030",
   "nama_dagri": "MASINA",
-  "parent_kode_bps": "9101080"
+  "parent_kode_bps": "9101080",
+  "parent_kode_dagri": "92.03.04"
 }

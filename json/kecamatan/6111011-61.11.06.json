@@ -3,5 +3,6 @@
   "nama_bps": "KEPULAUAN KARIMATA",
   "kode_dagri": "61.11.06",
   "nama_dagri": "KEPULAUAN KARIMATA",
-  "parent_kode_bps": "6111"
+  "parent_kode_bps": "6111",
+  "parent_kode_dagri": "61.11"
 }

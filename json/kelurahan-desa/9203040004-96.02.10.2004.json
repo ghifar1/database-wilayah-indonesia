@@ -3,5 +3,6 @@
   "nama_bps": "PURAGI",
   "kode_dagri": "96.02.10.2004",
   "nama_dagri": "PURAGI",
-  "parent_kode_bps": "9203040"
+  "parent_kode_bps": "9203040",
+  "parent_kode_dagri": "96.02.10"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "0",
   "kode_dagri": "96.01.09.2006",
   "nama_dagri": "KLAIN",
-  "parent_kode_bps": "9202070"
+  "parent_kode_bps": "9202070",
+  "parent_kode_dagri": "96.01.09"
 }

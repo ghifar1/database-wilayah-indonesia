@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI AMBAT",
   "kode_dagri": "14.04.02.2005",
   "nama_dagri": "SUNGAIAMBAT",
-  "parent_kode_bps": "1403030"
+  "parent_kode_bps": "1403030",
+  "parent_kode_dagri": "14.04.02"
 }

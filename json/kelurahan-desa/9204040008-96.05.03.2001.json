@@ -3,5 +3,6 @@
   "nama_bps": "AISA",
   "kode_dagri": "96.05.03.2001",
   "nama_dagri": "AISA",
-  "parent_kode_bps": "9204040"
+  "parent_kode_bps": "9204040",
+  "parent_kode_dagri": "96.05.03"
 }

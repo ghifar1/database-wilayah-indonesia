@@ -3,5 +3,6 @@
   "nama_bps": "MANLETEN",
   "kode_dagri": "53.04.02.2005",
   "nama_dagri": "MANLETEN",
-  "parent_kode_bps": "5306070"
+  "parent_kode_bps": "5306070",
+  "parent_kode_dagri": "53.04.02"
 }

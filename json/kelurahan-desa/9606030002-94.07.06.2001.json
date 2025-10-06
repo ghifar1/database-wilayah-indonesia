@@ -3,5 +3,6 @@
   "nama_bps": "WABUI",
   "kode_dagri": "94.07.06.2001",
   "nama_dagri": "WABUI",
-  "parent_kode_bps": "9606030"
+  "parent_kode_bps": "9606030",
+  "parent_kode_dagri": "94.07.06"
 }

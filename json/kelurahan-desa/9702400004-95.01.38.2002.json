@@ -3,5 +3,6 @@
   "nama_bps": "WAIMA",
   "kode_dagri": "95.01.38.2002",
   "nama_dagri": "WAIMA",
-  "parent_kode_bps": "9702400"
+  "parent_kode_bps": "9702400",
+  "parent_kode_dagri": "95.01.38"
 }

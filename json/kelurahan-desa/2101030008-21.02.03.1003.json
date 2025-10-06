@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI LAKAM TIMUR",
   "kode_dagri": "21.02.03.1003",
   "nama_dagri": "SUNGAI LAKAM TIMUR",
-  "parent_kode_bps": "2101030"
+  "parent_kode_bps": "2101030",
+  "parent_kode_dagri": "21.02.03"
 }

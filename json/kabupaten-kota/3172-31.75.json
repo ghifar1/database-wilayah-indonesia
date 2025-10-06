@@ -4,5 +4,6 @@
   "kode_dagri": "31.75",
   "nama_dagri": "KOTA ADMINISTRASI JAKARTA TIMUR",
   "parent_kode_bps": "31",
+  "parent_kode_dagri": "31",
   "kode_pos": "13100;13200;13300;13400;13500;13600;13700;13800;13900"
 }

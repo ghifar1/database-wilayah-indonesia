@@ -3,5 +3,6 @@
   "nama_bps": "GOROLO",
   "kode_dagri": "96.02.01.2013",
   "nama_dagri": "GOROLO",
-  "parent_kode_bps": "9203100"
+  "parent_kode_bps": "9203100",
+  "parent_kode_dagri": "96.02.01"
 }

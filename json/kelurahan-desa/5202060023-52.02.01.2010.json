@@ -3,5 +3,6 @@
   "nama_bps": "MERTAK TOMBOK",
   "kode_dagri": "52.02.01.2010",
   "nama_dagri": "MERTAK TOMBOK",
-  "parent_kode_bps": "5202060"
+  "parent_kode_bps": "5202060",
+  "parent_kode_dagri": "52.02.01"
 }

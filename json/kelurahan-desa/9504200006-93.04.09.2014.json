@@ -3,5 +3,6 @@
   "nama_bps": "SIPANAP",
   "kode_dagri": "93.04.09.2014",
   "nama_dagri": "SIPANAP",
-  "parent_kode_bps": "9504200"
+  "parent_kode_bps": "9504200",
+  "parent_kode_dagri": "93.04.09"
 }

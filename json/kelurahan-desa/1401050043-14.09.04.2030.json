@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG PULAU BERALO",
   "kode_dagri": "14.09.04.2030",
   "nama_dagri": "SIMPANG PULAUBERALO",
-  "parent_kode_bps": "1401050"
+  "parent_kode_bps": "1401050",
+  "parent_kode_dagri": "14.09.04"
 }

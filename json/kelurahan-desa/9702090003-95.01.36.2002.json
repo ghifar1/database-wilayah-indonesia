@@ -3,5 +3,6 @@
   "nama_bps": "ASOTIPO",
   "kode_dagri": "95.01.36.2002",
   "nama_dagri": "ASOTIPO",
-  "parent_kode_bps": "9702090"
+  "parent_kode_bps": "9702090",
+  "parent_kode_dagri": "95.01.36"
 }

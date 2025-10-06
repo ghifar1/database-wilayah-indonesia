@@ -3,5 +3,6 @@
   "nama_bps": "SKAMTO",
   "kode_dagri": "91.11.05.2001",
   "nama_dagri": "SKANTO",
-  "parent_kode_bps": "9420050"
+  "parent_kode_bps": "9420050",
+  "parent_kode_dagri": "91.11.05"
 }

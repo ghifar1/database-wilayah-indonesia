@@ -3,5 +3,6 @@
   "nama_bps": "PARMERAAN",
   "kode_dagri": "12.20.09.2010",
   "nama_dagri": "PARMERAAN",
-  "parent_kode_bps": "1220090"
+  "parent_kode_bps": "1220090",
+  "parent_kode_dagri": "12.20.09"
 }

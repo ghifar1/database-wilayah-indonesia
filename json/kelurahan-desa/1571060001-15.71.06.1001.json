@@ -3,5 +3,6 @@
   "nama_bps": "PASIR PANJANG",
   "kode_dagri": "15.71.06.1001",
   "nama_dagri": "PASIR PANJANG",
-  "parent_kode_bps": "1571060"
+  "parent_kode_bps": "1571060",
+  "parent_kode_dagri": "15.71.06"
 }

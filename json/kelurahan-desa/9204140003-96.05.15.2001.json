@@ -3,5 +3,6 @@
   "nama_bps": "SAUF",
   "kode_dagri": "96.05.15.2001",
   "nama_dagri": "SAUF",
-  "parent_kode_bps": "9204140"
+  "parent_kode_bps": "9204140",
+  "parent_kode_dagri": "96.05.15"
 }

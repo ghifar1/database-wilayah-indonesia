@@ -3,5 +3,6 @@
   "nama_bps": "UPT ARSO I / SANGGARIA",
   "kode_dagri": "91.11.08.2002",
   "nama_dagri": "SANGGARIA",
-  "parent_kode_bps": "9420042"
+  "parent_kode_bps": "9420042",
+  "parent_kode_dagri": "91.11.08"
 }

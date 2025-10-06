@@ -3,5 +3,6 @@
   "nama_bps": "BASO",
   "kode_dagri": "13.06.08",
   "nama_dagri": "BASO",
-  "parent_kode_bps": "1307"
+  "parent_kode_bps": "1307",
+  "parent_kode_dagri": "13.06"
 }

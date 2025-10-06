@@ -3,5 +3,6 @@
   "nama_bps": "ATKARI",
   "kode_dagri": "96.03.01.2004",
   "nama_dagri": "ATKARI",
-  "parent_kode_bps": "9201040"
+  "parent_kode_bps": "9201040",
+  "parent_kode_dagri": "96.03.01"
 }

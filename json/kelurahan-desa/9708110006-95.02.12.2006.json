@@ -3,5 +3,6 @@
   "nama_bps": "IBOT",
   "kode_dagri": "95.02.12.2006",
   "nama_dagri": "IBOT",
-  "parent_kode_bps": "9708110"
+  "parent_kode_bps": "9708110",
+  "parent_kode_dagri": "95.02.12"
 }

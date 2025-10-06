@@ -3,5 +3,6 @@
   "nama_bps": "KIBID",
   "kode_dagri": "95.08.08.2003",
   "nama_dagri": "KIBID",
-  "parent_kode_bps": "9701300"
+  "parent_kode_bps": "9701300",
+  "parent_kode_dagri": "95.08.08"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MINIEM",
   "kode_dagri": "95.08.09.2002",
   "nama_dagri": "MINIEM",
-  "parent_kode_bps": "9701150"
+  "parent_kode_bps": "9701150",
+  "parent_kode_dagri": "95.08.09"
 }

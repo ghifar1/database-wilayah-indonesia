@@ -3,5 +3,6 @@
   "nama_bps": "AIFAT",
   "kode_dagri": "96.05.01",
   "nama_dagri": "AIFAT",
-  "parent_kode_bps": "9204"
+  "parent_kode_bps": "9204",
+  "parent_kode_dagri": "96.05"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "ELAREK",
   "kode_dagri": "95.01.14.2002",
   "nama_dagri": "ELAREK",
-  "parent_kode_bps": "9702060"
+  "parent_kode_bps": "9702060",
+  "parent_kode_dagri": "95.01.14"
 }

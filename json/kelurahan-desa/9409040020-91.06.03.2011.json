@@ -3,5 +3,6 @@
   "nama_bps": "SEPSE",
   "kode_dagri": "91.06.03.2011",
   "nama_dagri": "SEPSE",
-  "parent_kode_bps": "9409040"
+  "parent_kode_bps": "9409040",
+  "parent_kode_dagri": "91.06.03"
 }

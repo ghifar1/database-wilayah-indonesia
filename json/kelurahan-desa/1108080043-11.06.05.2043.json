@@ -3,5 +3,6 @@
   "nama_bps": "SEUMET",
   "kode_dagri": "11.06.05.2043",
   "nama_dagri": "SEUMET",
-  "parent_kode_bps": "1108080"
+  "parent_kode_bps": "1108080",
+  "parent_kode_dagri": "11.06.05"
 }

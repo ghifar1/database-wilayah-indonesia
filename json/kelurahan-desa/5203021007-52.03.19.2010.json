@@ -3,5 +3,6 @@
   "nama_bps": "PEJARING",
   "kode_dagri": "52.03.19.2010",
   "nama_dagri": "PEJARING",
-  "parent_kode_bps": "5203021"
+  "parent_kode_bps": "5203021",
+  "parent_kode_dagri": "52.03.19"
 }

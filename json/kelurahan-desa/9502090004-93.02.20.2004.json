@@ -3,5 +3,6 @@
   "nama_bps": "BIWAGE 1",
   "kode_dagri": "93.02.20.2004",
   "nama_dagri": "BIWAGE 1",
-  "parent_kode_bps": "9502090"
+  "parent_kode_bps": "9502090",
+  "parent_kode_dagri": "93.02.20"
 }

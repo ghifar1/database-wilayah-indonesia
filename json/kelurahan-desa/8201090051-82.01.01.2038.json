@@ -3,5 +3,6 @@
   "nama_bps": "ULO",
   "kode_dagri": "82.01.01.2038",
   "nama_dagri": "ULO",
-  "parent_kode_bps": "8201090"
+  "parent_kode_bps": "8201090",
+  "parent_kode_dagri": "82.01.01"
 }

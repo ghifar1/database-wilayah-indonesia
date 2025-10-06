@@ -3,5 +3,6 @@
   "nama_bps": "MUPAS",
   "kode_dagri": "96.05.12.2001",
   "nama_dagri": "MUPAS",
-  "parent_kode_bps": "9204050"
+  "parent_kode_bps": "9204050",
+  "parent_kode_dagri": "96.05.12"
 }

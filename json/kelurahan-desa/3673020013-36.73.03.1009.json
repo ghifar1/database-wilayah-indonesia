@@ -3,5 +3,6 @@
   "nama_bps": "KEPUREN",
   "kode_dagri": "36.73.03.1009",
   "nama_dagri": "KAPUREN",
-  "parent_kode_bps": "3673020"
+  "parent_kode_bps": "3673020",
+  "parent_kode_dagri": "36.73.03"
 }

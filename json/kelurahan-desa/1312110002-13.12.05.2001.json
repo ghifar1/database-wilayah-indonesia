@@ -3,5 +3,6 @@
   "nama_bps": "KINALI",
   "kode_dagri": "13.12.05.2001",
   "nama_dagri": "KINALI",
-  "parent_kode_bps": "1312110"
+  "parent_kode_bps": "1312110",
+  "parent_kode_dagri": "13.12.05"
 }

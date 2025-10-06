@@ -3,5 +3,6 @@
   "nama_bps": "FUTON",
   "kode_dagri": "96.05.01.2011",
   "nama_dagri": "FUTON",
-  "parent_kode_bps": "9204030"
+  "parent_kode_bps": "9204030",
+  "parent_kode_dagri": "96.05.01"
 }

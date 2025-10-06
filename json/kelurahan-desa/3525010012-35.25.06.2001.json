@@ -3,5 +3,6 @@
   "nama_bps": "KEPUHKLAGEN",
   "kode_dagri": "35.25.06.2001",
   "nama_dagri": "KEPUHKLAGEN",
-  "parent_kode_bps": "3525010"
+  "parent_kode_bps": "3525010",
+  "parent_kode_dagri": "35.25.06"
 }

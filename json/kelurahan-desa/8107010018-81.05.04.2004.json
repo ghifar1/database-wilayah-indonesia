@@ -3,5 +3,6 @@
   "nama_bps": "ONDOR",
   "kode_dagri": "81.05.04.2004",
   "nama_dagri": "ONDOR",
-  "parent_kode_bps": "8107010"
+  "parent_kode_bps": "8107010",
+  "parent_kode_dagri": "81.05.04"
 }

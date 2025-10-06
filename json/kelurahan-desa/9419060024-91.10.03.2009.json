@@ -3,5 +3,6 @@
   "nama_bps": "MASEP",
   "kode_dagri": "91.10.03.2009",
   "nama_dagri": "MASEP",
-  "parent_kode_bps": "9419060"
+  "parent_kode_bps": "9419060",
+  "parent_kode_dagri": "91.10.03"
 }

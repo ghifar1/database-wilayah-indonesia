@@ -3,5 +3,6 @@
   "nama_bps": "LIRAK",
   "kode_dagri": "95.04.01.2009",
   "nama_dagri": "LIRAK",
-  "parent_kode_bps": "9704080"
+  "parent_kode_bps": "9704080",
+  "parent_kode_dagri": "95.04.01"
 }

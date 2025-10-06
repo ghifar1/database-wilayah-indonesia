@@ -3,5 +3,6 @@
   "nama_bps": "SIMPANG DELI KILANG",
   "kode_dagri": "11.15.05.2042",
   "nama_dagri": "SIMPANG DELI KILANG",
-  "parent_kode_bps": "1115010"
+  "parent_kode_bps": "1115010",
+  "parent_kode_dagri": "11.15.05"
 }

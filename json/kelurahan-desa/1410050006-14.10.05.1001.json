@@ -3,5 +3,6 @@
   "nama_bps": "TELUK BELITUNG",
   "kode_dagri": "14.10.05.1001",
   "nama_dagri": "TELUK BELITUNG",
-  "parent_kode_bps": "1410050"
+  "parent_kode_bps": "1410050",
+  "parent_kode_dagri": "14.10.05"
 }

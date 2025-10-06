@@ -3,5 +3,6 @@
   "nama_bps": "TEPOSUA",
   "kode_dagri": "74.11.02.2008",
   "nama_dagri": "TEPOSUA",
-  "parent_kode_bps": "7411060"
+  "parent_kode_bps": "7411060",
+  "parent_kode_dagri": "74.11.02"
 }

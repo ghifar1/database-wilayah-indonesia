@@ -3,5 +3,6 @@
   "nama_bps": "PASAR HUTA BARGOT",
   "kode_dagri": "12.13.19.2003",
   "nama_dagri": "PASAR HUTA BARGOT",
-  "parent_kode_bps": "1202055"
+  "parent_kode_bps": "1202055",
+  "parent_kode_dagri": "12.13.19"
 }

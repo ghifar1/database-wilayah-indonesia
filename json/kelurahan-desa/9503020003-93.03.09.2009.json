@@ -3,5 +3,6 @@
   "nama_bps": "KOFAR",
   "kode_dagri": "93.03.09.2009",
   "nama_dagri": "KOFAR",
-  "parent_kode_bps": "9503020"
+  "parent_kode_bps": "9503020",
+  "parent_kode_dagri": "93.03.09"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "MERAUKE",
   "kode_dagri": "93.01.01",
   "nama_dagri": "MERAUKE",
-  "parent_kode_bps": "9501"
+  "parent_kode_bps": "9501",
+  "parent_kode_dagri": "93.01"
 }

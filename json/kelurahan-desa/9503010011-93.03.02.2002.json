@@ -3,5 +3,6 @@
   "nama_bps": "AGHAM",
   "kode_dagri": "93.03.02.2002",
   "nama_dagri": "AGHAM",
-  "parent_kode_bps": "9503010"
+  "parent_kode_bps": "9503010",
+  "parent_kode_dagri": "93.03.02"
 }

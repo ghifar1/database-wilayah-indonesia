@@ -3,5 +3,6 @@
   "nama_bps": "ALUIS",
   "kode_dagri": "95.06.01.2002",
   "nama_dagri": "ALUIS",
-  "parent_kode_bps": "9706040"
+  "parent_kode_bps": "9706040",
+  "parent_kode_dagri": "95.06.01"
 }

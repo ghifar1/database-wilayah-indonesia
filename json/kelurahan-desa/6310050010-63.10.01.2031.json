@@ -3,5 +3,6 @@
   "nama_bps": "SUKAMAJU",
   "kode_dagri": "63.10.01.2031",
   "nama_dagri": "SUKAMAJU",
-  "parent_kode_bps": "6310050"
+  "parent_kode_bps": "6310050",
+  "parent_kode_dagri": "63.10.01"
 }

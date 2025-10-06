@@ -3,5 +3,6 @@
   "nama_bps": "PAJALESANG",
   "kode_dagri": "73.73.01.1012",
   "nama_dagri": "PAJALESANG",
-  "parent_kode_bps": "7373020"
+  "parent_kode_bps": "7373020",
+  "parent_kode_dagri": "73.73.01"
 }

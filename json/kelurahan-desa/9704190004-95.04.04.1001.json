@@ -3,5 +3,6 @@
   "nama_bps": "KEMBU",
   "kode_dagri": "95.04.04.1001",
   "nama_dagri": "KEMBU",
-  "parent_kode_bps": "9704190"
+  "parent_kode_bps": "9704190",
+  "parent_kode_dagri": "95.04.04"
 }

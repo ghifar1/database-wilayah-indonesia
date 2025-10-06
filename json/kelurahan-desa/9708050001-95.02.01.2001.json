@@ -3,5 +3,6 @@
   "nama_bps": "KABIDING",
   "kode_dagri": "95.02.01.2001",
   "nama_dagri": "KABIDING",
-  "parent_kode_bps": "9708050"
+  "parent_kode_bps": "9708050",
+  "parent_kode_dagri": "95.02.01"
 }

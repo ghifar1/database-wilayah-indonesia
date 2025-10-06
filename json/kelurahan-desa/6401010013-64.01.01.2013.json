@@ -3,5 +3,6 @@
   "nama_bps": "SUNGAI TERIK",
   "kode_dagri": "64.01.01.2013",
   "nama_dagri": "SUNGAI TERIK",
-  "parent_kode_bps": "6401010"
+  "parent_kode_bps": "6401010",
+  "parent_kode_dagri": "64.01.01"
 }

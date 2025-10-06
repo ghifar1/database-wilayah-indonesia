@@ -3,5 +3,6 @@
   "nama_bps": "KOTA BARU",
   "kode_dagri": "61.71.01.1005",
   "nama_dagri": "KOTABARU",
-  "parent_kode_bps": "6171010"
+  "parent_kode_bps": "6171010",
+  "parent_kode_dagri": "61.71.01"
 }

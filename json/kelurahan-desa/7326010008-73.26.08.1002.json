@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN NONONGAN UTARA",
   "kode_dagri": "73.26.08.1002",
   "nama_dagri": "NONONGAN UTARA",
-  "parent_kode_bps": "7326010"
+  "parent_kode_bps": "7326010",
+  "parent_kode_dagri": "73.26.08"
 }

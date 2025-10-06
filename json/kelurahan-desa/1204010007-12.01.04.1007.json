@@ -3,5 +3,6 @@
   "nama_bps": "PINANG BARU",
   "kode_dagri": "12.01.04.1007",
   "nama_dagri": "PINANGBARU",
-  "parent_kode_bps": "1204010"
+  "parent_kode_bps": "1204010",
+  "parent_kode_dagri": "12.01.04"
 }

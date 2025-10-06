@@ -3,5 +3,6 @@
   "nama_bps": "ASERA",
   "kode_dagri": "74.09.01.1009",
   "nama_dagri": "ASERA",
-  "parent_kode_bps": "7410050"
+  "parent_kode_bps": "7410050",
+  "parent_kode_dagri": "74.09.01"
 }

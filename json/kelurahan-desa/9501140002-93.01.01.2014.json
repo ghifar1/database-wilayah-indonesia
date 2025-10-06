@@ -3,5 +3,6 @@
   "nama_bps": "BOKEM",
   "kode_dagri": "93.01.01.2014",
   "nama_dagri": "BOKEM",
-  "parent_kode_bps": "9501140"
+  "parent_kode_bps": "9501140",
+  "parent_kode_dagri": "93.01.01"
 }

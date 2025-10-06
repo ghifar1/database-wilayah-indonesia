@@ -3,5 +3,6 @@
   "nama_bps": "PANTO CUT",
   "kode_dagri": "11.12.05.2006",
   "nama_dagri": "PANTO CUT",
-  "parent_kode_bps": "1112050"
+  "parent_kode_bps": "1112050",
+  "parent_kode_dagri": "11.12.05"
 }

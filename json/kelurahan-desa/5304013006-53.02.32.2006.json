@@ -3,5 +3,6 @@
   "nama_bps": "TUNBES",
   "kode_dagri": "53.02.32.2006",
   "nama_dagri": "TUNBES",
-  "parent_kode_bps": "5304013"
+  "parent_kode_bps": "5304013",
+  "parent_kode_dagri": "53.02.32"
 }

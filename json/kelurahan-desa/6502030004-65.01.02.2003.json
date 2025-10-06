@@ -3,5 +3,6 @@
   "nama_bps": "MARA SATU",
   "kode_dagri": "65.01.02.2003",
   "nama_dagri": "MARA I",
-  "parent_kode_bps": "6502030"
+  "parent_kode_bps": "6502030",
+  "parent_kode_dagri": "65.01.02"
 }

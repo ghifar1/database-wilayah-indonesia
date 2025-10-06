@@ -3,5 +3,6 @@
   "nama_bps": "WELIBO",
   "kode_dagri": "53.12.12.2005",
   "nama_dagri": "WAILIBO",
-  "parent_kode_bps": "5301021"
+  "parent_kode_bps": "5301021",
+  "parent_kode_dagri": "53.12.12"
 }

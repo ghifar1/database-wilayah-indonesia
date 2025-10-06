@@ -3,5 +3,6 @@
   "nama_bps": "KAB. PESISIR SELATAN",
   "kode_dagri": "13.01",
   "nama_dagri": "KABUPATEN PESISIR SELATAN",
-  "parent_kode_bps": "13"
+  "parent_kode_bps": "13",
+  "parent_kode_dagri": "13"
 }

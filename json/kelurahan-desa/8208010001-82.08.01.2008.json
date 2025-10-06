@@ -3,5 +3,6 @@
   "nama_bps": "PANCORAN",
   "kode_dagri": "82.08.01.2008",
   "nama_dagri": "PANCORAN",
-  "parent_kode_bps": "8208010"
+  "parent_kode_bps": "8208010",
+  "parent_kode_dagri": "82.08.01"
 }

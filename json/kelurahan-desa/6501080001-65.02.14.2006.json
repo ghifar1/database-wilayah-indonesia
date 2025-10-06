@@ -3,5 +3,6 @@
   "nama_bps": "LONG JALAN",
   "kode_dagri": "65.02.14.2006",
   "nama_dagri": "LONG JALAN",
-  "parent_kode_bps": "6501080"
+  "parent_kode_bps": "6501080",
+  "parent_kode_dagri": "65.02.14"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BORME",
   "kode_dagri": "95.02.06.2001",
   "nama_dagri": "BORME",
-  "parent_kode_bps": "9708130"
+  "parent_kode_bps": "9708130",
+  "parent_kode_dagri": "95.02.06"
 }

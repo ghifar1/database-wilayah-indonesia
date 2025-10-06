@@ -3,5 +3,6 @@
   "nama_bps": "GOBO",
   "kode_dagri": "12.14.28.2001",
   "nama_dagri": "GOBO",
-  "parent_kode_bps": "1214022"
+  "parent_kode_bps": "1214022",
+  "parent_kode_dagri": "12.14.28"
 }

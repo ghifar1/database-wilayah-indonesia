@@ -3,5 +3,6 @@
   "nama_bps": "SILAING BAWAH",
   "kode_dagri": "13.74.02.1004",
   "nama_dagri": "SILAING BAWAH",
-  "parent_kode_bps": "1374010"
+  "parent_kode_bps": "1374010",
+  "parent_kode_dagri": "13.74.02"
 }

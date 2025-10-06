@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN TAMPO MAKALE",
   "kode_dagri": "73.18.05.1020",
   "nama_dagri": "TAMPO MAKALE",
-  "parent_kode_bps": "7318040"
+  "parent_kode_bps": "7318040",
+  "parent_kode_dagri": "73.18.05"
 }

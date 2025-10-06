@@ -3,5 +3,6 @@
   "nama_bps": "INAOE",
   "kode_dagri": "53.14.08.2005",
   "nama_dagri": "INAOE",
-  "parent_kode_bps": "5314041"
+  "parent_kode_bps": "5314041",
+  "parent_kode_dagri": "53.14.08"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SOGO",
   "kode_dagri": "33.16.04.2011",
   "nama_dagri": "SOGO",
-  "parent_kode_bps": "3316040"
+  "parent_kode_bps": "3316040",
+  "parent_kode_dagri": "33.16.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "KAMAT",
   "kode_dagri": "96.05.12.2002",
   "nama_dagri": "KAMAT",
-  "parent_kode_bps": "9204050"
+  "parent_kode_bps": "9204050",
+  "parent_kode_dagri": "96.05.12"
 }

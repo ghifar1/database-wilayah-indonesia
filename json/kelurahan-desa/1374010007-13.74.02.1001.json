@@ -3,5 +3,6 @@
   "nama_bps": "BUKIT SURUNGAN",
   "kode_dagri": "13.74.02.1001",
   "nama_dagri": "BUKIT SURUNGAN",
-  "parent_kode_bps": "1374010"
+  "parent_kode_bps": "1374010",
+  "parent_kode_dagri": "13.74.02"
 }

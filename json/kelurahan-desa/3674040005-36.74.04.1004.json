@@ -3,5 +3,6 @@
   "nama_bps": "SAWAH",
   "kode_dagri": "36.74.04.1004",
   "nama_dagri": "SAWAH",
-  "parent_kode_bps": "3674040"
+  "parent_kode_bps": "3674040",
+  "parent_kode_dagri": "36.74.04"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "PULO UE BARO",
   "kode_dagri": "11.11.05.2059",
   "nama_dagri": "PULO UE BAROE",
-  "parent_kode_bps": "1110080"
+  "parent_kode_bps": "1110080",
+  "parent_kode_dagri": "11.11.05"
 }

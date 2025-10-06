@@ -3,5 +3,6 @@
   "nama_bps": "WAESALA",
   "kode_dagri": "81.06.04.2001",
   "nama_dagri": "WAESALA",
-  "parent_kode_bps": "8106010"
+  "parent_kode_bps": "8106010",
+  "parent_kode_dagri": "81.06.04"
 }

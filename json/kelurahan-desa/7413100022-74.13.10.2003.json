@@ -3,5 +3,6 @@
   "nama_bps": "TANJUNG PINANG",
   "kode_dagri": "74.13.10.2003",
   "nama_dagri": "TANJUNG PINANG",
-  "parent_kode_bps": "7413100"
+  "parent_kode_bps": "7413100",
+  "parent_kode_dagri": "74.13.10"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "INAM",
   "kode_dagri": "96.04.23.2001",
   "nama_dagri": "INAM",
-  "parent_kode_bps": "9205280"
+  "parent_kode_bps": "9205280",
+  "parent_kode_dagri": "96.04.23"
 }

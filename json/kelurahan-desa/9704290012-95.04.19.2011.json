@@ -3,5 +3,6 @@
   "nama_bps": "UNDI",
   "kode_dagri": "95.04.19.2011",
   "nama_dagri": "UNDI",
-  "parent_kode_bps": "9704290"
+  "parent_kode_bps": "9704290",
+  "parent_kode_dagri": "95.04.19"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SEBELIMBINGAN",
   "kode_dagri": "63.02.06.2010",
   "nama_dagri": "SEBELIMBINGAN",
-  "parent_kode_bps": "6302060"
+  "parent_kode_bps": "6302060",
+  "parent_kode_dagri": "63.02.06"
 }

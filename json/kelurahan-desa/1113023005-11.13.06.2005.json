@@ -3,5 +3,6 @@
   "nama_bps": "KONG BUR",
   "kode_dagri": "11.13.06.2005",
   "nama_dagri": "KONG",
-  "parent_kode_bps": "1113023"
+  "parent_kode_bps": "1113023",
+  "parent_kode_dagri": "11.13.06"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "SEMISIR",
   "kode_dagri": "63.02.16.2001",
   "nama_dagri": "SEMISIR",
-  "parent_kode_bps": "6302061"
+  "parent_kode_bps": "6302061",
+  "parent_kode_dagri": "63.02.16"
 }

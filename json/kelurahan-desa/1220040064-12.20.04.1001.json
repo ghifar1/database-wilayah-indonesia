@@ -3,5 +3,6 @@
   "nama_bps": "PASAR GUNUNG TUA",
   "kode_dagri": "12.20.04.1001",
   "nama_dagri": "PASAR GUNUNG TUA",
-  "parent_kode_bps": "1220040"
+  "parent_kode_bps": "1220040",
+  "parent_kode_dagri": "12.20.04"
 }

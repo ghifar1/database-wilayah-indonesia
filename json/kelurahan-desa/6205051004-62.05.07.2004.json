@@ -3,5 +3,6 @@
   "nama_bps": "SABUH",
   "kode_dagri": "62.05.07.2004",
   "nama_dagri": "SABUH",
-  "parent_kode_bps": "6205051"
+  "parent_kode_bps": "6205051",
+  "parent_kode_dagri": "62.05.07"
 }

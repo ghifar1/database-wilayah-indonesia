@@ -3,5 +3,6 @@
   "nama_bps": "SUMBER REJO",
   "kode_dagri": "35.01.12.2010",
   "nama_dagri": "SUMBEREJO",
-  "parent_kode_bps": "3501120"
+  "parent_kode_bps": "3501120",
+  "parent_kode_dagri": "35.01.12"
 }

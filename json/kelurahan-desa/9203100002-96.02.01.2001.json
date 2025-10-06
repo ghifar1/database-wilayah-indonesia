@@ -3,5 +3,6 @@
   "nama_bps": "WERSAR",
   "kode_dagri": "96.02.01.2001",
   "nama_dagri": "WERSAR",
-  "parent_kode_bps": "9203100"
+  "parent_kode_bps": "9203100",
+  "parent_kode_dagri": "96.02.01"
 }

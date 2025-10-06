@@ -3,5 +3,6 @@
   "nama_bps": "PELEMPEA",
   "kode_dagri": "72.10.07.2015",
   "nama_dagri": "PELEMPEA",
-  "parent_kode_bps": "7210010"
+  "parent_kode_bps": "7210010",
+  "parent_kode_dagri": "72.10.07"
 }

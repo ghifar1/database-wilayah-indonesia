@@ -3,5 +3,6 @@
   "nama_bps": "SAW",
   "kode_dagri": "93.04.01.2010",
   "nama_dagri": "SAW",
-  "parent_kode_bps": "9504110"
+  "parent_kode_bps": "9504110",
+  "parent_kode_dagri": "93.04.01"
 }

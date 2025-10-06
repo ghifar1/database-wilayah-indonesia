@@ -3,5 +3,6 @@
   "nama_bps": "GAMPONG DARAT",
   "kode_dagri": "11.05.01.2013",
   "nama_dagri": "GAMPONG DARAT",
-  "parent_kode_bps": "1107050"
+  "parent_kode_bps": "1107050",
+  "parent_kode_dagri": "11.05.01"
 }

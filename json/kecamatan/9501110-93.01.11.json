@@ -3,5 +3,6 @@
   "nama_bps": "KURIK",
   "kode_dagri": "93.01.11",
   "nama_dagri": "KURIK",
-  "parent_kode_bps": "9501"
+  "parent_kode_bps": "9501",
+  "parent_kode_dagri": "93.01"
 }

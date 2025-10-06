@@ -3,5 +3,6 @@
   "nama_bps": "SEMARAS",
   "kode_dagri": "63.02.02.2009",
   "nama_dagri": "SEMARAS",
-  "parent_kode_bps": "6302020"
+  "parent_kode_bps": "6302020",
+  "parent_kode_dagri": "63.02.02"
 }

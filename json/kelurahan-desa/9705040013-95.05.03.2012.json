@@ -3,5 +3,6 @@
   "nama_bps": "KUGAP",
   "kode_dagri": "95.05.03.2012",
   "nama_dagri": "KUGAB",
-  "parent_kode_bps": "9705040"
+  "parent_kode_bps": "9705040",
+  "parent_kode_dagri": "95.05.03"
 }

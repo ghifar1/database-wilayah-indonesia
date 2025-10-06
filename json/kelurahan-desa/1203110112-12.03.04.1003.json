@@ -3,5 +3,6 @@
   "nama_bps": "HUTA SUHUT",
   "kode_dagri": "12.03.04.1003",
   "nama_dagri": "HUTASUHUT",
-  "parent_kode_bps": "1203110"
+  "parent_kode_bps": "1203110",
+  "parent_kode_dagri": "12.03.04"
 }

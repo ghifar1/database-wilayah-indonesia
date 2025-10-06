@@ -3,5 +3,6 @@
   "nama_bps": "BALAI PUNGUT",
   "kode_dagri": "14.03.13.2003",
   "nama_dagri": "BALAI PUNGUT",
-  "parent_kode_bps": "1408011"
+  "parent_kode_bps": "1408011",
+  "parent_kode_dagri": "14.03.13"
 }

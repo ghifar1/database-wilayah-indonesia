@@ -3,5 +3,6 @@
   "nama_bps": "DOW",
   "kode_dagri": "95.04.30",
   "nama_dagri": "DOW",
-  "parent_kode_bps": "9704"
+  "parent_kode_bps": "9704",
+  "parent_kode_dagri": "95.04"
 }

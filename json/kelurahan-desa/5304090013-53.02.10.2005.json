@@ -3,5 +3,6 @@
   "nama_bps": "NAPI",
   "kode_dagri": "53.02.10.2005",
   "nama_dagri": "NAPI",
-  "parent_kode_bps": "5304090"
+  "parent_kode_bps": "5304090",
+  "parent_kode_dagri": "53.02.10"
 }

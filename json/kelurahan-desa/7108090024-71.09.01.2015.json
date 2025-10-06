@@ -3,5 +3,6 @@
   "nama_bps": "LIA I",
   "kode_dagri": "71.09.01.2015",
   "nama_dagri": "LIA SATU",
-  "parent_kode_bps": "7108090"
+  "parent_kode_bps": "7108090",
+  "parent_kode_dagri": "71.09.01"
 }

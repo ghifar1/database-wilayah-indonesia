@@ -3,5 +3,6 @@
   "nama_bps": "CEMPEDAS",
   "kode_dagri": "64.07.09.2008",
   "nama_dagri": "CEMPEDAS",
-  "parent_kode_bps": "6402050"
+  "parent_kode_bps": "6402050",
+  "parent_kode_dagri": "64.07.09"
 }

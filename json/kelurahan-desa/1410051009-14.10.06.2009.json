@@ -3,5 +3,6 @@
   "nama_bps": "PANGKALAN BALAI",
   "kode_dagri": "14.10.06.2009",
   "nama_dagri": "PANGKALAN BALAI",
-  "parent_kode_bps": "1410051"
+  "parent_kode_bps": "1410051",
+  "parent_kode_dagri": "14.10.06"
 }

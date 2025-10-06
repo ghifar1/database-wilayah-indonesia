@@ -3,5 +3,6 @@
   "nama_bps": "WESAKMA",
   "kode_dagri": "95.01.15.2003",
   "nama_dagri": "WESAKMA",
-  "parent_kode_bps": "9702070"
+  "parent_kode_bps": "9702070",
+  "parent_kode_dagri": "95.01.15"
 }

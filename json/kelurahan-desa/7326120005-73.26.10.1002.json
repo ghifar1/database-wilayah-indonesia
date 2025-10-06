@@ -3,5 +3,6 @@
   "nama_bps": "KELURAHAN TAGARI",
   "kode_dagri": "73.26.10.1002",
   "nama_dagri": "TAGARI",
-  "parent_kode_bps": "7326120"
+  "parent_kode_bps": "7326120",
+  "parent_kode_dagri": "73.26.10"
 }

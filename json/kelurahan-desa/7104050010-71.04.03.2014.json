@@ -3,5 +3,6 @@
   "nama_bps": "PERANGEN",
   "kode_dagri": "71.04.03.2014",
   "nama_dagri": "PARANGEN",
-  "parent_kode_bps": "7104050"
+  "parent_kode_bps": "7104050",
+  "parent_kode_dagri": "71.04.03"
 }

@@ -3,5 +3,6 @@
   "nama_bps": "BANTIAN",
   "kode_dagri": "62.02.09.2014",
   "nama_dagri": "BANTIAN",
-  "parent_kode_bps": "6202050"
+  "parent_kode_bps": "6202050",
+  "parent_kode_dagri": "62.02.09"
 }

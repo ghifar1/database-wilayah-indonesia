@@ -3,5 +3,6 @@
   "nama_bps": "SIGARE",
   "kode_dagri": "93.03.06.2001",
   "nama_dagri": "SIGARE",
-  "parent_kode_bps": "9503110"
+  "parent_kode_bps": "9503110",
+  "parent_kode_dagri": "93.03.06"
 }

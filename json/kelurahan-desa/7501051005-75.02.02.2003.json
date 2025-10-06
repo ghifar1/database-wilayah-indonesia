@@ -3,5 +3,6 @@
   "nama_bps": "BONGO TIGA",
   "kode_dagri": "75.02.02.2003",
   "nama_dagri": "BONGO III",
-  "parent_kode_bps": "7501051"
+  "parent_kode_bps": "7501051",
+  "parent_kode_dagri": "75.02.02"
 }

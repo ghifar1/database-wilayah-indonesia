@@ -3,5 +3,6 @@
   "nama_bps": "MAPENDUMA",
   "kode_dagri": "95.08.02.2001",
   "nama_dagri": "MAPENDUMA",
-  "parent_kode_bps": "9701140"
+  "parent_kode_bps": "9701140",
+  "parent_kode_dagri": "95.08.02"
 }
