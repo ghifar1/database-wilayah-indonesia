@@ -1,8 +1,11 @@
 import * as fs from "fs"
+import * as path from "path"
 import { flockSync } from "fs-ext"
 import * as cli from "cli-progress"
 
 const apiPath = "https://sig.bps.go.id"
+const jsonBasePath = "json"
+const jsonLevels = ["provinsi", "kabupaten-kota", "kecamatan", "kelurahan-desa"] as const
 
 type Periode = {
     kode: string
@@ -14,6 +17,21 @@ type Wilayah = {
     nama_bps: string
     kode_dagri: string
     nama_dagri: string
+    kode_pos?: string
+}
+
+type PostalWilayah = {
+    kode_bps: string
+    nama_bps: string
+    kode_pos: string
+    nama_pos: string
+}
+
+const postalLevelMap: Record<typeof jsonLevels[number], "provinsi" | "kabupaten" | "kecamatan" | "desa"> = {
+    "provinsi": "provinsi",
+    "kabupaten-kota": "kabupaten",
+    "kecamatan": "kecamatan",
+    "kelurahan-desa": "desa"
 }
 
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
@@ -58,7 +76,59 @@ const getData = async (level: string, parent: string, periode_merge: string, att
     }
 }
 
+const getPostalData = async (level: string, parent: string, periode_merge: string, attempt = 0): Promise<Array<PostalWilayah>> => {
+    try {
+        const response = await fetch(`${apiPath}/rest-bridging-pos/getwilayah?level=${level}&parent=${parent}&periode_merge=${periode_merge}`)
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`)
+        }
+        const data = await response.json()
+        return data
+    } catch (error) {
+        const errorMessage = error instanceof Error ? error.message : String(error)
+        console.log(`Failed to fetch postal data for level ${level} parent ${parent} (attempt ${attempt + 1}): ${errorMessage}`)
+        if (attempt >= maxFetchAttempts - 1) {
+            console.log(`Skipping postal data for ${level} parent ${parent}`)
+            return []
+        }
+        await delay(3000)
+        return await getPostalData(level, parent, periode_merge, attempt + 1)
+    }
+}
+
+const groupPostalCodes = (postalData: Array<PostalWilayah>) => {
+    const postalMap = new Map<string, string>()
+    const intermediate = new Map<string, Set<string>>()
+
+    for (const entry of postalData) {
+        const kode = entry.kode_bps?.trim()
+        const kodePos = entry.kode_pos?.trim()
+        if (!kode || !kodePos) {
+            continue
+        }
+        if (!intermediate.has(kode)) {
+            intermediate.set(kode, new Set())
+        }
+        intermediate.get(kode)?.add(kodePos)
+    }
+
+    for (const [kode, kodePosSet] of intermediate.entries()) {
+        postalMap.set(kode, Array.from(kodePosSet).join(";"))
+    }
+
+    return postalMap
+}
+
+const ensureParentDirectory = (filepath: string) => {
+    const dir = path.dirname(filepath)
+    if (!dir || dir === ".") {
+        return
+    }
+    fs.mkdirSync(dir, { recursive: true })
+}
+
 const writeCsv = async (name: string, temporaryCsvArray: Array<string>) => {
+    ensureParentDirectory(name)
     // check if file exists and delete it
     if (fs.existsSync(name)) {
         fs.unlinkSync(name)
@@ -68,6 +138,7 @@ const writeCsv = async (name: string, temporaryCsvArray: Array<string>) => {
 }
 
 const writeOrAppendCsv = async (name: string, temporaryCsvArray: Array<string>, header: string) => {
+    ensureParentDirectory(name)
     const fd = fs.openSync(name, "a")
     try {
         flockSync(fd, "ex")
@@ -85,15 +156,63 @@ const writeOrAppendCsv = async (name: string, temporaryCsvArray: Array<string>, 
 }
 
 const cleanupOutputFiles = () => {
-    if (!fs.existsSync("data")) {
-        return
-    }
+    fs.mkdirSync("data", { recursive: true })
     const files = fs.readdirSync("data")
     for (const file of files) {
         if (file.endsWith(".csv") || file.endsWith(".sql")) {
             fs.unlinkSync(`data/${file}`)
         }
     }
+}
+
+const cleanupJsonOutput = () => {
+    if (!fs.existsSync(jsonBasePath)) {
+        return
+    }
+    for (const level of jsonLevels) {
+        const dir = `${jsonBasePath}/${level}`
+        if (fs.existsSync(dir)) {
+            fs.rmSync(dir, { recursive: true, force: true })
+        }
+    }
+}
+
+const prepareJsonOutputDirectories = () => {
+    fs.mkdirSync(jsonBasePath, { recursive: true })
+    for (const level of jsonLevels) {
+        fs.mkdirSync(`${jsonBasePath}/${level}`, { recursive: true })
+    }
+}
+
+const sanitizeCodeForFilename = (code: string) => {
+    const trimmed = code?.trim() ?? ""
+    return trimmed.length ? trimmed : "0"
+}
+
+const writeJsonOutput = (levelName: string, parent: string, wilayah: Wilayah) => {
+    const dir = `${jsonBasePath}/${levelName}`
+    fs.mkdirSync(dir, { recursive: true })
+
+    const kodeBps = sanitizeCodeForFilename(wilayah.kode_bps)
+    const kodeDagri = sanitizeCodeForFilename(wilayah.kode_dagri)
+    const filename = `${dir}/${kodeBps}-${kodeDagri}.json`
+
+    const payload: Record<string, string> & { parent_kode_bps?: string } = {
+        kode_bps: wilayah.kode_bps,
+        nama_bps: wilayah.nama_bps,
+        kode_dagri: wilayah.kode_dagri,
+        nama_dagri: wilayah.nama_dagri
+    }
+
+    if (parent !== "0") {
+        payload.parent_kode_bps = parent
+    }
+
+    if (wilayah.kode_pos) {
+        payload.kode_pos = wilayah.kode_pos
+    }
+
+    fs.writeFileSync(filename, `${JSON.stringify(payload, null, 2)}\n`)
 }
 
 type LevelTree = {
@@ -161,6 +280,12 @@ const collectData = async (level: LevelTree, parent: string, periode_merge: stri
     let bar: cli.SingleBar | null = null
 
     const data = await getData(level.level_name, parent, periode_merge)
+    const postalLevel = postalLevelMap[level.level_name as typeof jsonLevels[number]]
+    let postalMap = new Map<string, string>()
+    if (postalLevel) {
+        const postalData = await getPostalData(postalLevel, parent, periode_merge)
+        postalMap = groupPostalCodes(postalData)
+    }
     if (level.level_name === "provinsi" || level.level_name === "kabupaten-kota" || level.level_name === "kecamatan") {
         bar = multibarProgress.create(data.length, 0, { processname: `${level.level_name}` })
     }
@@ -186,14 +311,21 @@ const collectData = async (level: LevelTree, parent: string, periode_merge: stri
 
         d.nama_dagri = sanitizeString(d.nama_dagri)
         d.nama_bps = sanitizeString(d.nama_bps)
+        const kodePos = postalMap.get(d.kode_bps)
+        if (kodePos) {
+            d.kode_pos = kodePos
+        }
 
         const data = duplicateBpsChecker(tmpArray, d)
 
+        writeJsonOutput(level.level_name, parent, data)
+
         // push data to array
-        tmpArray.push(`${parent != "0" ? `${parent},` : ""}${data.kode_bps},"${data.nama_bps}",${data.kode_dagri},"${data.nama_dagri}"`)
+        const csvKodePos = data.kode_pos ? `"${data.kode_pos}"` : ""
+        tmpArray.push(`${parent != "0" ? `${parent},` : ""}${data.kode_bps},"${data.nama_bps}",${data.kode_dagri},"${data.nama_dagri}",${csvKodePos}`)
         await delay(100)
     }
-    const header = `${parent != "0" ? "parent_id," : ""}kode_bps,nama_bps,kode_dagri,nama_dagri`
+    const header = `${parent != "0" ? "parent_id," : ""}kode_bps,nama_bps,kode_dagri,nama_dagri,kode_pos`
     writeOrAppendCsv(`data/${level.level_name}.csv`, tmpArray, header)
 
     bar?.stop()
@@ -244,6 +376,8 @@ const start = async () => {
     console.log("selected periode", selectedPeriode)
 
     cleanupOutputFiles()
+    cleanupJsonOutput()
+    prepareJsonOutputDirectories()
 
     await collectData(levelTree, "0", selectedPeriode.kode)
 
