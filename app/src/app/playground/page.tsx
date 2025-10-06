@@ -1,8 +1,10 @@
 "use client"
 
 import { type ChangeEvent, type FormEvent, useMemo, useState } from "react"
+import Script from "next/script"
 
 import type { LevelKey, LevelPayload } from "../api/_lib/region-service"
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../seo.config"
 
 type LevelOption = {
     value: LevelKey
@@ -56,6 +58,51 @@ const PlaygroundPage = () => {
     const selectedOption = useMemo(
         () => levelOptions.find((option) => option.value === level) ?? levelOptions[0],
         [level]
+    )
+
+    const structuredData = useMemo(
+        () => ({
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            name: SITE_NAME,
+            url: SITE_URL,
+            description: SITE_DESCRIPTION,
+            applicationCategory: "BusinessApplication",
+            operatingSystem: "Web",
+            creator: {
+                "@type": "Person",
+                name: "Ghifari",
+                url: "https://github.com/ghifar1"
+            },
+            provider: {
+                "@type": "Organization",
+                name: "Badan Pusat Statistik",
+                url: "https://bps.go.id"
+            },
+            offers: {
+                "@type": "Offer",
+                price: "0",
+                priceCurrency: "IDR"
+            },
+            potentialAction: [
+                {
+                    "@type": "SearchAction",
+                    target: `${SITE_URL}/api/provinsi?bps_id={kode_bps}`,
+                    "query-input": "required name=kode_bps"
+                },
+                {
+                    "@type": "SearchAction",
+                    target: `${SITE_URL}/api/kabupaten-kota?bps_id={kode_bps}`,
+                    "query-input": "required name=kode_bps"
+                },
+                {
+                    "@type": "SearchAction",
+                    target: `${SITE_URL}/api/kecamatan?bps_id={kode_bps}`,
+                    "query-input": "required name=kode_bps"
+                }
+            ]
+        }),
+        []
     )
 
     const handleSubmit = async (event: FormEvent<HTMLFormElement>) => {
@@ -123,26 +170,10 @@ const PlaygroundPage = () => {
     }
 
     return (
-        <main className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-slate-100">
-            {/* JSON-LD Structured Data for SEO */}
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{
-                    __html: JSON.stringify({
-                        "@context": "https://schema.org",
-                        "@type": "WebApplication",
-                        name: "Database Wilayah Indonesia API Playground",
-                        description: "Interactive API playground for Indonesian regional administrative data",
-                        applicationCategory: "DeveloperApplication",
-                        operatingSystem: "Web",
-                        offers: {
-                            "@type": "Offer",
-                            price: "0",
-                            priceCurrency: "IDR"
-                        }
-                    })
-                }}
-            />
+        <main className="flex min-h-screen flex-col bg-gradient-to-br from-slate-50 via-blue-50 to-slate-100">
+            <Script id="structured-data" type="application/ld+json">
+                {JSON.stringify(structuredData)}
+            </Script>
 
             <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
                 {/* Header Section */}
